@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xiaolong Han"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xiaolong Han"
 description              : &description "M.Sc student in the School of Software at Nanjing University of Information Science and Technology"
