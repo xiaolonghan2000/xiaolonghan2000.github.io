@@ -41,7 +41,7 @@ Zehong Wang, Qi Li, Donghua Yu, **<u>Xiaolong Han</u>**, Xiao-Zhi Gao, Shigen Sh
 
 - [**ICANN 22**] Temporal Graph Transformer for Dynamic Network\
 Zehong Wang, Qi Li, Donghua Yu, **<u>Xiaolong Han</u>**. \
-[[paper](https://doi.org/10.1007/978-3-031-15931-2_5)]
+[[paper](https://doi.org/10.1007/978-3-031-15931-2_57)]
 
 - [**Aerospace**] Prediction of willingness to pay for airline seat selection based on improved ensemble learning\
 Zehong Wang, **<u>Xiaolong Han</u>**, Yanru Chen, Xiaotong Ye, Keli Hu, Donghua Yu. \
