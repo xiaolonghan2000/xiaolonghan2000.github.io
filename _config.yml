@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xiaolong Han"
-description              : &description "M.Sc student in the School of Software at Nanjing University of Information Science and Technology"
+description              : &description "Ph.D. student in University of Surrey"
 url                      : https://xiaolonghan2000.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaolonghan2000/xiaolonghan2000.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Xiaolong Han"
   pronouns         : # example: "she/her"  
-  bio              : "M.Sc student in the School of Software at Nanjing University of Information Science and Technology (NUIST)"
-  location         : "Nanjing"
-  # employer         : "Red Brick University"
+  bio              : "Ph. D. student in University of Surrey"
+  location         : "Guildford, Surrey, UK"
+  employer         : "University of Surrey"
   uri              : # URL
-  email            : "xiaolonghan@nuist.edu.cn" 
+  email            : "xiaolong.han@surrey.ac.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

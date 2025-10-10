@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year M.Sc student (2022.09-present) in Software Engineering at Nanjing University of Information Science and Technology. I am supervised by [Prof. Yu Xue](https://faculty.nuist.edu.cn/xueyu/zh_CN/index/69265/list/index.htm). My research focuses on Deep Learning, Neural Architecture Search, and Evolutionary Computation. Under Prof. Xue' supervision, I have a close coopearation with [Prof. Ferrante Neri](https://www.surrey.ac.uk/people/ferrante-neri) and [Prof. Moncef Gabbouj](https://www.tuni.fi/en/people/moncef-gabbouj). Currently, I am engaged in Neural Architecture Search (NAS), and aim to fine-tune and lightweight Large Machine Learning Models by NAS in the future.
+I am a Ph.D. student (2025 Fall - Present) in Computer Science at [University of Surrey](https://www.surrey.ac.uk/). I am supervised by [Prof. Ferrante Neri](https://www.surrey.ac.uk/people/ferrante-neri) and [Assistant Prof. Lu Yin](https://luuyin.com/). My research focuses on Deep Learning, Weight Space Learning, Neural Architecture Search, and Evolutionary Computation. I used to have a cooperation with [Prof. Yu Xue](https://faculty.nuist.edu.cn/xueyu/zh_CN/index/69265/list/index.htm) and [Prof. Moncef Gabbouj](https://www.tuni.fi/en/people/moncef-gabbouj) on the topic of Neural Architecture Search. Currently, I am engaged in Weight Space Learning (WSL), and aim to explore it from the perspective of generation model.
 
 <!-- News
 ====== -->
