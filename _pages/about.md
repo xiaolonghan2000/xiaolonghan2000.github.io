@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student (2025 Fall - Present) in Computer Science at [University of Surrey](https://www.surrey.ac.uk/). I am supervised by [Prof. Ferrante Neri](https://www.surrey.ac.uk/people/ferrante-neri) and [Assistant Prof. Lu Yin](https://luuyin.com/). My research focuses on Deep Learning, Weight Space Learning, Neural Architecture Search, and Evolutionary Computation. Recurrently, I am engaged in Weight Space Learning (WSL), cooperated with [Zehong Wang(https://zehong-wang.github.io/)], and aim to explore it from the perspective of generation model.
+I am a Ph.D. student (2025 Fall - Present) in Computer Science at [University of Surrey](https://www.surrey.ac.uk/). I am supervised by [Prof. Ferrante Neri](https://www.surrey.ac.uk/people/ferrante-neri) and [Assistant Prof. Lu Yin](https://luuyin.com/). My research focuses on Deep Learning, Weight Space Learning, Neural Architecture Search, and Evolutionary Computation. Recurrently, I am engaged in Weight Space Learning (WSL), cooperated with [Zehong Wang](https://zehong-wang.github.io/), and aim to explore it from the perspective of generation model.
 
 <!-- News
 ====== -->
