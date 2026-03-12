@@ -21,12 +21,6 @@ redirect_from:
       I am currently most interested in weight space learning, neural architecture search, and functional representations for scientific data,
       and I actively collaborate with <a href="https://zehong-wang.github.io/">Zehong Wang</a> on related problems.
     </p>
-    <div class="interest-tags">
-      <span class="interest-tag">Deep Learning</span>
-      <span class="interest-tag">Weight Space Learning</span>
-      <span class="interest-tag">Neural Architecture Search</span>
-      <span class="interest-tag">Evolutionary Computation</span>
-    </div>
     <div class="hero-actions">
       <a href="{{ site.author.googlescholar }}">Google Scholar</a>
       <a href="https://github.com/{{ site.author.github }}">GitHub</a>
@@ -79,11 +73,6 @@ redirect_from:
             how pretrained weights can be analyzed as structured objects and reused across retrieval, editing, federated learning, neural architecture
             search, and neural function generation.
           </p>
-          <div class="project-tags">
-            <span class="project-tag">Taxonomy</span>
-            <span class="project-tag">Model Representations</span>
-            <span class="project-tag">Generative Weights</span>
-          </div>
           <p class="project-links">
             <a href="https://arxiv.org/abs/2603.10090">Paper</a>
             <a href="https://github.com/Zehong-Wang/Awesome-Weight-Space-Learning">Resources</a>
@@ -108,11 +97,6 @@ redirect_from:
             canonicalization, structured weight tokenization, and a transformer hyper-network to generate task-conditioned neural fields for
             molecular dynamics, property prediction, and related downstream tasks.
           </p>
-          <div class="project-tags">
-            <span class="project-tag">Hyper-Networks</span>
-            <span class="project-tag">Implicit Neural Fields</span>
-            <span class="project-tag">Molecular AI</span>
-          </div>
           <p class="project-links">
             <a href="https://arxiv.org/abs/2601.22327">Paper</a>
           </p>
@@ -135,11 +119,6 @@ redirect_from:
             SaDENAS revisits continuous evolutionary NAS through self-adaptive differential evolution. It balances local exploitation and global
             exploration in architecture-encoding space to reduce premature convergence and the small-model trap that can dominate supernet-based search.
           </p>
-          <div class="project-tags">
-            <span class="project-tag">Differential Evolution</span>
-            <span class="project-tag">Continuous ENAS</span>
-            <span class="project-tag">Search Stability</span>
-          </div>
           <p class="project-links">
             <a href="https://doi.org/10.1016/j.swevo.2024.101736">Paper</a>
           </p>
@@ -162,11 +141,6 @@ redirect_from:
             GENAS combines evolutionary search with gradient-guided local refinement in a weight-sharing supernet. The method keeps the exploration
             strength of evolutionary NAS while using efficient local updates to improve candidate architectures without retraining every subnet from scratch.
           </p>
-          <div class="project-tags">
-            <span class="project-tag">Weight Sharing</span>
-            <span class="project-tag">Evolutionary NAS</span>
-            <span class="project-tag">Local Search</span>
-          </div>
           <p class="project-links">
             <a href="https://doi.org/10.1109/TNNLS.2024.3371432">Paper</a>
           </p>
@@ -189,11 +163,6 @@ redirect_from:
             SWD-NAS stabilizes differentiable neural architecture search with a dual-attention mechanism that reweights candidate operations more
             reliably than vanilla architecture parameters, reducing the bias and collapse behaviors often observed in DARTS-style search.
           </p>
-          <div class="project-tags">
-            <span class="project-tag">DARTS</span>
-            <span class="project-tag">Dual Attention</span>
-            <span class="project-tag">Architecture Weights</span>
-          </div>
           <p class="project-links">
             <a href="https://doi.org/10.1109/TII.2023.3348843">Paper</a>
           </p>
