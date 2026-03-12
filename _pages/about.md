@@ -21,23 +21,9 @@ redirect_from:
       I am currently most interested in weight space learning, neural architecture search, and functional representations for scientific data,
       and I actively collaborate with <a href="https://zehong-wang.github.io/">Zehong Wang</a> on related problems.
     </p>
-    <div class="hero-actions">
-      <a href="{{ site.author.googlescholar }}">Google Scholar</a>
-      <a href="https://github.com/{{ site.author.github }}">GitHub</a>
-    </div>
   </section>
 
   <section class="home-section">
-    <div class="section-header">
-      <div>
-        <p class="section-kicker">Research Direction</p>
-        <h2>Focus</h2>
-      </div>
-      <p class="section-blurb">
-        I study learning systems from the parameter level, with recent projects spanning model search, weight-space modeling,
-        and function-space generation for scientific applications.
-      </p>
-    </div>
     <div class="info-card">
       <p>
         My recent work asks three connected questions: how to search neural architectures more reliably, how to organize model weights into
@@ -50,7 +36,6 @@ redirect_from:
   <section class="home-section">
     <div class="section-header">
       <div>
-        <p class="section-kicker">Selected Research</p>
         <h2>Featured Projects</h2>
       </div>
     </div>
