@@ -1,0 +1,2633 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 wsl-survey.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.11431in" height="3.26499in"
+		viewBox="0 0 584.23 235.079" xml:space="preserve" color-interpolation-filters="sRGB" class="st50">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="visTLShowProps" v:prompt="" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#dac9b8;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st2 {fill:#ffffff;stroke:#d7d7ea;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st3 {fill:#eeeef6;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#8c5e2d;font-family:Times New Roman;font-size:1.24999em;font-weight:bold}
+		.st6 {fill:#ffffff;stroke:#cee2f2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st7 {fill:#1f5089;font-family:Times New Roman;font-size:1.24999em;font-weight:bold}
+		.st8 {fill:#ecf4fb;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st9 {fill:#1f5089;font-family:Times New Roman;font-size:1.00001em;font-weight:bold}
+		.st10 {font-size:1em}
+		.st11 {fill:#ffffff;stroke:#f9e9f1;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st12 {fill:#ec88d0;font-family:Times New Roman;font-size:1.16666em;font-weight:bold}
+		.st13 {fill:#303484;font-family:Times New Roman;font-size:1.00001em;font-weight:bold}
+		.st14 {fill:#ffffff;stroke:#bdd9dd;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st15 {fill:#dcebed;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st16 {fill:#23594b;font-family:Times New Roman;font-size:1.16666em;font-weight:bold}
+		.st17 {fill:#23594b;font-family:Times New Roman;font-size:0.666664em}
+		.st18 {fill:#ffffff}
+		.st19 {stroke:#23594b;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st20 {fill:#ffffff;stroke:#23594b;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st21 {fill:#23594b}
+		.st22 {fill:#fef8f6;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st23 {fill:#8c5e2d;font-family:Times New Roman;font-size:1.00001em;font-weight:bold}
+		.st24 {fill:#23594b;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st25 {fill:none;stroke:none;stroke-linecap:butt;stroke-width:0.5}
+		.st26 {fill:none;stroke:#23594b;stroke-linecap:butt;stroke-width:0.5}
+		.st27 {fill:#f9e9f1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st28 {fill:#ec88d0;font-family:Times New Roman;font-size:0.666664em}
+		.st29 {fill:none;stroke:#ec88d0;stroke-linecap:butt;stroke-width:0.5}
+		.st30 {fill:#ec88d0;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st31 {fill:#303484;font-family:Times New Roman;font-size:1.24999em;font-weight:bold}
+		.st32 {fill:#8c5e2d;font-family:Times New Roman;font-size:0.833336em}
+		.st33 {fill:#ffffff;stroke:#8c5e2d;stroke-linecap:butt;stroke-width:0.5}
+		.st34 {fill:#8c5e2d;stroke:#8c5e2d;stroke-linecap:butt;stroke-width:0.75}
+		.st35 {fill:#ffffff;stroke:#1f5089;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st36 {stroke:#1f5089;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st37 {fill:#1f5089;font-family:Times New Roman;font-size:0.833336em}
+		.st38 {fill:#1f5089;stroke:#1f5089;stroke-linecap:butt;stroke-width:0.5}
+		.st39 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st40 {fill:#1f5089;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st41 {fill:#303484;font-family:Times New Roman;font-size:0.833336em}
+		.st42 {fill:#303484;stroke:#303484;stroke-linecap:butt;stroke-width:0.75}
+		.st43 {fill:none;stroke:#303484;stroke-linecap:butt;stroke-width:0.5}
+		.st44 {fill:#303484;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st45 {fill:#303484}
+		.st46 {stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st47 {stroke:#303484;stroke-linecap:butt;stroke-width:0.75}
+		.st48 {fill:#8c5e2d;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st49 {fill:none;stroke:#8c5e2d;stroke-linecap:butt;stroke-width:0.5}
+		.st50 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="流程图" v:index="0" v:glue="false"/>
+		<v:layer v:name="连接线" v:index="1" v:glue="false"/>
+		<g id="shape1000-1" v:mID="1000" v:groupContext="shape" transform="translate(542.878,1.745) rotate(90)">
+			<title>圆角矩形.1046</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15746138553764):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15746138553764):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15746138553764):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15746138553764):1"/>
+			</v:userDefs>
+			<path d="M11.34 235.08 L102.03 235.08 A11.337 11.337 -180 0 0 113.37 223.74 L113.37 -17.21 A11.337 11.337 -180 0 0 102.03
+						 -28.54 L11.34 -28.54 A11.337 11.337 -180 0 0 0 -17.21 L0 223.74 A11.337 11.337 -180 0 0 11.34 235.08 Z"
+					class="st1"/>
+		</g>
+		<g id="shape1001-3" v:mID="1001" v:groupContext="shape" transform="translate(246.466,120.322) rotate(90)">
+			<title>圆角矩形.1047</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15763069881564):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15763069881564):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15763069881564):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15763069881564):1"/>
+			</v:userDefs>
+			<path d="M11.35 235.08 L102.14 235.08 A11.3492 11.3492 -180 0 0 113.49 223.73 L113.49 -69.83 A11.3492 11.3492 -180 0
+						 0 102.14 -81.18 L11.35 -81.18 A11.3492 11.3492 -180 0 0 0 -69.83 L0 223.73 A11.3492 11.3492 -180 0 0 11.35
+						 235.08 Z" class="st2"/>
+		</g>
+		<g id="shape1002-5" v:mID="1002" v:groupContext="shape" transform="translate(90.4705,228.108) rotate(-90)">
+			<title>圆角矩形.1005</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.13590386048912):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.13590386048912):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.13590386048912):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.13590386048912):1"/>
+			</v:userDefs>
+			<path d="M9.79 235.08 L91.68 235.08 A9.78492 9.78492 -180 0 0 101.46 225.29 L101.46 150.58 A9.78492 9.78492 -180 0 0
+						 91.68 140.79 L9.79 140.79 A9.78492 9.78492 -180 0 0 0 150.58 L0 225.29 A9.78492 9.78492 -180 0 0 9.79 235.08
+						 Z" class="st3"/>
+		</g>
+		<g id="shape1005-7" v:mID="1005" v:groupContext="shape" transform="translate(305.646,-206.358)">
+			<title>工作表.1005</title>
+			<desc>Weight Space Representation (WSR)</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="124.301" cy="220.906" width="248.61" height="28.3465"/>
+			<rect x="0" y="206.733" width="248.602" height="28.3465" class="st4"/>
+			<text x="5.77" y="225.41" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Weight Space Representation (WSR)</text>		</g>
+		<g id="shape1006-10" v:mID="1006" v:groupContext="shape" transform="translate(246.466,1.26656) rotate(90)">
+			<title>圆角矩形.1055</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15763069881564):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15763069881564):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15763069881564):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15763069881564):1"/>
+			</v:userDefs>
+			<path d="M11.35 235.08 L102.14 235.08 A11.3492 11.3492 -180 0 0 113.49 223.73 L113.49 -46.87 A11.3492 11.3492 -180 0
+						 0 102.14 -58.22 L11.35 -58.22 A11.3492 11.3492 -180 0 0 0 -46.87 L0 223.73 A11.3492 11.3492 -180 0 0 11.35
+						 235.08 Z" class="st6"/>
+		</g>
+		<g id="shape1009-12" v:mID="1009" v:groupContext="shape" transform="translate(22.2709,-206.358)">
+			<title>工作表.1009</title>
+			<desc>Weight Space Understanding (WSU)</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="129.076" cy="220.906" width="258.16" height="28.3465"/>
+			<rect x="0" y="206.733" width="258.152" height="28.3465" class="st4"/>
+			<text x="11.36" y="225.41" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Weight Space Understanding (WSU)</text>		</g>
+		<g id="shape1011-15" v:mID="1011" v:groupContext="shape" transform="translate(122.13,-124.47)">
+			<title>圆角矩形.1011</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14115527503027):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14115527503027):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14115527503027):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14115527503027):1"/>
+			</v:userDefs>
+			<path d="M10.16 235.08 L168.42 235.08 A10.163 10.163 -180 0 0 178.58 224.92 L178.58 160.78 A10.163 10.163 -180 0 0 168.42
+						 150.62 L10.16 150.62 A10.163 10.163 -180 0 0 -0 160.78 L0 224.92 A10.163 10.163 -180 0 0 10.16 235.08 Z"
+					class="st8"/>
+		</g>
+		<g id="shape1012-17" v:mID="1012" v:groupContext="shape" transform="translate(132.405,-178.011)">
+			<title>工作表.1012</title>
+			<desc>Technique-Level Use Cases</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="79.0157" cy="218.441" width="158.04" height="33.277"/>
+			<rect x="0" y="201.802" width="158.031" height="33.277" class="st4"/>
+			<text x="9.02" y="222.04" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Technique-Level <tspan
+						class="st10" v:langID="2052">Use Cases</tspan></text>		</g>
+		<g id="shape1019-21" v:mID="1019" v:groupContext="shape" transform="translate(480.145,-1.125)">
+			<title>圆角矩形.1060</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.12677174069732):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.12677174069732):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.12677174069732):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.12677174069732):1"/>
+			</v:userDefs>
+			<path d="M9.13 235.08 L82.15 235.08 A9.12742 9.12742 -180 0 0 91.28 225.95 L91.28 130.71 A9.12742 9.12742 -180 0 0 82.15
+						 121.59 L9.13 121.59 A9.12742 9.12742 -180 0 0 0 130.71 L0 225.95 A9.12742 9.12742 -180 0 0 9.13 235.08 Z"
+					class="st11"/>
+		</g>
+		<g id="shape1022-23" v:mID="1022" v:groupContext="shape" transform="translate(483.212,-84.1475)">
+			<title>工作表.1022</title>
+			<desc>Benchmarks</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="43.4229" cy="220.906" width="86.85" height="28.3465"/>
+			<rect x="0" y="206.733" width="86.8458" height="28.3465" class="st4"/>
+			<text x="5.7" y="225.11" class="st12" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Benchmarks</text>		</g>
+		<g id="shape1024-26" v:mID="1024" v:groupContext="shape" transform="translate(15.1168,-124.47)">
+			<title>圆角矩形.1024</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14744769884352):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14744769884352):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14744769884352):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14744769884352):1"/>
+			</v:userDefs>
+			<path d="M10.62 235.08 L95.55 235.08 A10.6161 10.6161 -180 0 0 106.16 224.46 L106.16 161.23 A10.6161 10.6161 -180 0 0
+						 95.55 150.62 L10.62 150.62 A10.6161 10.6161 -180 0 0 0 161.23 L0 224.46 A10.6161 10.6161 -180 0 0 10.62
+						 235.08 Z" class="st8"/>
+		</g>
+		<g id="shape1025-28" v:mID="1025" v:groupContext="shape" transform="translate(13.3249,-178.381)">
+			<title>工作表.1025</title>
+			<desc>Structural Foundations</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="54.8731" cy="220.906" width="109.75" height="28.3465"/>
+			<rect x="0" y="206.733" width="109.746" height="28.3465" class="st4"/>
+			<text x="28.21" y="217.31" class="st9" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Structural<v:newlineChar/><tspan
+						x="22.86" dy="1.2em" class="st10">Foundations</tspan></text>		</g>
+		<g id="shape1048-32" v:mID="1048" v:groupContext="shape" transform="translate(13.6913,-6.97084)">
+			<title>圆角矩形.1048</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.13840402210862):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.13840402210862):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.13840402210862):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.13840402210862):1"/>
+			</v:userDefs>
+			<path d="M9.97 235.08 L89.69 235.08 A9.96493 9.96493 -180 0 0 99.65 225.11 L99.65 163.3 A9.96493 9.96493 -180 0 0 89.69
+						 153.33 L9.97 153.33 A9.96493 9.96493 -180 0 0 0 163.3 L0 225.11 A9.96493 9.96493 -180 0 0 9.97 235.08 Z"
+					class="st3"/>
+		</g>
+		<g id="shape1049-34" v:mID="1049" v:groupContext="shape" transform="translate(0.375,-58.8446)">
+			<title>工作表.1049</title>
+			<desc>Generation Approaches</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.1417" cy="221.134" width="126.29" height="27.8912"/>
+			<rect x="0" y="207.188" width="126.283" height="27.8912" class="st4"/>
+			<text x="34.15" y="217.53" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Generation <tspan
+						x="32.47" dy="1.2em" class="st10">Approaches</tspan></text>		</g>
+		<g id="shape1051-38" v:mID="1051" v:groupContext="shape" transform="translate(114.334,-6.97081)">
+			<title>圆角矩形.1051</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.11213789717154):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.11213789717154):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.11213789717154):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.11213789717154):1"/>
+			</v:userDefs>
+			<path d="M8.07 235.08 L166.77 235.08 A8.0738 8.0738 -180 0 0 174.85 227.01 L174.85 161.4 A8.0738 8.0738 -180 0 0 166.77
+						 153.33 L8.07 153.33 A8.0738 8.0738 -180 0 0 0 161.4 L0 227.01 A8.0738 8.0738 -180 0 0 8.07 235.08 Z"
+					class="st3"/>
+		</g>
+		<g id="shape1052-40" v:mID="1052" v:groupContext="shape" transform="translate(109.374,-58.9563)">
+			<title>工作表.1052</title>
+			<desc>Technique-Level Use Cases</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="62.1609" cy="220.906" width="124.33" height="28.3465"/>
+			<rect x="0" y="206.733" width="124.322" height="28.3465" class="st4"/>
+			<text x="19.16" y="217.31" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Technique-Level<v:newlineChar/><tspan
+						x="36.66" dy="1.2em" class="st10">Use Cases</tspan></text>		</g>
+		<g id="shape1083-44" v:mID="1083" v:groupContext="shape" transform="translate(331.893,-1.23328)">
+			<title>圆角矩形.1059</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.20039366405611):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.20039366405611):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.20039366405611):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.20039366405611):1"/>
+			</v:userDefs>
+			<path d="M14.43 235.08 L129.86 235.08 A14.4281 14.4281 -180 0 0 144.28 220.65 L144.28 136.01 A14.4281 14.4281 -180 0
+						 0 129.86 121.59 L14.43 121.59 A14.4281 14.4281 -180 0 0 -0 136.01 L0 220.65 A14.4281 14.4281 -180 0 0 14.43
+						 235.08 Z" class="st14"/>
+		</g>
+		<g id="shape1084-46" v:mID="1084" v:groupContext="shape" transform="translate(428.978,-6.05306)">
+			<title>圆角矩形.1678</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+			</v:userDefs>
+			<path d="M4.44 235.08 L40 235.08 A4.44465 4.44465 -180 0 0 44.45 230.63 L44.45 196.99 A4.44465 4.44465 -180 0 0 40 192.55
+						 L4.44 192.55 A4.44465 4.44465 -180 0 0 0 196.99 L0 230.63 A4.44465 4.44465 -180 0 0 4.44 235.08 Z"
+					class="st15"/>
+		</g>
+		<g id="shape1085-48" v:mID="1085" v:groupContext="shape" transform="translate(381.851,-6.18887)">
+			<title>圆角矩形.1677</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+			</v:userDefs>
+			<path d="M4.44 235.08 L40 235.08 A4.44465 4.44465 -180 0 0 44.45 230.63 L44.45 196.99 A4.44465 4.44465 -180 0 0 40 192.55
+						 L4.44 192.55 A4.44465 4.44465 -180 0 0 0 196.99 L0 230.63 A4.44465 4.44465 -180 0 0 4.44 235.08 Z"
+					class="st15"/>
+		</g>
+		<g id="shape1086-50" v:mID="1086" v:groupContext="shape" transform="translate(381.953,-50.4385)">
+			<title>圆角矩形.1086</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+			</v:userDefs>
+			<path d="M4.44 235.08 L40 235.08 A4.44465 4.44465 -180 0 0 44.45 230.63 L44.45 196.99 A4.44465 4.44465 -180 0 0 40 192.55
+						 L4.44 192.55 A4.44465 4.44465 -180 0 0 0 196.99 L0 230.63 A4.44465 4.44465 -180 0 0 4.44 235.08 Z"
+					class="st15"/>
+		</g>
+		<g id="shape1091-52" v:mID="1091" v:groupContext="shape" transform="translate(334.928,-50.4385)">
+			<title>圆角矩形.1091</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+			</v:userDefs>
+			<path d="M4.44 235.08 L40 235.08 A4.44465 4.44465 -180 0 0 44.45 230.63 L44.45 196.99 A4.44465 4.44465 -180 0 0 40 192.55
+						 L4.44 192.55 A4.44465 4.44465 -180 0 0 0 196.99 L0 230.63 A4.44465 4.44465 -180 0 0 4.44 235.08 Z"
+					class="st15"/>
+		</g>
+		<g id="shape1096-54" v:mID="1096" v:groupContext="shape" transform="translate(334.928,-6.18887)">
+			<title>圆角矩形.1096</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+			</v:userDefs>
+			<path d="M4.44 235.08 L40 235.08 A4.44465 4.44465 -180 0 0 44.45 230.63 L44.45 196.99 A4.44465 4.44465 -180 0 0 40 192.55
+						 L4.44 192.55 A4.44465 4.44465 -180 0 0 0 196.99 L0 230.63 A4.44465 4.44465 -180 0 0 4.44 235.08 Z"
+					class="st15"/>
+		</g>
+		<g id="shape1252-56" v:mID="1252" v:groupContext="shape" transform="translate(428.978,-50.4385)">
+			<title>圆角矩形.1672</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.061732267935081):1"/>
+			</v:userDefs>
+			<path d="M4.44 235.08 L40 235.08 A4.44465 4.44465 -180 0 0 44.45 230.63 L44.45 196.99 A4.44465 4.44465 -180 0 0 40 192.55
+						 L4.44 192.55 A4.44465 4.44465 -180 0 0 0 196.99 L0 230.63 A4.44465 4.44465 -180 0 0 4.44 235.08 Z"
+					class="st15"/>
+		</g>
+		<g id="group1087-58" transform="translate(268.664,-73.1295)" v:mID="1087" v:groupContext="group">
+			<title>工作表.1087</title>
+			<g id="shape1089-59" v:mID="1089" v:groupContext="shape" transform="translate(0,-15.5906)">
+				<title>工作表.1089</title>
+				<desc>Applications</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="136.161" cy="220.906" width="272.33" height="28.3465"/>
+				<rect x="0" y="206.733" width="272.321" height="28.3465" class="st4"/>
+				<text x="98.43" y="225.11" class="st16" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Applications</text>			</g>
+		</g>
+		<g id="shape1093-62" v:mID="1093" v:groupContext="shape" transform="translate(333.766,-54.213)">
+			<title>工作表.1093</title>
+			<desc>INR</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.3858" cy="230.707" width="46.78" height="8.74427"/>
+			<rect x="0" y="226.335" width="46.7717" height="8.74427" class="st4"/>
+			<text x="16.5" y="233.11" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>INR</text>		</g>
+		<g id="shape1098-65" v:mID="1098" v:groupContext="shape" transform="translate(333.766,-10.7673)">
+			<title>工作表.1098</title>
+			<desc>Meta Learning</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.3858" cy="230.707" width="46.78" height="8.74427"/>
+			<rect x="0" y="226.335" width="46.7717" height="8.74427" class="st4"/>
+			<text x="15.17" y="228.31" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Meta <tspan x="8.95"
+						dy="1.2em" class="st10">Learning</tspan></text>		</g>
+		<g id="group1099-69" transform="translate(343.857,-21.5676)" v:mID="1099" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
+			</v:userDefs>
+			<title>审核.1436</title>
+			<g id="shape1100-70" v:mID="1100" v:groupContext="shape" v:layerMember="0" transform="translate(0,-5.78923)">
+				<title>工作表.1100</title>
+				<path d="M12.45 223.42 A8.6949 8.6949 25.97 0 1 12.45 223.84 A5.80294 5.80294 88.81 0 1 17.88 224.03 L19.44 221.22
+							 L17.79 220.26 C17.8 220.13 17.81 220 17.81 219.87 C17.81 219.74 17.8 219.61 17.79 219.48 L19.44 218.52
+							 L17.88 215.82 L16.23 216.78 C16.02 216.62 15.79 216.49 15.55 216.38 L15.55 214.48 L12.43 214.48 L12.43
+							 216.38 C12.19 216.49 11.96 216.62 11.75 216.78 L10.1 215.82 L8.54 218.52 L10.19 219.48 C10.18 219.61
+							 10.17 219.74 10.17 219.87 C10.17 220 10.18 220.13 10.19 220.26 L8.54 221.22 L10.1 223.92 L11.75 222.96
+							 A2.18953 2.18953 -180 0 0 12.45 223.42 ZM13.99 221.39 C13.15 221.39 12.47 220.71 12.47 219.87 C12.47
+							 219.03 13.15 218.35 13.99 218.35 C14.82 218.35 15.5 219.03 15.5 219.87 C15.5 220.71 14.82 221.39 13.99
+							 221.39 ZM11.56 224.34 L11.21 223.82 L9.17 224.96 C8.91 224.78 8.64 224.62 8.35 224.49 L8.35 222.22 L4.64
+							 222.22 L4.64 224.49 C4.35 224.62 4.08 224.78 3.83 224.96 L1.86 223.83 L0 227.04 L1.97 228.18 C1.95 228.33
+							 1.94 228.49 1.94 228.65 C1.94 228.81 1.95 228.96 1.97 229.12 L0 230.26 L1.86 233.47 L3.83 232.34 C4.08
+							 232.52 4.35 232.68 4.64 232.81 L4.64 235.08 L8.35 235.08 L8.35 232.81 C8.64 232.68 8.91 232.52 9.17
+							 232.34 L11.17 233.42 A5.79897 5.79897 84.39 0 1 11.56 224.34 L11.56 224.34 ZM6.5 230.53 C5.46 230.53
+							 4.62 229.69 4.62 228.66 C4.62 227.62 5.46 226.78 6.5 226.78 C7.53 226.78 8.37 227.62 8.37 228.66 C8.37
+							 229.69 7.53 230.53 6.5 230.53 ZM17.73 225.51 A4.48388 4.48388 -180 0 0 11.97 232.37 L14.12 231.4 L12.85
+							 228.56 L14.23 227.05 L16.98 227.92 L17.73 225.51 Z" class="st18"/>
+				<path d="M12.45 223.42 A8.6949 8.6949 25.97 0 1 12.45 223.84 A5.80294 5.80294 88.81 0 1 17.88 224.03 L19.44 221.22
+							 L17.79 220.26 C17.8 220.13 17.81 220 17.81 219.87 C17.81 219.74 17.8 219.61 17.79 219.48 L19.44 218.52
+							 L17.88 215.82 L16.23 216.78 C16.02 216.62 15.79 216.49 15.55 216.38 L15.55 214.48 L12.43 214.48 L12.43
+							 216.38 C12.19 216.49 11.96 216.62 11.75 216.78 L10.1 215.82 L8.54 218.52 L10.19 219.48 C10.18 219.61
+							 10.17 219.74 10.17 219.87 C10.17 220 10.18 220.13 10.19 220.26 L8.54 221.22 L10.1 223.92 L11.75 222.96
+							 A2.18953 2.18953 -180 0 0 12.45 223.42M13.99 221.39 C13.15 221.39 12.47 220.71 12.47 219.87 C12.47 219.03
+							 13.15 218.35 13.99 218.35 C14.82 218.35 15.5 219.03 15.5 219.87 C15.5 220.71 14.82 221.39 13.99 221.39M11.56
+							 224.34 L11.21 223.82 L9.17 224.96 C8.91 224.78 8.64 224.62 8.35 224.49 L8.35 222.22 L4.64 222.22 L4.64
+							 224.49 C4.35 224.62 4.08 224.78 3.83 224.96 L1.86 223.83 L0 227.04 L1.97 228.18 C1.95 228.33 1.94 228.49
+							 1.94 228.65 C1.94 228.81 1.95 228.96 1.97 229.12 L0 230.26 L1.86 233.47 L3.83 232.34 C4.08 232.52 4.35
+							 232.68 4.64 232.81 L4.64 235.08 L8.35 235.08 L8.35 232.81 C8.64 232.68 8.91 232.52 9.17 232.34 L11.17
+							 233.42 A5.79897 5.79897 84.39 0 1 11.56 224.34M6.5 230.53 C5.46 230.53 4.62 229.69 4.62 228.66 C4.62
+							 227.62 5.46 226.78 6.5 226.78 C7.53 226.78 8.37 227.62 8.37 228.66 C8.37 229.69 7.53 230.53 6.5 230.53M17.73
+							 225.51 A4.48388 4.48388 -180 0 0 11.97 232.37 L14.12 231.4 L12.85 228.56 L14.23 227.05 L16.98 227.92
+							 L17.73 225.51" class="st19"/>
+			</g>
+			<g id="shape1101-73" v:mID="1101" v:groupContext="shape" v:layerMember="0" transform="translate(9.16923,-0.196711)">
+				<title>工作表.1101</title>
+				<path d="M7.17 229.06 L11.41 224.82 C11.52 224.38 11.58 223.92 11.58 223.44 C11.58 220.24 8.98 217.65 5.79 217.65
+							 C2.59 217.65 0 220.24 0 223.44 C0 226.63 2.59 229.23 5.79 229.23 C6.27 229.23 6.73 229.17 7.17 229.06
+							 ZM8.96 226.61 C7.21 228.36 4.37 228.36 2.62 226.61 C0.87 224.86 0.87 222.02 2.62 220.27 C4.37 218.52
+							 7.21 218.52 8.96 220.27 C10.71 222.02 10.71 224.86 8.96 226.61 ZM11.41 224.82 L7.15 229.08 C7.78 229.72
+							 8.04 230.2 9.09 229.14 C10.67 227.56 9.5 228.9 10.09 229.5 C14.96 234.43 15.89 235.9 17.13 234.66 L17.13
+							 234.66 C17.13 234.66 17.13 234.66 17.13 234.66 C17.13 234.66 17.13 234.66 17.13 234.66 C18.14 233.65
+							 16.51 232.42 11.86 227.74 C11.26 227.14 9.91 228.31 11.49 226.74 C12.55 225.69 12.07 225.43 11.44 224.8
+							 L11.41 224.82 Z" class="st20"/>
+			</g>
+		</g>
+		<g id="shape1102-75" v:mID="1102" v:groupContext="shape" transform="translate(427.816,-9.8292)">
+			<title>工作表.1102</title>
+			<desc>NAS</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.3858" cy="230.707" width="46.78" height="8.74427"/>
+			<rect x="0" y="226.335" width="46.7717" height="8.74427" class="st4"/>
+			<text x="15.38" y="233.11" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>NAS</text>		</g>
+		<g id="group1103-78" transform="translate(439.555,-19.8864)" v:mID="1103" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
+			</v:userDefs>
+			<title>分析.1462</title>
+			<g id="shape1104-79" v:mID="1104" v:groupContext="shape" v:layerMember="0" transform="translate(0,-8.72183)">
+				<title>工作表.1104</title>
+				<path d="M13 219.52 L9.77 216.07 L0 216.07 L0 234.17 L7.47 234.17 L8.5 235.08 L14.31 235.08 L14.31 227.84 L13.01
+							 227.12 L13 219.52 Z" class="st20"/>
+			</g>
+			<g id="shape1105-81" v:mID="1105" v:groupContext="shape" v:layerMember="0" transform="translate(2.41666,-12.4558)">
+				<title>工作表.1105</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<path d="M7.26 219.92 L10.39 223.26 L7.26 223.26 L7.26 219.92 ZM0 223.47 L3.23 223.47 L3.23 223.09 L0 223.09 L-0
+							 223.47 ZM0 225.63 L3.23 225.63 L3.23 225.26 L0 225.26 L-0 225.63 ZM0 227.8 L8.17 227.8 L8.17 227.42
+							 L0 227.42 L-0 227.8 ZM0 229.96 L8.17 229.96 L8.17 229.58 L0 229.58 L-0 229.96 ZM0 232.12 L8.17 232.12
+							 L8.17 231.74 L0 231.74 L-0 232.12 ZM4.94 234.25 L5.3 234.25 L5.3 233.88 L4.94 233.88 L4.94 234.25 L4.94
+							 234.25 ZM6.23 235.08 L9.56 235.08 L9.56 234.47 L6.23 234.47 L6.23 235.08 Z" class="st21"/>
+			</g>
+			<g id="shape1106-84" v:mID="1106" v:groupContext="shape" v:layerMember="0" transform="translate(7.31333,-1.13687E-13)">
+				<title>工作表.1106</title>
+				<path d="M6.58 229.31 L10.47 225.25 C10.57 224.83 10.62 224.38 10.62 223.92 C10.62 220.86 8.24 218.38 5.31 218.38
+							 C2.38 218.38 0 220.86 0 223.92 C0 226.99 2.38 229.47 5.31 229.47 C5.75 229.47 6.17 229.41 6.58 229.31
+							 ZM8.22 226.96 C6.61 228.64 4.01 228.64 2.4 226.96 C0.8 225.29 0.8 222.56 2.4 220.89 C4 219.21 6.61 219.21
+							 8.22 220.89 C9.82 222.56 9.82 225.29 8.22 226.96 ZM10.47 225.25 L6.56 229.34 C7.14 229.94 7.38 230.41
+							 8.34 229.39 C9.78 227.87 8.72 229.16 9.26 229.74 C13.72 234.46 14.58 235.87 15.71 234.68 L15.71 234.68
+							 C15.71 234.68 15.71 234.68 15.72 234.68 C15.72 234.68 15.72 234.67 15.72 234.67 C16.65 233.71 15.15
+							 232.53 10.88 228.05 C10.33 227.47 9.09 228.6 10.54 227.09 C11.52 226.08 11.07 225.83 10.49 225.23 L10.47
+							 225.25 Z" class="st20"/>
+			</g>
+		</g>
+		<g id="shape1109-86" v:mID="1109" v:groupContext="shape" transform="translate(380.791,-55.8813)">
+			<title>工作表.1109</title>
+			<desc>Model Unification</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.3858" cy="230.707" width="46.78" height="8.74427"/>
+			<rect x="0" y="226.335" width="46.7717" height="8.74427" class="st4"/>
+			<text x="12.94" y="228.31" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Model<v:newlineChar/><tspan
+						x="5.17" dy="1.2em" class="st10">Unification</tspan></text>		</g>
+		<g id="shape1119-90" v:mID="1119" v:groupContext="shape" transform="translate(419.059,-124.73)">
+			<title>圆角矩形.1119</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.11771929692847):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.11771929692847):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.11771929692847):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.11771929692847):1"/>
+			</v:userDefs>
+			<path d="M8.48 235.08 L143.18 235.08 A8.47565 8.47565 -180 0 0 151.65 226.6 L151.65 159.09 A8.47565 8.47565 -180 0 0
+						 143.18 150.62 L8.48 150.62 A8.47565 8.47565 -180 0 0 0 159.09 L0 226.6 A8.47565 8.47565 -180 0 0 8.48 235.08
+						 Z" class="st22"/>
+		</g>
+		<g id="shape1120-92" v:mID="1120" v:groupContext="shape" transform="translate(428.505,-178.381)">
+			<title>工作表.1120</title>
+			<desc>Technique-Level Use Cases</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="66.3803" cy="220.906" width="132.77" height="28.3465"/>
+			<rect x="0" y="206.733" width="132.761" height="28.3465" class="st4"/>
+			<text x="23.38" y="217.31" class="st23" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Technique-Level<v:newlineChar/><tspan
+						x="40.88" dy="1.2em" class="st10">Use Cases</tspan></text>		</g>
+		<g id="shape1145-96" v:mID="1145" v:groupContext="shape" transform="translate(312.243,-124.47)">
+			<title>圆角矩形.1145</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.11082922426729):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.11082922426729):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.11082922426729):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.11082922426729):1"/>
+			</v:userDefs>
+			<path d="M7.98 235.08 L97.42 235.08 A7.97957 7.97957 -180 0 0 105.4 227.1 L105.4 158.6 A7.97957 7.97957 -180 0 0 97.42
+						 150.62 L7.98 150.62 A7.97957 7.97957 -180 0 0 0 158.6 L0 227.1 A7.97957 7.97957 -180 0 0 7.98 235.08 Z"
+					class="st22"/>
+		</g>
+		<g id="shape1146-98" v:mID="1146" v:groupContext="shape" transform="translate(292.659,-175.915)">
+			<title>工作表.1146</title>
+			<desc>Representation Approaches</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="72.2835" cy="218.441" width="144.57" height="33.277"/>
+			<rect x="0" y="201.802" width="144.567" height="33.277" class="st4"/>
+			<text x="33.29" y="214.84" class="st23" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Representation<v:newlineChar/><tspan
+						x="41.62" dy="1.2em" class="st10">Approaches</tspan></text>		</g>
+		<g id="group1168-102" transform="translate(231.877,-134.719)" v:mID="1168" v:groupContext="group">
+			<title>工作表.1168</title>
+		</g>
+		<g id="group1180-103" transform="translate(392.196,-23.0975)" v:mID="1180" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+			</v:userDefs>
+			<title>HDFS 群集.1570</title>
+			<g id="group1181-104" v:mID="1181" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>工作表.1181</title>
+				<g id="shape1182-105" v:mID="1182" v:groupContext="shape" transform="translate(7.29769,-15.2783)">
+					<title>工作表.1182</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M4.74 230.44 L0 234.29 L0.64 235.08 L5.38 231.23 L4.74 230.44 Z" class="st24"/>
+				</g>
+				<g id="shape1183-107" v:mID="1183" v:groupContext="shape" transform="translate(7.29466,-3.84523)">
+					<title>工作表.1183</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M0.64 230.44 L0 231.23 L4.74 235.08 L5.38 234.29 L0.64 230.44 Z" class="st24"/>
+				</g>
+				<g id="shape1184-109" v:mID="1184" v:groupContext="shape" transform="translate(7.93157,-7.13543)">
+					<title>工作表.1184</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M0.32 230.49 L0 231.45 L10.9 235.08 L11.22 234.12 L0.32 230.49 Z" class="st24"/>
+				</g>
+				<g id="shape1185-111" v:mID="1185" v:groupContext="shape" transform="translate(7.97908,-12.0472)">
+					<title>工作表.1185</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M10.92 230.44 L0 234.12 L0.32 235.08 L11.24 231.4 L10.92 230.44 Z" class="st24"/>
+				</g>
+				<g id="shape1186-113" v:mID="1186" v:groupContext="shape" transform="translate(13.3544,-9.69976)">
+					<title>工作表.1186</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M0.83 225.51 L0 226.08 L6.16 235.08 L6.99 234.51 L0.83 225.51 Z" class="st24"/>
+				</g>
+				<g id="shape1187-115" v:mID="1187" v:groupContext="shape" transform="translate(16.3221,-17.6414)">
+					<title>工作表.1187</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M4.4 235.08 C2.7 233.74 0.03 231.79 0 231.77 L0.61 230.95 C0.64 230.95 3.33 232.94 5.04 234.29 L4.4
+								 235.08 Z" class="st24"/>
+				</g>
+				<g id="shape1188-117" v:mID="1188" v:groupContext="shape" transform="translate(11.8486,-18.4805)">
+					<title>工作表.1188</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M4.77 235.08 L0.51 235.08 C0.37 235.08 0.24 235.03 0.15 234.93 C0.05 234.84 0 234.71 0 234.57 L0 230.31
+								 C0 230.17 0.05 230.04 0.15 229.95 C0.24 229.86 0.37 229.8 0.5 229.8 L4.77 229.8 C4.91 229.8 5.03
+								 229.86 5.13 229.95 C5.22 230.05 5.28 230.17 5.28 230.31 L5.28 234.57 C5.28 234.71 5.22 234.84 5.13
+								 234.93 C5.03 235.03 4.91 235.08 4.77 235.08 ZM1.01 234.07 L4.27 234.07 L4.27 230.81 L1.01 230.81
+								 L1.01 234.07 Z" class="st24"/>
+				</g>
+				<g id="shape1189-119" v:mID="1189" v:groupContext="shape" transform="translate(13.358,-4.48365)">
+					<title>工作表.1189</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M6.16 225.5 L0 234.51 L0.83 235.08 L6.99 226.08 L6.16 225.5 Z" class="st24"/>
+				</g>
+				<g id="shape1190-121" v:mID="1190" v:groupContext="shape" transform="translate(16.3423,-1.99111)">
+					<title>工作表.1190</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M0.59 235.08 L0 234.26 C0.03 234.26 2.7 232.29 4.4 230.95 L5 231.76 C3.29 233.1 0.59 235.06 0.59 235.08
+								 Z" class="st24"/>
+				</g>
+				<g id="shape1191-123" v:mID="1191" v:groupContext="shape" transform="translate(11.8486,0)">
+					<title>工作表.1191</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M4.77 235.08 L0.51 235.08 C0.37 235.08 0.24 235.03 0.15 234.93 C0.05 234.84 0 234.71 0 234.57 L0 230.31
+								 C0 230.17 0.05 230.05 0.15 229.95 C0.24 229.86 0.37 229.8 0.5 229.8 L4.77 229.8 C4.91 229.8 5.03
+								 229.86 5.13 229.95 C5.22 230.05 5.28 230.17 5.28 230.31 L5.28 234.57 C5.28 234.71 5.22 234.84 5.13
+								 234.93 C5.03 235.03 4.91 235.08 4.77 235.08 ZM1.01 234.07 L4.27 234.07 L4.27 230.81 L1.01 230.81
+								 L1.01 234.07 Z" class="st24"/>
+				</g>
+				<g id="shape1192-125" v:mID="1192" v:groupContext="shape" transform="translate(18.481,-5.21206)">
+					<title>工作表.1192</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M4.77 235.08 L0.51 235.08 C0.37 235.08 0.24 235.03 0.15 234.93 C0.05 234.84 0 234.71 0 234.57 L0 230.31
+								 C0 230.17 0.05 230.05 0.15 229.95 C0.24 229.86 0.37 229.8 0.51 229.8 L4.77 229.8 C4.91 229.8 5.03
+								 229.86 5.13 229.95 C5.22 230.05 5.28 230.17 5.28 230.31 L5.28 234.57 C5.28 234.71 5.22 234.84 5.13
+								 234.93 C5.03 235.03 4.91 235.08 4.77 235.08 ZM1.01 234.07 L4.27 234.07 L4.27 230.81 L1.01 230.81
+								 L1.01 234.07 Z" class="st24"/>
+				</g>
+				<g id="shape1193-127" v:mID="1193" v:groupContext="shape" transform="translate(18.481,-13.269)">
+					<title>工作表.1193</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M4.77 235.08 L0.51 235.08 C0.37 235.08 0.24 235.03 0.15 234.93 C0.05 234.84 0 234.71 0 234.57 L0 230.31
+								 C0 230.17 0.05 230.04 0.15 229.95 C0.24 229.86 0.37 229.8 0.51 229.8 L4.77 229.8 C4.91 229.8 5.03
+								 229.86 5.13 229.95 C5.22 230.05 5.28 230.17 5.28 230.31 L5.28 234.57 C5.28 234.71 5.22 234.84 5.13
+								 234.93 C5.03 235.03 4.91 235.08 4.77 235.08 ZM1.01 234.07 L4.27 234.07 L4.27 230.81 L1.01 230.81
+								 L1.01 234.07 Z" class="st24"/>
+				</g>
+				<g id="shape1194-129" v:mID="1194" v:groupContext="shape" transform="translate(1.18905E-13,-7.58228)">
+					<title>工作表.1194</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M8.09 235.08 L0.51 235.08 C0.37 235.08 0.24 235.03 0.15 234.93 C0.05 234.84 0 234.71 0 234.57 L0 226.99
+								 C0 226.86 0.05 226.73 0.15 226.63 C0.24 226.54 0.37 226.49 0.51 226.49 L8.09 226.49 C8.22 226.49
+								 8.35 226.54 8.45 226.63 C8.54 226.73 8.59 226.86 8.59 226.99 L8.59 234.57 C8.59 234.71 8.54 234.84
+								 8.45 234.93 C8.35 235.03 8.22 235.08 8.09 235.08 ZM1.01 234.07 L7.58 234.07 L7.58 227.5 L1.01 227.5
+								 L1.01 234.07 Z" class="st24"/>
+				</g>
+			</g>
+		</g>
+		<g id="group1195-131" transform="translate(473.626,-43.8915)" v:mID="1195" v:groupContext="group">
+			<title>工作表.1195</title>
+		</g>
+		<g id="group1196-132" transform="translate(340.606,-62.2532)" v:mID="1196" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+			</v:userDefs>
+			<title>Amazon EMR.1567</title>
+			<g id="shape1197-133" v:mID="1197" v:groupContext="shape">
+				<title>工作表.1197</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M33.09 201.99 L0 201.99 L0 235.08 L33.09 235.08 L33.09 201.99 Z" class="st25"/>
+			</g>
+			<g id="shape1198-135" v:mID="1198" v:groupContext="shape" transform="translate(5.66923,-5.46954)">
+				<title>工作表.1198</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M19.31 225.72 C18.95 225.72 18.6 225.8 18.27 225.95 L17.27 224.03 L18.51 221.7 C19.03 221.89 19.59 221.89
+							 20.11 221.71 C20.63 221.53 21.08 221.18 21.37 220.71 C21.67 220.25 21.79 219.7 21.73 219.15 C21.67 218.6
+							 21.43 218.09 21.04 217.7 C20.81 217.48 20.54 217.3 20.25 217.18 C19.96 217.05 19.64 216.99 19.32 216.99
+							 C19 216.99 18.69 217.05 18.39 217.18 C18.1 217.3 17.83 217.48 17.6 217.7 C17.32 217.99 17.1 218.35 16.99
+							 218.75 C16.88 219.14 16.87 219.56 16.96 219.96 L15.39 220.44 L13.65 217.16 L13.68 217.13 C14.01 216.81
+							 14.23 216.39 14.33 215.94 C14.43 215.48 14.4 215.01 14.24 214.57 C14.08 214.14 13.79 213.76 13.42 213.48
+							 C13.05 213.2 12.61 213.03 12.15 213 C11.68 212.96 11.22 213.06 10.81 213.28 C10.4 213.5 10.06 213.84
+							 9.84 214.24 C9.61 214.65 9.51 215.11 9.54 215.57 C9.57 216.04 9.73 216.48 10.01 216.86 L8.12 219.46
+							 C7.31 218.97 6.38 218.7 5.44 218.68 C4.49 218.66 3.55 218.9 2.73 219.36 C1.9 219.83 1.21 220.5 0.73
+							 221.32 C0.25 222.14 0 223.07 0 224.02 C0 224.96 0.25 225.9 0.73 226.71 C1.21 227.53 1.9 228.21 2.73
+							 228.67 C3.55 229.14 4.49 229.37 5.44 229.35 C6.38 229.34 7.31 229.07 8.12 228.57 L10 231.18 C9.72 231.56
+							 9.56 232 9.53 232.46 C9.5 232.93 9.6 233.39 9.82 233.8 C10.05 234.2 10.39 234.54 10.79 234.76 C11.2
+							 234.98 11.67 235.08 12.13 235.04 C12.59 235.01 13.04 234.84 13.41 234.56 C13.78 234.28 14.06 233.9 14.22
+							 233.47 C14.39 233.03 14.42 232.56 14.32 232.11 C14.22 231.65 13.99 231.24 13.66 230.91 L13.64 230.88
+							 L15.35 227.65 L16.87 228.13 L16.87 228.16 C16.87 228.64 17.01 229.11 17.28 229.51 C17.55 229.91 17.93
+							 230.22 18.37 230.41 C18.81 230.59 19.3 230.64 19.77 230.54 C20.24 230.45 20.68 230.22 21.02 229.88 C21.35
+							 229.54 21.59 229.11 21.68 228.64 C21.77 228.17 21.72 227.68 21.54 227.24 C21.36 226.79 21.05 226.41
+							 20.65 226.15 C20.25 225.88 19.78 225.74 19.3 225.74 L19.31 225.72 ZM18.22 218.33 C18.52 218.04 18.91
+							 217.88 19.33 217.88 C19.74 217.88 20.13 218.04 20.43 218.33 C20.64 218.55 20.79 218.82 20.84 219.12
+							 C20.9 219.42 20.87 219.73 20.75 220.01 C20.63 220.29 20.43 220.53 20.18 220.7 C19.93 220.86 19.63 220.95
+							 19.33 220.95 C19.02 220.95 18.72 220.86 18.47 220.7 C18.22 220.53 18.02 220.29 17.9 220.01 C17.78 219.73
+							 17.75 219.42 17.81 219.12 C17.87 218.82 18.01 218.55 18.22 218.33 ZM17.3 220.77 C17.39 220.9 17.49 221.03
+							 17.6 221.14 L17.74 221.26 L16.77 223.09 L15.8 221.24 L17.3 220.77 ZM10.87 214.31 C11.16 214.02 11.55
+							 213.85 11.96 213.85 C12.37 213.85 12.77 214.01 13.06 214.3 C13.35 214.59 13.52 214.98 13.52 215.39 C13.52
+							 215.8 13.36 216.2 13.07 216.49 C12.78 216.78 12.38 216.94 11.97 216.94 C11.56 216.94 11.16 216.78 10.87
+							 216.49 C10.58 216.2 10.42 215.81 10.42 215.4 C10.42 214.99 10.58 214.6 10.87 214.31 ZM10.66 217.45 C11.05
+							 217.7 11.51 217.83 11.98 217.83 C12.3 217.83 12.62 217.76 12.92 217.64 L14.53 220.72 L10.31 222.05 C10.04
+							 221.37 9.64 220.76 9.12 220.25 C9.02 220.16 8.93 220.07 8.83 219.99 L10.66 217.45 ZM2.19 227.15 C1.57
+							 226.53 1.14 225.74 0.97 224.87 C0.8 224.01 0.88 223.11 1.22 222.3 C1.56 221.48 2.13 220.79 2.86 220.3
+							 C3.6 219.81 4.46 219.55 5.34 219.55 C6.22 219.55 7.08 219.81 7.82 220.3 C8.55 220.79 9.12 221.48 9.46
+							 222.3 C9.79 223.11 9.88 224.01 9.71 224.87 C9.54 225.74 9.11 226.53 8.49 227.15 C7.65 227.99 6.52 228.45
+							 5.34 228.45 C4.16 228.45 3.03 227.99 2.19 227.15 L2.19 227.15 ZM13.06 233.7 C12.76 233.98 12.37 234.15
+							 11.95 234.15 C11.54 234.15 11.14 233.98 10.85 233.7 C10.64 233.48 10.49 233.2 10.44 232.91 C10.38 232.61
+							 10.41 232.3 10.53 232.02 C10.65 231.74 10.85 231.5 11.1 231.33 C11.35 231.16 11.65 231.07 11.95 231.07
+							 C12.26 231.07 12.55 231.16 12.81 231.33 C13.06 231.5 13.26 231.74 13.38 232.02 C13.49 232.3 13.53 232.61
+							 13.47 232.91 C13.41 233.2 13.27 233.48 13.06 233.7 ZM12.91 230.37 C12.55 230.22 12.16 230.16 11.76 230.19
+							 C11.37 230.22 10.99 230.35 10.66 230.56 L8.84 228.03 C8.94 227.95 9.03 227.86 9.12 227.78 C9.62 227.27
+							 10.02 226.67 10.28 226.01 L14.51 227.33 L12.91 230.37 ZM14.93 226.57 L10.55 225.19 C10.72 224.42 10.72
+							 223.63 10.55 222.86 L14.93 221.51 L16.25 224.04 L14.93 226.57 ZM17.06 227.24 L15.78 226.84 L16.76 224.98
+							 L17.55 226.48 C17.34 226.7 17.17 226.96 17.06 227.24 ZM20.41 229.24 C20.11 229.52 19.72 229.68 19.3
+							 229.68 C18.89 229.68 18.5 229.52 18.2 229.24 C17.99 229.02 17.84 228.74 17.79 228.44 C17.73 228.15 17.76
+							 227.84 17.88 227.56 C18 227.28 18.2 227.04 18.45 226.87 C18.7 226.7 19 226.61 19.3 226.61 C19.61 226.61
+							 19.9 226.7 20.16 226.87 C20.41 227.04 20.61 227.28 20.73 227.56 C20.85 227.84 20.88 228.15 20.82 228.44
+							 C20.76 228.74 20.62 229.02 20.41 229.24 ZM7.57 223.56 L7.57 224.44 L5.8 224.44 L5.8 226.21 L4.92 226.21
+							 L4.92 224.44 L3.16 224.44 L3.16 223.56 L4.92 223.56 L4.92 221.8 L5.8 221.8 L5.8 223.56 L7.57 223.56
+							 Z" class="st26"/>
+			</g>
+			<g id="shape1196-137" v:mID="1196" v:groupContext="groupContent"/>
+		</g>
+		<g id="shape1203-138" v:mID="1203" v:groupContext="shape" transform="translate(527.33,-7.49688)">
+			<title>圆角矩形.1203</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+			</v:userDefs>
+			<path d="M4.18 235.08 L37.62 235.08 A4.18009 4.18009 -180 0 0 41.8 230.9 L41.8 203.03 A4.18009 4.18009 -180 0 0 37.62
+						 198.85 L4.18 198.85 A4.18009 4.18009 -180 0 0 0 203.03 L0 230.9 A4.18009 4.18009 -180 0 0 4.18 235.08 Z"
+					class="st27"/>
+		</g>
+		<g id="shape1205-140" v:mID="1205" v:groupContext="shape" transform="translate(521.925,-4.57363)">
+			<title>工作表.1205</title>
+			<desc>Transformer</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="26.305" cy="224.634" width="52.62" height="20.8912"/>
+			<rect x="0" y="214.188" width="52.61" height="20.8912" class="st4"/>
+			<text x="6.31" y="227.03" class="st28" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Transformer</text>		</g>
+		<g id="group1206-143" transform="translate(535.717,-17.8539)" v:mID="1206" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+			</v:userDefs>
+			<title>AWS 上的 Apache MXNet.1630</title>
+			<g id="shape1207-144" v:mID="1207" v:groupContext="shape">
+				<title>工作表.1207</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M25.03 210.05 L0 210.05 L0 235.08 L25.03 235.08 L25.03 210.05 Z" class="st25"/>
+			</g>
+			<g id="shape1208-146" v:mID="1208" v:groupContext="shape" transform="translate(6.00627,-16.9844)">
+				<title>工作表.1208</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M12.68 235.08 C11.96 234.12 11.03 233.34 9.96 232.8 C8.89 232.26 7.71 231.98 6.51 231.98 C5.35 231.98 4.21
+							 232.24 3.17 232.74 C2.13 233.24 1.22 233.97 0.5 234.87 L0 234.45 C0.8 233.45 1.81 232.65 2.97 232.11
+							 C4.12 231.57 5.39 231.29 6.66 231.32 C7.94 231.34 9.19 231.65 10.33 232.24 C11.47 232.82 12.45 233.66
+							 13.21 234.68 L12.68 235.08 Z" class="st29"/>
+			</g>
+			<g id="shape1209-148" v:mID="1209" v:groupContext="shape" transform="translate(4.16945,-4.2778)">
+				<title>工作表.1209</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M6.49 235.08 C4.65 234.65 3.01 233.61 1.83 232.14 C0.66 230.67 0.01 228.84 0 226.95 C0 226.33 0.07 225.71
+							 0.21 225.1 L0.86 225.26 C0.73 225.81 0.67 226.38 0.67 226.95 C0.68 228.69 1.27 230.37 2.35 231.72 C3.43
+							 233.08 4.94 234.03 6.63 234.43 L6.49 235.08 Z" class="st29"/>
+			</g>
+			<g id="shape1210-150" v:mID="1210" v:groupContext="shape" transform="translate(14.2248,-4.27783)">
+				<title>工作表.1210</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M0.15 235.08 L0 234.41 C1.69 234.02 3.19 233.07 4.27 231.71 C5.36 230.36 5.95 228.68 5.96 226.95 C5.96 226.47
+							 5.92 225.99 5.83 225.52 L6.49 225.39 C6.59 225.9 6.65 226.43 6.64 226.95 C6.63 228.84 5.99 230.67 4.81
+							 232.14 C3.63 233.62 1.99 234.65 0.15 235.08 Z" class="st29"/>
+			</g>
+			<g id="shape1211-152" v:mID="1211" v:groupContext="shape" transform="translate(7.50761,-6.64561)">
+				<title>工作表.1211</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M9.84 226.35 L5.17 223.66 C5.12 223.63 5.06 223.61 5.01 223.61 C4.95 223.61 4.89 223.63 4.84 223.66 L0.17
+							 226.35 C0.12 226.38 0.07 226.42 0.04 226.47 C0.02 226.53 0 226.58 0 226.64 L0 232.05 C0 232.11 0.02
+							 232.16 0.04 232.22 C0.07 232.27 0.12 232.31 0.17 232.34 L4.84 235.03 C4.89 235.06 4.95 235.08 5.01 235.08
+							 C5.06 235.08 5.12 235.06 5.17 235.03 L9.84 232.34 C9.89 232.31 9.94 232.27 9.97 232.22 C10 232.16 10.01
+							 232.11 10.01 232.05 L10.01 226.64 C10.01 226.58 10 226.53 9.97 226.47 C9.94 226.42 9.89 226.38 9.84
+							 226.35 ZM5.01 224.33 L9.01 226.64 L5.01 228.95 L1 226.64 L5.01 224.33 ZM0.67 227.22 L4.67 229.53 L4.67
+							 234.15 L0.67 231.84 L0.67 227.22 ZM9.34 231.84 L5.34 234.15 L5.34 229.53 L9.34 227.22 L9.34 231.84 Z"
+						class="st29"/>
+			</g>
+		</g>
+		<g id="shape1216-154" v:mID="1216" v:groupContext="shape" transform="translate(482.652,-45.3079)">
+			<title>圆角矩形.1216</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+			</v:userDefs>
+			<path d="M4.18 235.08 L37.62 235.08 A4.18009 4.18009 -180 0 0 41.8 230.9 L41.8 203.03 A4.18009 4.18009 -180 0 0 37.62
+						 198.85 L4.18 198.85 A4.18009 4.18009 -180 0 0 0 203.03 L0 230.9 A4.18009 4.18009 -180 0 0 4.18 235.08 Z"
+					class="st27"/>
+		</g>
+		<g id="shape1218-156" v:mID="1218" v:groupContext="shape" transform="translate(480.167,-48.164)">
+			<title>工作表.1218</title>
+			<desc>MLP</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.3858" cy="230.707" width="46.78" height="8.74427"/>
+			<rect x="0" y="226.335" width="46.7717" height="8.74427" class="st4"/>
+			<text x="15.16" y="233.11" class="st28" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>MLP</text>		</g>
+		<g id="group1219-159" transform="translate(489.734,-53.8783)" v:mID="1219" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+			</v:userDefs>
+			<title>Amazon Redshift.1595</title>
+			<g id="shape1220-160" v:mID="1220" v:groupContext="shape">
+				<title>工作表.1220</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M27.64 207.44 L0 207.44 L0 235.08 L27.64 235.08 L27.64 207.44 Z" class="st25"/>
+			</g>
+			<g id="shape1221-162" v:mID="1221" v:groupContext="shape" transform="translate(7.55433,-4.6063)">
+				<title>工作表.1221</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M6.26 235.08 C3.23 235.08 0 234.2 0 232.57 L0 219.17 L0.74 219.17 L0.74 232.57 C0.74 233.3 2.84 234.34 6.26
+							 234.34 C9.69 234.34 11.79 233.31 11.79 232.57 L11.79 219.17 L12.53 219.17 L12.53 232.57 C12.53 234.2
+							 9.3 235.08 6.26 235.08 Z" class="st29"/>
+			</g>
+			<g id="shape1222-164" v:mID="1222" v:groupContext="shape" transform="translate(7.55433,-4.6063)">
+				<title>工作表.1222</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M6.26 235.08 C3.23 235.08 0 234.2 0 232.57 L0 219.17 L0.74 219.17 L0.74 232.57 C0.74 233.3 2.84 234.34 6.26
+							 234.34 C9.69 234.34 11.79 233.31 11.79 232.57 L11.79 219.17 L12.53 219.17 L12.53 232.57 C12.53 234.2
+							 9.3 235.08 6.26 235.08 Z" class="st29"/>
+			</g>
+			<g id="shape1223-166" v:mID="1223" v:groupContext="shape" transform="translate(7.55433,-18.0088)">
+				<title>工作表.1223</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M6.26 235.08 C3.23 235.08 0 234.2 0 232.57 C0 230.94 3.23 230.06 6.26 230.06 C9.3 230.06 12.53 230.94 12.53
+							 232.57 C12.53 234.2 9.3 235.08 6.26 235.08 ZM6.26 230.79 C2.84 230.79 0.74 231.83 0.74 232.57 C0.74
+							 233.31 2.84 234.34 6.26 234.34 C9.69 234.34 11.79 233.31 11.79 232.57 C11.79 231.83 9.69 230.79 6.26
+							 230.79 Z" class="st29"/>
+			</g>
+			<g id="shape1224-168" v:mID="1224" v:groupContext="shape" transform="translate(12.6109,-11.8707)">
+				<title>工作表.1224</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M0.16 233.85 L0 234.57 L2.24 235.08 L2.4 234.36 L0.16 233.85 Z" class="st29"/>
+			</g>
+			<g id="shape1225-170" v:mID="1225" v:groupContext="shape" transform="translate(15.8862,-12.869)">
+				<title>工作表.1225</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M0.85 232.65 L0 234.81 L0.69 235.08 L1.54 232.92 L0.85 232.65 Z" class="st29"/>
+			</g>
+			<g id="shape1226-172" v:mID="1226" v:groupContext="shape" transform="translate(10.3426,-10.1807)">
+				<title>工作表.1226</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M0.75 233.03 L0 234.79 L0.68 235.08 L1.43 233.32 L0.75 233.03 Z" class="st29"/>
+			</g>
+			<g id="shape1227-174" v:mID="1227" v:groupContext="shape" transform="translate(9.00336,-8.19184)">
+				<title>工作表.1227</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M1.31 235.08 C1.06 235.08 0.81 235 0.6 234.86 C0.39 234.72 0.22 234.52 0.12 234.28 C0.03 234.05 0 233.79
+							 0.05 233.54 C0.1 233.29 0.22 233.06 0.4 232.88 C0.58 232.7 0.81 232.57 1.06 232.52 C1.31 232.47 1.57
+							 232.5 1.81 232.6 C2.04 232.7 2.25 232.86 2.39 233.07 C2.53 233.29 2.6 233.53 2.6 233.79 C2.6 234.13
+							 2.47 234.46 2.23 234.7 C1.98 234.94 1.66 235.08 1.31 235.08 ZM1.31 233.24 C1.21 233.24 1.1 233.27 1.01
+							 233.33 C0.92 233.39 0.85 233.48 0.8 233.58 C0.76 233.68 0.75 233.79 0.77 233.9 C0.79 234 0.85 234.1
+							 0.92 234.18 C1 234.26 1.1 234.31 1.21 234.33 C1.31 234.35 1.43 234.34 1.53 234.3 C1.63 234.26 1.71 234.19
+							 1.77 234.1 C1.84 234.01 1.87 233.9 1.87 233.79 C1.87 233.64 1.81 233.5 1.71 233.4 C1.6 233.3 1.46 233.24
+							 1.31 233.24 Z" class="st29"/>
+			</g>
+			<g id="shape1228-176" v:mID="1228" v:groupContext="shape" transform="translate(10.4774,-11.6484)">
+				<title>工作表.1228</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M1.31 235.08 C1.06 235.08 0.81 235 0.6 234.86 C0.39 234.72 0.22 234.52 0.12 234.28 C0.03 234.05 0 233.79
+							 0.05 233.54 C0.1 233.29 0.22 233.06 0.4 232.88 C0.58 232.7 0.81 232.57 1.06 232.52 C1.31 232.47 1.57
+							 232.5 1.81 232.6 C2.04 232.7 2.25 232.86 2.39 233.07 C2.53 233.29 2.6 233.53 2.6 233.79 C2.6 234.13
+							 2.47 234.46 2.23 234.7 C1.98 234.94 1.66 235.08 1.31 235.08 ZM1.31 233.24 C1.21 233.24 1.1 233.27 1.01
+							 233.33 C0.92 233.39 0.85 233.48 0.8 233.58 C0.76 233.68 0.75 233.79 0.77 233.9 C0.79 234 0.85 234.1
+							 0.92 234.18 C1 234.26 1.1 234.31 1.21 234.33 C1.31 234.35 1.43 234.34 1.53 234.3 C1.63 234.26 1.71 234.19
+							 1.77 234.1 C1.84 234.01 1.87 233.9 1.87 233.79 C1.87 233.64 1.81 233.5 1.71 233.4 C1.6 233.29 1.46 233.24
+							 1.31 233.24 Z" class="st29"/>
+			</g>
+			<g id="shape1229-178" v:mID="1229" v:groupContext="shape" transform="translate(14.5309,-10.8709)">
+				<title>工作表.1229</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M1.31 235.08 C1.06 235.08 0.81 235 0.6 234.86 C0.39 234.72 0.22 234.52 0.12 234.28 C0.03 234.05 0 233.79
+							 0.05 233.54 C0.1 233.29 0.22 233.06 0.4 232.88 C0.58 232.7 0.81 232.57 1.06 232.52 C1.31 232.47 1.57
+							 232.5 1.81 232.6 C2.04 232.7 2.25 232.86 2.39 233.07 C2.53 233.29 2.6 233.53 2.6 233.79 C2.6 234.13
+							 2.47 234.46 2.23 234.7 C1.98 234.94 1.66 235.08 1.31 235.08 ZM1.31 233.24 C1.21 233.24 1.1 233.27 1.01
+							 233.33 C0.92 233.39 0.85 233.48 0.8 233.58 C0.76 233.68 0.75 233.79 0.77 233.9 C0.79 234 0.85 234.1
+							 0.92 234.18 C1 234.26 1.1 234.31 1.21 234.33 C1.31 234.35 1.43 234.34 1.53 234.3 C1.63 234.26 1.71 234.19
+							 1.77 234.1 C1.84 234.01 1.87 233.9 1.87 233.79 C1.87 233.64 1.81 233.5 1.71 233.4 C1.6 233.29 1.46 233.24
+							 1.31 233.24 Z" class="st29"/>
+			</g>
+			<g id="shape1230-180" v:mID="1230" v:groupContext="shape" transform="translate(16.0049,-14.7402)">
+				<title>工作表.1230</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M1.31 235.08 C1.06 235.08 0.81 235 0.6 234.86 C0.39 234.72 0.22 234.52 0.12 234.28 C0.03 234.05 0 233.79
+							 0.05 233.54 C0.1 233.29 0.22 233.06 0.4 232.88 C0.58 232.7 0.81 232.57 1.06 232.52 C1.31 232.47 1.57
+							 232.5 1.81 232.6 C2.04 232.7 2.25 232.86 2.39 233.07 C2.53 233.29 2.6 233.53 2.6 233.79 L2.6 233.81
+							 C2.6 234.15 2.46 234.47 2.22 234.71 C1.98 234.94 1.65 235.08 1.31 235.08 ZM1.31 233.24 C1.21 233.24
+							 1.1 233.27 1.01 233.33 C0.92 233.39 0.85 233.47 0.81 233.57 C0.76 233.67 0.75 233.78 0.77 233.89 C0.79
+							 234 0.84 234.1 0.92 234.17 C0.99 234.25 1.09 234.31 1.2 234.33 C1.3 234.35 1.41 234.34 1.51 234.31 C1.62
+							 234.27 1.7 234.2 1.77 234.11 C1.83 234.02 1.86 233.92 1.87 233.81 C1.87 233.73 1.86 233.66 1.83 233.59
+							 C1.8 233.52 1.76 233.46 1.71 233.41 C1.66 233.35 1.6 233.31 1.53 233.28 C1.46 233.25 1.39 233.24 1.31
+							 233.24 Z" class="st29"/>
+			</g>
+		</g>
+		<g id="shape1235-182" v:mID="1235" v:groupContext="shape" transform="translate(527.33,-45.3079)">
+			<title>圆角矩形.1235</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+			</v:userDefs>
+			<path d="M4.18 235.08 L37.62 235.08 A4.18009 4.18009 -180 0 0 41.8 230.9 L41.8 203.03 A4.18009 4.18009 -180 0 0 37.62
+						 198.85 L4.18 198.85 A4.18009 4.18009 -180 0 0 0 203.03 L0 230.9 A4.18009 4.18009 -180 0 0 4.18 235.08 Z"
+					class="st27"/>
+		</g>
+		<g id="group1236-184" transform="translate(523.928,-44.4559)" v:mID="1236" v:groupContext="group">
+			<title>工作表.1236</title>
+		</g>
+		<g id="shape1238-185" v:mID="1238" v:groupContext="shape" transform="translate(524.845,-48.164)">
+			<title>工作表.1238</title>
+			<desc>RNN</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.3858" cy="230.707" width="46.78" height="8.74427"/>
+			<rect x="0" y="226.335" width="46.7717" height="8.74427" class="st4"/>
+			<text x="14.94" y="233.11" class="st28" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>RNN</text>		</g>
+		<g id="group1239-188" transform="translate(538.95,-58.4171)" v:mID="1239" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+			</v:userDefs>
+			<title>AWS 数据湖资源图标.1613</title>
+			<g id="shape1240-189" v:mID="1240" v:groupContext="shape">
+				<title>工作表.1240</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M12.53 232.31 C12.53 233.05 11.31 233.75 9.42 234.08 C8.95 234.17 8.45 234.23 7.93 234.27 C7.72 234.27 7.51
+							 234.29 7.29 234.3 C6.86 234.3 6.41 234.3 5.98 234.3 C5.76 234.3 5.55 234.3 5.33 234.27 C4.82 234.23
+							 4.32 234.17 3.84 234.08 C1.96 233.75 0.74 233.05 0.74 232.31 L0.74 229.7 C1.9 230.5 4.27 230.85 6.63
+							 230.85 L6.63 230.08 C2.78 230.08 0.74 229.17 0.74 228.52 L0.74 225.25 C1.95 226.08 4.46 226.48 6.83
+							 226.48 L6.83 225.71 C3.05 225.71 0.74 224.76 0.74 224.09 L0.74 220.84 C1.9 221.69 4.27 222.12 6.63 222.12
+							 C8.98 222.12 11.35 221.69 12.52 220.84 L12.52 222.22 L13.27 222.22 L13.27 219.29 C13.27 217.69 10.48
+							 216.52 6.63 216.52 C2.78 216.52 0 217.69 0 219.29 L0 232.31 C0 233.5 1.36 234.43 3.73 234.84 C4.22 234.93
+							 4.74 234.99 5.28 235.03 C5.5 235.03 5.72 235.06 5.95 235.07 C6.18 235.08 6.4 235.07 6.63 235.07 C6.86
+							 235.07 7.09 235.07 7.32 235.07 C7.54 235.07 7.76 235.05 7.98 235.03 C8.52 234.99 9.05 234.93 9.54 234.84
+							 C11.91 234.43 13.27 233.5 13.27 232.31 L13.27 231.93 L12.52 231.93 L12.53 232.31 ZM0.75 219.29 C0.75
+							 218.32 3.11 217.29 6.64 217.29 C10.16 217.29 12.53 218.32 12.53 219.29 L12.53 219.64 C12.53 220.35 10.29
+							 221.35 6.64 221.35 C2.98 221.35 0.75 220.35 0.75 219.64 L0.75 219.29 ZM18.56 229 L18.56 229.77 C18.46
+							 229.77 18.31 230.11 18.22 230.32 C18.03 230.74 17.77 231.31 17.2 231.31 C16.62 231.31 16.36 230.74 16.17
+							 230.32 C16.08 230.11 15.93 229.77 15.83 229.77 C15.73 229.77 15.58 230.11 15.49 230.32 C15.3 230.74
+							 15.05 231.31 14.47 231.31 C13.88 231.31 13.63 230.74 13.45 230.32 C13.36 230.11 13.2 229.77 13.1 229.77
+							 C13 229.77 12.85 230.11 12.76 230.32 C12.57 230.74 12.32 231.31 11.74 231.31 C11.16 231.31 10.91 230.74
+							 10.72 230.32 C10.63 230.11 10.48 229.77 10.38 229.77 C10.27 229.77 10.12 230.11 10.03 230.32 C9.85 230.74
+							 9.59 231.31 9.01 231.31 C8.44 231.31 8.16 230.74 7.99 230.32 C7.9 230.11 7.75 229.77 7.65 229.77 L7.65
+							 229 C8.23 229 8.48 229.57 8.67 229.99 C8.76 230.2 8.91 230.54 9.01 230.54 C9.12 230.54 9.27 230.2 9.36
+							 229.99 C9.54 229.57 9.79 229 10.38 229 C10.96 229 11.21 229.57 11.4 229.99 C11.49 230.2 11.64 230.54
+							 11.74 230.54 C11.84 230.54 11.99 230.2 12.08 229.99 C12.27 229.57 12.52 229 13.1 229 C13.68 229 13.94
+							 229.57 14.12 229.99 C14.21 230.2 14.37 230.54 14.47 230.54 C14.57 230.54 14.72 230.2 14.81 229.99 C14.99
+							 229.57 15.25 229 15.83 229 C16.41 229 16.66 229.57 16.85 229.99 C16.94 230.2 17.09 230.54 17.2 230.54
+							 C17.3 230.54 17.45 230.2 17.54 229.99 C17.73 229.57 17.98 229 18.56 229 ZM18.56 226.06 L18.56 226.83
+							 C18.46 226.83 18.31 227.17 18.22 227.38 C18.03 227.8 17.77 228.37 17.2 228.37 C16.62 228.37 16.36 227.8
+							 16.17 227.38 C16.08 227.17 15.93 226.83 15.83 226.83 C15.73 226.83 15.58 227.17 15.49 227.38 C15.3 227.8
+							 15.05 228.37 14.47 228.37 C13.88 228.37 13.63 227.8 13.45 227.38 C13.36 227.17 13.2 226.83 13.1 226.83
+							 C13 226.83 12.85 227.17 12.76 227.38 C12.57 227.8 12.32 228.37 11.74 228.37 C11.16 228.37 10.91 227.8
+							 10.72 227.38 C10.63 227.17 10.48 226.83 10.38 226.83 C10.27 226.83 10.12 227.17 10.03 227.38 C9.85 227.8
+							 9.59 228.37 9.01 228.37 C8.44 228.37 8.16 227.8 7.99 227.38 C7.9 227.17 7.75 226.83 7.65 226.83 L7.65
+							 226.06 C8.23 226.06 8.48 226.63 8.67 227.06 C8.76 227.26 8.91 227.6 9.01 227.6 C9.12 227.6 9.27 227.26
+							 9.36 227.06 C9.54 226.63 9.79 226.06 10.38 226.06 C10.96 226.06 11.21 226.63 11.4 227.06 C11.49 227.26
+							 11.64 227.6 11.74 227.6 C11.84 227.6 11.99 227.26 12.08 227.06 C12.27 226.63 12.52 226.06 13.1 226.06
+							 C13.68 226.06 13.94 226.64 14.12 227.06 C14.21 227.26 14.37 227.6 14.47 227.6 C14.57 227.6 14.72 227.26
+							 14.81 227.05 C14.99 226.63 15.25 226.06 15.83 226.06 C16.41 226.06 16.66 226.63 16.85 227.06 C16.94
+							 227.26 17.09 227.6 17.2 227.6 C17.3 227.6 17.45 227.26 17.54 227.06 C17.73 226.63 17.98 226.06 18.56
+							 226.06 ZM18.56 223.12 L18.56 223.89 C18.46 223.89 18.31 224.23 18.22 224.44 C18.03 224.86 17.77 225.42
+							 17.2 225.42 C16.62 225.42 16.36 224.86 16.17 224.44 C16.08 224.23 15.93 223.89 15.83 223.89 C15.73 223.89
+							 15.58 224.23 15.49 224.43 C15.3 224.86 15.05 225.43 14.47 225.43 C13.88 225.43 13.63 224.86 13.45 224.43
+							 C13.36 224.23 13.2 223.89 13.1 223.89 C13 223.89 12.85 224.23 12.76 224.43 C12.57 224.86 12.32 225.43
+							 11.74 225.43 C11.16 225.43 10.91 224.86 10.72 224.43 C10.63 224.23 10.48 223.89 10.38 223.89 C10.27
+							 223.89 10.12 224.23 10.03 224.43 C9.85 224.86 9.59 225.43 9.01 225.43 C8.44 225.43 8.16 224.86 7.99
+							 224.43 C7.9 224.23 7.75 223.89 7.65 223.89 L7.65 223.11 C8.23 223.11 8.48 223.68 8.67 224.1 C8.76 224.3
+							 8.91 224.65 9.01 224.65 C9.12 224.65 9.27 224.3 9.35 224.1 C9.54 223.68 9.79 223.11 10.37 223.11 C10.96
+							 223.11 11.21 223.68 11.4 224.1 C11.49 224.3 11.64 224.65 11.74 224.65 C11.84 224.65 11.99 224.3 12.08
+							 224.1 C12.26 223.7 12.52 223.11 13.1 223.11 C13.68 223.11 13.94 223.7 14.12 224.11 C14.21 224.32 14.36
+							 224.66 14.47 224.66 C14.57 224.66 14.72 224.32 14.81 224.11 C14.99 223.7 15.24 223.11 15.83 223.11 C16.42
+							 223.11 16.66 223.68 16.85 224.1 C16.94 224.3 17.09 224.65 17.2 224.65 C17.3 224.65 17.45 224.3 17.54
+							 224.1 C17.73 223.7 17.98 223.11 18.56 223.11 L18.56 223.12 L18.56 223.12 Z" class="st30"/>
+			</g>
+		</g>
+		<g id="shape1246-191" v:mID="1246" v:groupContext="shape" transform="translate(482.652,-7.49689)">
+			<title>圆角矩形.1388</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.058057691298045):1"/>
+			</v:userDefs>
+			<path d="M4.18 235.08 L37.62 235.08 A4.18009 4.18009 -180 0 0 41.8 230.9 L41.8 203.03 A4.18009 4.18009 -180 0 0 37.62
+						 198.85 L4.18 198.85 A4.18009 4.18009 -180 0 0 0 203.03 L0 230.9 A4.18009 4.18009 -180 0 0 4.18 235.08 Z"
+					class="st27"/>
+		</g>
+		<g id="shape1248-193" v:mID="1248" v:groupContext="shape" transform="translate(480.901,-10.8014)">
+			<title>工作表.1248</title>
+			<desc>CNN</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.652" cy="230.844" width="45.31" height="8.46986"/>
+			<rect x="0" y="226.609" width="45.3039" height="8.46986" class="st4"/>
+			<text x="14.21" y="233.24" class="st28" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNN</text>		</g>
+		<g id="group1249-196" transform="translate(490.936,-17.1894)" v:mID="1249" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+			</v:userDefs>
+			<title>Amazon Lex.1666</title>
+			<g id="shape1250-197" v:mID="1250" v:groupContext="shape">
+				<title>工作表.1250</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M27.64 207.44 L0 207.44 L0 235.08 L27.64 235.08 L27.64 207.44 Z" class="st25"/>
+			</g>
+			<g id="shape1251-199" v:mID="1251" v:groupContext="shape" transform="translate(4.6063,-4.60998)">
+				<title>工作表.1251</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M11.39 216.66 L0.77 216.66 C0.57 216.66 0.37 216.74 0.23 216.89 C0.08 217.04 0 217.23 0 217.44 L0 224.36
+							 C0 224.57 0.08 224.76 0.23 224.91 C0.37 225.05 0.57 225.14 0.77 225.14 L2.19 225.14 L2.21 225.18 L2.21
+							 227.16 C2.22 227.27 2.26 227.37 2.32 227.46 C2.39 227.55 2.48 227.62 2.58 227.66 C2.65 227.69 2.72 227.7
+							 2.79 227.7 C2.94 227.7 3.08 227.64 3.18 227.54 L5.15 225.63 L5.15 224.6 L2.94 226.76 L2.94 225.2 C2.95
+							 225.1 2.94 225 2.91 224.9 C2.88 224.81 2.83 224.72 2.76 224.64 C2.69 224.57 2.61 224.51 2.51 224.46
+							 C2.41 224.42 2.31 224.4 2.2 224.4 L0.77 224.4 C0.76 224.4 0.75 224.39 0.75 224.39 C0.74 224.38 0.74
+							 224.37 0.74 224.36 L0.74 217.44 C0.74 217.43 0.74 217.42 0.75 217.41 C0.75 217.4 0.76 217.4 0.77 217.4
+							 L11.39 217.4 C11.4 217.4 11.41 217.4 11.41 217.41 C11.42 217.42 11.42 217.43 11.42 217.44 L11.42 223.29
+							 L12.16 223.29 L12.16 217.44 C12.16 217.23 12.08 217.04 11.93 216.89 C11.79 216.74 11.59 216.66 11.39
+							 216.66 ZM8.11 219.24 L1.84 219.24 L1.84 218.5 L8.11 218.5 L8.11 219.24 ZM10.32 219.24 L8.84 219.24 L8.84
+							 218.5 L10.32 218.5 L10.32 219.24 ZM5.16 221.08 L1.84 221.08 L1.84 220.35 L5.16 220.35 L5.16 221.08 ZM10.32
+							 221.08 L6.26 221.08 L6.26 220.35 L10.32 220.35 L10.32 221.08 ZM7 222.93 L1.84 222.93 L1.84 222.19 L7
+							 222.19 L7 222.93 ZM9.21 222.93 L7.74 222.93 L7.74 222.19 L9.21 222.19 L9.21 222.93 ZM14.92 235.08 C14.79
+							 235.08 14.66 235.02 14.56 234.93 L12.05 232.5 L6.66 232.5 C6.45 232.49 6.26 232.4 6.12 232.25 C5.98
+							 232.11 5.9 231.91 5.9 231.7 L5.9 224.62 C5.9 224.49 5.92 224.37 5.97 224.25 C6.01 224.14 6.08 224.03
+							 6.17 223.95 C6.26 223.86 6.36 223.79 6.47 223.74 C6.59 223.69 6.71 223.66 6.84 223.66 L17.7 223.66 C17.8
+							 223.66 17.9 223.68 17.99 223.72 C18.09 223.76 18.17 223.82 18.24 223.9 C18.31 223.97 18.36 224.06 18.4
+							 224.16 C18.43 224.25 18.44 224.35 18.44 224.46 L18.44 231.72 C18.44 231.93 18.36 232.12 18.22 232.27
+							 C18.07 232.42 17.88 232.5 17.67 232.5 L15.51 232.5 C15.5 232.51 15.49 232.52 15.48 232.52 C15.48 232.53
+							 15.47 232.54 15.47 232.56 L15.47 234.5 C15.48 234.62 15.45 234.73 15.39 234.82 C15.33 234.92 15.24 234.99
+							 15.14 235.04 C15.07 235.06 15 235.08 14.92 235.08 ZM12.09 231.77 C12.26 231.77 12.43 231.84 12.55 231.95
+							 L14.76 234.1 L14.76 232.55 C14.76 232.34 14.84 232.15 14.99 232 C15.13 231.86 15.32 231.77 15.53 231.77
+							 L17.68 231.77 C17.69 231.77 17.7 231.76 17.7 231.75 C17.71 231.74 17.71 231.73 17.71 231.72 L17.71 224.46
+							 C17.71 224.44 17.7 224.42 17.69 224.41 C17.68 224.4 17.67 224.4 17.65 224.4 L6.8 224.4 C6.68 224.4 6.63
+							 224.45 6.63 224.57 L6.63 231.69 C6.63 231.72 6.69 231.77 6.72 231.77 L12.09 231.77 ZM12.41 231.03 L11.94
+							 231.03 C11.87 231.03 11.8 231.02 11.75 230.98 C11.69 230.95 11.64 230.9 11.61 230.85 L11.42 230.48 C11.29
+							 230.43 11.17 230.38 11.05 230.32 L10.65 230.45 C10.59 230.47 10.52 230.47 10.45 230.46 C10.39 230.44
+							 10.33 230.41 10.28 230.36 L9.94 230.02 C9.89 229.97 9.86 229.91 9.85 229.85 C9.83 229.78 9.83 229.72
+							 9.85 229.65 L9.98 229.26 C9.91 229.13 9.85 229 9.81 228.86 L9.44 228.68 C9.38 228.65 9.33 228.6 9.29
+							 228.54 C9.26 228.48 9.24 228.42 9.24 228.35 L9.24 227.87 C9.24 227.8 9.26 227.73 9.3 227.68 C9.33 227.62
+							 9.38 227.57 9.44 227.54 L9.81 227.35 C9.85 227.22 9.91 227.08 9.97 226.96 L9.85 226.56 C9.83 226.5 9.83
+							 226.43 9.84 226.37 C9.86 226.3 9.89 226.24 9.94 226.19 L10.28 225.86 C10.32 225.81 10.38 225.77 10.45
+							 225.76 C10.51 225.74 10.58 225.74 10.65 225.76 L11.04 225.89 C11.16 225.82 11.28 225.75 11.41 225.69
+							 L11.61 225.32 C11.64 225.26 11.69 225.21 11.74 225.17 C11.8 225.13 11.87 225.12 11.94 225.11 L12.41
+							 225.11 C12.48 225.12 12.55 225.13 12.61 225.17 C12.67 225.21 12.71 225.26 12.74 225.32 L12.93 225.69
+							 C13.06 225.73 13.2 225.78 13.33 225.85 L13.69 225.72 C13.76 225.7 13.83 225.7 13.89 225.72 C13.96 225.73
+							 14.01 225.77 14.06 225.82 L14.4 226.15 C14.45 226.2 14.48 226.26 14.5 226.33 C14.51 226.39 14.51 226.46
+							 14.49 226.52 L14.36 226.92 C14.44 227.05 14.51 227.18 14.56 227.32 L14.92 227.53 C14.99 227.56 15.04
+							 227.61 15.07 227.66 C15.11 227.72 15.13 227.79 15.13 227.86 L15.13 228.34 C15.12 228.4 15.1 228.46 15.06
+							 228.51 C15.03 228.56 14.98 228.61 14.92 228.63 L14.56 228.82 C14.51 228.95 14.46 229.09 14.39 229.21
+							 L14.52 229.61 C14.54 229.67 14.54 229.74 14.53 229.8 C14.51 229.87 14.48 229.93 14.43 229.98 L14.09
+							 230.32 C14.04 230.36 13.98 230.4 13.92 230.41 C13.85 230.43 13.79 230.43 13.72 230.41 L13.33 230.28
+							 C13.21 230.34 13.09 230.39 12.96 230.44 L12.77 230.8 C12.74 230.88 12.69 230.94 12.63 230.98 C12.56
+							 231.02 12.48 231.03 12.41 231.03 L12.41 231.03 ZM12.16 230.3 L12.19 230.3 L12.34 229.98 C12.37 229.94
+							 12.4 229.89 12.45 229.86 C12.49 229.83 12.54 229.8 12.59 229.79 C12.76 229.75 12.93 229.68 13.08 229.58
+							 C13.13 229.55 13.18 229.53 13.23 229.53 C13.29 229.52 13.34 229.53 13.39 229.54 L13.72 229.65 L13.74
+							 229.63 L13.63 229.3 C13.62 229.25 13.61 229.2 13.62 229.14 C13.63 229.09 13.64 229.04 13.67 229 C13.76
+							 228.84 13.83 228.67 13.88 228.49 C13.89 228.44 13.91 228.39 13.95 228.35 C13.98 228.31 14.02 228.28
+							 14.07 228.25 L14.38 228.09 L14.38 228.06 L14.07 227.9 C14.02 227.87 13.98 227.84 13.94 227.8 C13.91
+							 227.76 13.89 227.71 13.87 227.66 C13.83 227.48 13.76 227.31 13.67 227.16 C13.64 227.11 13.62 227.06
+							 13.62 227.01 C13.61 226.96 13.61 226.9 13.63 226.85 L13.74 226.52 L13.72 226.5 L13.39 226.61 C13.34
+							 226.62 13.29 226.63 13.23 226.62 C13.18 226.62 13.13 226.6 13.09 226.57 C12.93 226.48 12.76 226.41 12.58
+							 226.36 C12.53 226.35 12.48 226.33 12.44 226.29 C12.4 226.26 12.36 226.22 12.34 226.17 L12.18 225.86
+							 L12.15 225.86 L11.99 226.17 C11.97 226.22 11.94 226.26 11.9 226.29 C11.86 226.32 11.82 226.34 11.77
+							 226.36 C11.59 226.41 11.41 226.48 11.24 226.57 C11.19 226.6 11.14 226.62 11.09 226.62 C11.04 226.63
+							 10.98 226.62 10.93 226.61 L10.61 226.5 L10.58 226.52 L10.69 226.85 C10.71 226.9 10.71 226.96 10.71 227.01
+							 C10.7 227.06 10.68 227.11 10.65 227.16 C10.56 227.32 10.49 227.49 10.45 227.66 C10.43 227.72 10.41 227.76
+							 10.38 227.81 C10.34 227.85 10.3 227.88 10.26 227.9 L9.95 228.06 L9.95 228.09 L10.26 228.25 C10.31 228.28
+							 10.35 228.31 10.39 228.36 C10.42 228.4 10.44 228.46 10.45 228.51 C10.49 228.69 10.56 228.86 10.67 229
+							 C10.7 229.05 10.71 229.1 10.72 229.15 C10.73 229.2 10.72 229.26 10.71 229.31 L10.59 229.64 L10.62 229.66
+							 L10.95 229.55 C11 229.54 11.05 229.53 11.11 229.54 C11.16 229.54 11.21 229.56 11.25 229.59 C11.42 229.68
+							 11.59 229.75 11.77 229.8 C11.82 229.81 11.86 229.84 11.9 229.87 C11.94 229.9 11.97 229.94 11.99 229.99
+							 L12.16 230.3 ZM12.16 229.19 C11.94 229.19 11.73 229.13 11.55 229 C11.36 228.88 11.22 228.71 11.14 228.51
+							 C11.06 228.31 11.03 228.08 11.08 227.87 C11.12 227.65 11.22 227.46 11.38 227.3 C11.53 227.15 11.73 227.04
+							 11.94 227 C12.16 226.96 12.38 226.98 12.58 227.06 C12.79 227.15 12.96 227.29 13.08 227.47 C13.2 227.65
+							 13.27 227.87 13.27 228.09 C13.27 228.38 13.15 228.66 12.94 228.86 C12.74 229.07 12.46 229.18 12.17 229.19
+							 L12.16 229.19 ZM12.16 227.64 C12.07 227.64 11.99 227.66 11.91 227.71 C11.84 227.76 11.78 227.83 11.75
+							 227.91 C11.71 227.99 11.7 228.08 11.72 228.17 C11.74 228.26 11.78 228.34 11.84 228.4 C11.9 228.46 11.98
+							 228.51 12.07 228.52 C12.16 228.54 12.25 228.53 12.33 228.5 C12.41 228.46 12.48 228.4 12.53 228.33 C12.58
+							 228.26 12.6 228.17 12.6 228.08 C12.6 227.96 12.56 227.85 12.48 227.77 C12.4 227.69 12.28 227.64 12.17
+							 227.64 L12.16 227.64 Z" class="st29"/>
+			</g>
+		</g>
+		<g id="group1253-201" transform="translate(389.195,-63.8167)" v:mID="1253" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+			</v:userDefs>
+			<title>AWS Marketplace.1644</title>
+			<g id="shape1254-202" v:mID="1254" v:groupContext="shape">
+				<title>工作表.1254</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M29.96 205.12 L0 205.12 L0 235.08 L29.96 235.08 L29.96 205.12 Z" class="st25"/>
+			</g>
+			<g id="shape1255-204" v:mID="1255" v:groupContext="shape" transform="translate(5.1938,-5.19384)">
+				<title>工作表.1255</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M11.99 235.08 C11.51 235.08 11.05 234.89 10.71 234.55 C10.38 234.22 10.19 233.76 10.19 233.28 C10.19 232.8
+							 10.38 232.35 10.71 232.01 C11.05 231.67 11.51 231.48 11.99 231.48 L12.13 231.48 L12.53 230.68 L1.6 230.68
+							 C1.5 230.69 1.41 230.66 1.34 230.6 C1.27 230.54 1.22 230.46 1.2 230.36 L0 224.37 L0.8 224.22 L1.92 229.89
+							 L13.86 229.89 L15.58 221.42 C15.6 221.33 15.65 221.24 15.72 221.18 C15.8 221.13 15.89 221.09 15.98 221.1
+							 L19.58 221.1 L19.58 221.9 L16.3 221.9 L14.58 230.36 C14.56 230.46 14.51 230.54 14.44 230.6 C14.37 230.66
+							 14.28 230.69 14.18 230.68 L13.43 230.68 L12.9 231.74 C13.24 231.94 13.5 232.25 13.64 232.61 C13.79 232.98
+							 13.81 233.38 13.71 233.76 C13.61 234.13 13.38 234.47 13.07 234.71 C12.76 234.95 12.38 235.08 11.99 235.08
+							 ZM11.99 232.28 C11.79 232.28 11.6 232.34 11.43 232.45 C11.27 232.56 11.14 232.72 11.06 232.9 C10.99
+							 233.08 10.97 233.28 11.01 233.48 C11.04 233.67 11.14 233.85 11.28 233.99 C11.42 234.13 11.6 234.22 11.79
+							 234.26 C11.98 234.3 12.19 234.28 12.37 234.2 C12.55 234.13 12.71 234 12.82 233.84 C12.93 233.67 12.98
+							 233.48 12.98 233.28 C12.98 233.02 12.88 232.76 12.69 232.58 C12.5 232.39 12.25 232.28 11.99 232.28 ZM4
+							 235.08 C3.64 235.08 3.29 234.97 3 234.78 C2.7 234.58 2.47 234.3 2.33 233.97 C2.2 233.64 2.16 233.28
+							 2.23 232.93 C2.3 232.58 2.47 232.26 2.72 232.01 C2.98 231.76 3.3 231.59 3.64 231.52 C3.99 231.45 4.35
+							 231.48 4.68 231.62 C5.01 231.76 5.29 231.99 5.49 232.28 C5.69 232.58 5.79 232.93 5.79 233.28 C5.79 233.76
+							 5.6 234.21 5.27 234.55 C4.93 234.89 4.47 235.08 4 235.08 ZM4 232.28 C3.8 232.28 3.6 232.34 3.44 232.45
+							 C3.28 232.56 3.15 232.72 3.07 232.9 C3 233.08 2.98 233.28 3.02 233.48 C3.05 233.67 3.15 233.85 3.29
+							 233.99 C3.43 234.13 3.61 234.22 3.8 234.26 C3.99 234.3 4.19 234.28 4.38 234.2 C4.56 234.13 4.72 234
+							 4.83 233.84 C4.94 233.67 4.99 233.48 4.99 233.28 C4.99 233.02 4.89 232.76 4.7 232.58 C4.51 232.39 4.26
+							 232.28 4 232.28 ZM7.59 229.23 C7.52 229.23 7.45 229.22 7.39 229.18 L4.19 227.34 C4.13 227.3 4.08 227.25
+							 4.05 227.19 C4.01 227.13 4 227.06 4 226.99 L4 223.51 L1 221.78 C0.94 221.75 0.89 221.7 0.85 221.64 C0.82
+							 221.58 0.8 221.51 0.8 221.44 L0.8 217.75 C0.8 217.68 0.82 217.61 0.85 217.55 C0.89 217.49 0.94 217.44
+							 1 217.4 L4.19 215.55 C4.26 215.52 4.32 215.5 4.39 215.5 C4.46 215.5 4.53 215.52 4.59 215.55 L7.59 217.28
+							 L10.59 215.55 C10.65 215.52 10.72 215.5 10.79 215.5 C10.86 215.5 10.93 215.52 10.99 215.55 L14.18 217.4
+							 C14.24 217.44 14.29 217.49 14.33 217.55 C14.36 217.61 14.38 217.68 14.38 217.75 L14.38 221.44 C14.38
+							 221.51 14.36 221.58 14.33 221.64 C14.29 221.7 14.24 221.75 14.18 221.78 L11.19 223.51 L11.19 226.99
+							 C11.19 227.06 11.17 227.13 11.13 227.19 C11.1 227.25 11.05 227.3 10.99 227.34 L7.79 229.18 C7.73 229.22
+							 7.66 229.23 7.59 229.23 ZM7.99 225.37 L7.99 228.14 L10.39 226.76 L10.39 223.99 L7.99 225.37 ZM4.79 226.76
+							 L7.19 228.14 L7.19 225.37 L4.79 223.99 L4.79 226.76 ZM5.19 223.29 L7.59 224.69 L9.99 223.3 L7.59 221.9
+							 L5.19 223.29 ZM11.19 219.82 L11.19 222.59 L13.58 221.21 L13.58 218.44 L11.19 219.82 ZM7.99 221.21 L10.39
+							 222.59 L10.39 219.82 L7.99 218.44 L7.99 221.21 ZM4.79 219.82 L4.79 222.59 L7.19 221.21 L7.19 218.44
+							 L4.79 219.82 ZM1.6 221.21 L4 222.59 L4 219.82 L1.6 218.44 L1.6 221.21 ZM8.39 217.75 L10.79 219.13 L13.18
+							 217.75 L10.79 216.36 L8.39 217.75 ZM2 217.75 L4.39 219.13 L6.79 217.75 L4.39 216.36 L2 217.75 Z"
+						class="st26"/>
+			</g>
+		</g>
+		<g id="shape1257-206" v:mID="1257" v:groupContext="shape" transform="translate(427.816,-55.8813)">
+			<title>工作表.1257</title>
+			<desc>Continual Learning</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.3858" cy="230.707" width="46.78" height="8.74427"/>
+			<rect x="0" y="226.335" width="46.7717" height="8.74427" class="st4"/>
+			<text x="7.61" y="228.31" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Continual <tspan
+						x="8.95" dy="1.2em" class="st10">Learning</tspan></text>		</g>
+		<g id="group1258-210" transform="translate(433.117,-60.7134)" v:mID="1258" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+			</v:userDefs>
+			<title>量子技术.1585</title>
+			<g id="shape1259-211" v:mID="1259" v:groupContext="shape" transform="translate(0.638306,-0.638306)">
+				<title>工作表.1259</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M34.89 200.19 L0 200.19 L0 235.08 L34.89 235.08 L34.89 200.19 Z" class="st25"/>
+			</g>
+			<g id="shape1260-213" v:mID="1260" v:groupContext="shape">
+				<title>工作表.1260</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M34.89 200.19 L34.89 233.8 L1.28 233.8 L1.28 200.19 L34.89 200.19 ZM36.17 198.91 L0 198.91 L0 235.08 L36.17
+							 235.08 L36.17 198.91 Z" class="st25"/>
+			</g>
+			<g id="shape1261-215" v:mID="1261" v:groupContext="shape" transform="translate(9.18846,-8.02133)">
+				<title>工作表.1261</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<path d="M16.79 224.38 C18.11 222.75 18.52 221.31 17.95 220.32 C17.26 219.12 15.26 218.9 12.72 219.54 C12.65 219.29
+							 12.57 219.05 12.49 218.81 C12.82 218.67 13.1 218.42 13.27 218.11 C13.43 217.79 13.49 217.42 13.41 217.07
+							 C13.34 216.72 13.15 216.41 12.87 216.18 C12.6 215.95 12.25 215.83 11.89 215.83 C11.57 215.83 11.25 215.94
+							 10.99 216.13 C10.79 215.9 10.55 215.72 10.28 215.6 C10.01 215.47 9.72 215.4 9.42 215.39 C8.04 215.39
+							 6.87 217.01 6.13 219.53 C3.57 218.9 1.58 219.11 0.89 220.31 C0.31 221.3 0.73 222.75 2.05 224.37 C2.28
+							 224.66 2.55 224.95 2.82 225.22 C2.51 225.56 2.22 225.88 1.97 226.21 C1.84 226.17 1.71 226.15 1.57 226.15
+							 C1.25 226.15 0.93 226.25 0.67 226.44 C0.4 226.63 0.2 226.9 0.1 227.21 C0 227.52 0 227.85 0.1 228.17
+							 C0.2 228.48 0.4 228.75 0.66 228.94 C0.61 229.36 0.69 229.78 0.9 230.15 C1.32 230.92 2.31 231.28 3.62
+							 231.28 C4.47 231.27 5.31 231.15 6.13 230.93 C6.85 233.46 8.05 235.08 9.42 235.08 C10.8 235.08 11.98
+							 233.46 12.71 230.93 C13.28 231.08 13.86 231.19 14.45 231.25 C14.55 231.61 14.77 231.92 15.09 232.13
+							 C15.4 232.34 15.78 232.42 16.15 232.37 C16.52 232.32 16.86 232.13 17.11 231.85 C17.35 231.56 17.48 231.2
+							 17.48 230.82 C17.48 230.78 17.48 230.73 17.48 230.68 C17.68 230.53 17.85 230.35 17.97 230.14 C18.66
+							 228.95 17.85 227.1 16.03 225.22 C16.29 224.94 16.56 224.65 16.79 224.38 ZM17.22 220.74 C17.59 221.4
+							 17.22 222.53 16.14 223.84 C15.91 224.11 15.67 224.38 15.4 224.65 C14.75 224.05 14.06 223.49 13.34 222.99
+							 C13.25 222.1 13.11 221.23 12.91 220.36 C15.14 219.79 16.77 219.95 17.19 220.73 L17.22 220.74 ZM11.01
+							 227.98 C10.47 228.29 9.94 228.56 9.43 228.83 C8.9 228.57 8.36 228.3 7.84 227.98 C7.32 227.66 6.8 227.36
+							 6.32 227.02 C6.28 226.45 6.25 225.85 6.25 225.23 C6.25 224.61 6.28 224.02 6.32 223.44 C6.81 223.11 7.31
+							 222.79 7.84 222.49 C8.36 222.19 8.9 221.9 9.42 221.64 C9.94 221.89 10.46 222.16 11 222.49 C11.54 222.81
+							 12.04 223.1 12.51 223.44 C12.56 224.02 12.58 224.62 12.58 225.23 C12.58 225.83 12.58 226.45 12.52 227.02
+							 C12.03 227.36 11.53 227.67 11 227.97 L11.01 227.98 ZM12.41 228.11 C12.33 228.7 12.23 229.29 12.09 229.87
+							 C11.54 229.7 10.98 229.5 10.41 229.25 C10.74 229.08 11.08 228.9 11.42 228.7 C11.75 228.51 12.09 228.31
+							 12.41 228.1 L12.41 228.11 ZM8.42 229.27 C7.84 229.51 7.28 229.72 6.72 229.88 C6.6 229.33 6.5 228.74
+							 6.42 228.11 C6.74 228.32 7.06 228.54 7.4 228.71 C7.74 228.89 8.08 229.08 8.42 229.26 L8.42 229.27 ZM5.45
+							 226.39 C4.95 226.01 4.49 225.62 4.06 225.24 C4.49 224.85 4.95 224.46 5.45 224.09 C5.43 224.46 5.42 224.85
+							 5.42 225.24 C5.42 225.63 5.42 226.01 5.43 226.38 L5.45 226.39 ZM6.45 222.36 C6.53 221.73 6.63 221.14
+							 6.75 220.59 C7.33 220.77 7.9 220.97 8.45 221.21 C8.12 221.38 7.78 221.56 7.45 221.76 C7.11 221.96 6.75
+							 222.14 6.43 222.35 L6.45 222.36 ZM10.43 221.21 C11.02 220.96 11.58 220.76 12.14 220.59 C12.26 221.15
+							 12.36 221.74 12.44 222.36 C12.12 222.15 11.8 221.95 11.46 221.76 C11.13 221.57 10.75 221.37 10.42 221.2
+							 L10.43 221.21 ZM13.41 224.09 C13.92 224.47 14.38 224.86 14.79 225.24 C14.35 225.64 13.89 226.03 13.41
+							 226.39 C13.43 226.01 13.44 225.62 13.44 225.24 C13.44 224.85 13.43 224.46 13.41 224.08 L13.41 224.09
+							 ZM11.89 216.67 C12.03 216.67 12.16 216.72 12.28 216.79 C12.39 216.87 12.48 216.98 12.53 217.11 C12.59
+							 217.23 12.6 217.37 12.57 217.51 C12.55 217.64 12.48 217.77 12.38 217.87 C12.28 217.96 12.16 218.03 12.02
+							 218.06 C11.89 218.08 11.75 218.07 11.62 218.02 C11.49 217.96 11.38 217.88 11.31 217.76 C11.23 217.65
+							 11.19 217.51 11.19 217.37 C11.19 217.19 11.26 217.01 11.39 216.88 C11.53 216.75 11.7 216.67 11.89 216.67
+							 ZM9.42 216.25 C9.62 216.27 9.82 216.33 10 216.42 C10.17 216.52 10.33 216.65 10.45 216.81 C10.38 217
+							 10.34 217.19 10.34 217.39 C10.34 217.76 10.47 218.11 10.7 218.39 C10.93 218.66 11.26 218.85 11.62 218.91
+							 C11.71 219.19 11.81 219.47 11.89 219.76 C11.05 220.03 10.22 220.35 9.42 220.72 C8.61 220.35 7.78 220.03
+							 6.94 219.76 C7.57 217.57 8.52 216.23 9.42 216.23 L9.42 216.25 ZM2.73 223.82 C1.66 222.51 1.27 221.39
+							 1.65 220.73 C2.09 219.95 3.72 219.79 5.94 220.35 C5.74 221.21 5.59 222.09 5.51 222.97 C4.79 223.48 4.1
+							 224.04 3.44 224.63 C3.17 224.38 2.93 224.1 2.73 223.82 ZM1.59 227 C1.72 227 1.86 227.04 1.97 227.12
+							 C2.09 227.19 2.18 227.3 2.23 227.43 C2.28 227.56 2.3 227.7 2.27 227.83 C2.24 227.97 2.18 228.09 2.08
+							 228.19 C1.98 228.29 1.86 228.35 1.72 228.38 C1.59 228.41 1.45 228.39 1.32 228.34 C1.19 228.29 1.08 228.2
+							 1.01 228.08 C0.93 227.97 0.89 227.83 0.89 227.7 C0.89 227.51 0.96 227.34 1.09 227.21 C1.21 227.08 1.38
+							 227 1.56 227 L1.59 227 ZM1.65 229.73 C1.56 229.58 1.52 229.41 1.51 229.24 L1.59 229.24 C1.99 229.23
+							 2.38 229.07 2.66 228.78 C2.95 228.49 3.11 228.1 3.11 227.7 C3.11 227.31 2.95 226.93 2.68 226.65 C2.91
+							 226.38 3.15 226.1 3.42 225.8 C4.07 226.4 4.77 226.96 5.49 227.47 C5.58 228.35 5.72 229.23 5.92 230.09
+							 C3.7 230.67 2.07 230.5 1.62 229.73 L1.65 229.73 ZM9.42 234.23 C8.52 234.23 7.57 232.9 6.94 230.7 C7.79
+							 230.43 8.61 230.12 9.42 229.75 C10.22 230.12 11.05 230.44 11.89 230.7 C11.27 232.89 10.31 234.23 9.42
+							 234.23 ZM15.92 231.53 C15.78 231.53 15.65 231.49 15.53 231.42 C15.42 231.34 15.33 231.23 15.27 231.1
+							 C15.22 230.98 15.21 230.84 15.23 230.7 C15.26 230.57 15.33 230.44 15.42 230.34 C15.52 230.25 15.65 230.18
+							 15.78 230.15 C15.92 230.13 16.06 230.14 16.19 230.19 C16.31 230.24 16.42 230.33 16.5 230.45 C16.58 230.56
+							 16.62 230.7 16.62 230.84 C16.62 231.02 16.54 231.2 16.41 231.33 C16.28 231.46 16.1 231.53 15.92 231.53
+							 ZM17.19 229.73 C17.16 229.77 17.13 229.82 17.1 229.86 C16.95 229.68 16.77 229.54 16.57 229.44 C16.37
+							 229.35 16.14 229.29 15.92 229.29 C15.59 229.29 15.26 229.4 15 229.6 C14.73 229.8 14.54 230.08 14.44
+							 230.39 C13.93 230.33 13.43 230.24 12.94 230.11 C13.14 229.24 13.28 228.37 13.36 227.48 C14.09 226.98
+							 14.78 226.42 15.43 225.82 C16.99 227.46 17.66 228.95 17.19 229.73 Z" class="st26"/>
+			</g>
+		</g>
+		<g id="shape1262-217" v:mID="1262" v:groupContext="shape" transform="translate(380.689,-10.7673)">
+			<title>工作表.1262</title>
+			<desc>Federated Learning</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.3858" cy="230.707" width="46.78" height="8.74427"/>
+			<rect x="0" y="226.335" width="46.7717" height="8.74427" class="st4"/>
+			<text x="7.62" y="228.31" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Federated<v:newlineChar/><tspan
+						x="8.95" dy="1.2em" class="st10">Learning</tspan></text>		</g>
+		<g id="shape1264-221" v:mID="1264" v:groupContext="shape" transform="translate(6.4592,-87.3027)">
+			<title>工作表.1264</title>
+			<desc>Weight Space Generation (WSG)</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="114.253" cy="220.906" width="228.51" height="28.3465"/>
+			<rect x="0" y="206.733" width="228.506" height="28.3465" class="st4"/>
+			<text x="7.8" y="225.41" class="st31" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Weight Space Generation (WSG)</text>		</g>
+		<g id="group1265-224" transform="translate(423.226,-126.075)" v:mID="1265" v:groupContext="group">
+			<title>工作表.1265</title>
+			<g id="shape1130-225" v:mID="1130" v:groupContext="shape">
+				<title>工作表.1130</title>
+				<desc>Function Prediction</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="26.305" cy="220.906" width="52.62" height="28.3465"/>
+				<rect x="0" y="206.733" width="52.61" height="28.3465" class="st4"/>
+				<text x="8.53" y="217.91" class="st32" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Function <tspan
+							x="5.75" dy="1.2em" class="st10">Prediction</tspan></text>			</g>
+			<g id="group1131-229" transform="translate(8.38585,-20.9268)" v:mID="1131" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+				</v:userDefs>
+				<title>Amazon 预测.1506</title>
+				<g id="shape1132-230" v:mID="1132" v:groupContext="shape">
+					<title>工作表.1132</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M35.84 199.24 L0 199.24 L0 235.08 L35.84 235.08 L35.84 199.24 Z" class="st25"/>
+				</g>
+				<g id="shape1133-232" v:mID="1133" v:groupContext="shape" transform="translate(24.3843,-7.39225)">
+					<title>工作表.1133</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M3.31 235.08 L0 235.08 L0 234.12 L2.36 234.12 L2.36 219.08 L3.31 219.08 L3.31 235.08 Z" class="st33"/>
+				</g>
+				<g id="shape1134-234" v:mID="1134" v:groupContext="shape" transform="translate(6.49381,-7.3923)">
+					<title>工作表.1134</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M17.89 235.08 L0 235.08 L0 214.96 L17.19 214.96 L17.19 215.91 L0.96 215.91 L0.96 234.12 L17.89 234.12
+								 L17.89 235.08 Z" class="st33"/>
+				</g>
+				<g id="shape1135-236" v:mID="1135" v:groupContext="shape" transform="translate(8.83056,-17.4986)">
+					<title>工作表.1135</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M4.15 235.08 L0 235.08 L0 234.12 L3.82 234.12 L5.11 230.74 C5.14 230.65 5.2 230.57 5.29 230.51 C5.37
+								 230.46 5.46 230.43 5.56 230.43 L9.86 230.43 L11.45 227.56 C11.5 227.49 11.56 227.43 11.63 227.38
+								 C11.7 227.34 11.78 227.32 11.87 227.32 L16.24 227.32 L19.3 224.76 L19.92 225.49 L16.72 228.16 C16.63
+								 228.24 16.53 228.27 16.41 228.27 L12.14 228.27 L10.54 231.14 C10.5 231.22 10.44 231.28 10.37 231.32
+								 C10.29 231.37 10.21 231.39 10.13 231.39 L5.89 231.39 L4.6 234.78 C4.56 234.87 4.5 234.94 4.42 235
+								 C4.34 235.05 4.25 235.08 4.15 235.08 Z" class="st33"/>
+				</g>
+				<g id="shape1136-238" v:mID="1136" v:groupContext="shape" transform="translate(26.7497,-25.8466)">
+					<title>工作表.1136</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M2.59 235.08 L1.64 235.08 L1.64 233.44 L0 233.44 L0 232.48 L2.59 232.48 L2.59 235.08 Z" class="st33"/>
+				</g>
+				<g id="shape1137-240" v:mID="1137" v:groupContext="shape" transform="translate(8.93555,-9.44703)">
+					<title>工作表.1137</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M4.21 235.08 L0 235.08 L0 228.11 L4.21 228.11 L4.21 235.08 ZM0.96 234.12 L3.25 234.12 L3.25 229.07 L0.96
+								 229.07 L0.96 234.12 Z" class="st33"/>
+				</g>
+				<g id="shape1138-242" v:mID="1138" v:groupContext="shape" transform="translate(14.899,-9.44703)">
+					<title>工作表.1138</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M4.21 235.08 L0 235.08 L0 224.41 L4.21 224.41 L4.21 235.08 ZM0.96 234.12 L3.26 234.12 L3.26 225.36 L0.96
+								 225.36 L0.96 234.12 Z" class="st33"/>
+				</g>
+				<g id="shape1139-244" v:mID="1139" v:groupContext="shape" transform="translate(20.9199,-9.44698)">
+					<title>工作表.1139</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M4.21 235.08 L0 235.08 L0 221.34 L4.21 221.34 L4.21 235.08 ZM0.96 234.12 L3.25 234.12 L3.25 222.3 L0.96
+								 222.3 L0.96 234.12 Z" class="st33"/>
+				</g>
+			</g>
+		</g>
+		<g id="group1266-246" transform="translate(475.065,-126.075)" v:mID="1266" v:groupContext="group">
+			<title>工作表.1266</title>
+			<g id="shape1123-247" v:mID="1123" v:groupContext="shape" transform="translate(12.3562,-27.4572)">
+				<title>搜索.1260</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M15.19 212.3 A7.95527 7.82999 -180 0 0 7.23 220.13 A7.91313 7.78851 -180 0 0 8.93 224.96 A2.01364 1.98193
+							 -180 0 0 8.29 225.31 L0.5 231.83 A1.34923 1.32799 -180 0 0 0.38 233.77 L1.23 234.66 A1.27007 1.25007
+							 -180 0 0 3.16 234.62 L9.91 226.91 A1.98455 1.9533 -180 0 0 10.27 226.28 A7.91383 7.7892 -180 0 0 15.19
+							 227.96 A7.95527 7.82999 -180 0 0 23.14 220.13 A7.95527 7.82999 -180 0 0 15.19 212.3 ZM15.19 226.54 A6.51671
+							 6.41408 0 0 1 8.68 220.13 A6.51671 6.41408 0 0 1 15.19 213.73 A6.51671 6.41408 0 0 1 21.7 220.13 A6.51671
+							 6.41408 0 0 1 15.19 226.54 Z" class="st34"/>
+			</g>
+			<g id="shape1124-249" v:mID="1124" v:groupContext="shape">
+				<title>工作表.1124</title>
+				<desc>Model Retrieval</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="23.9273" cy="220.906" width="47.86" height="28.3465"/>
+				<rect x="0" y="206.733" width="47.8545" height="28.3465" class="st4"/>
+				<text x="10.87" y="217.91" class="st32" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Model<v:newlineChar/><tspan
+							x="5.6" dy="1.2em" class="st10">Retrieval</tspan></text>			</g>
+		</g>
+		<g id="group1267-253" transform="translate(522.149,-126.075)" v:mID="1267" v:groupContext="group">
+			<title>工作表.1267</title>
+			<g id="group1126-254" transform="translate(13.2471,-28.1658)" v:mID="1126" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="Monoline" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>拼图.1298</title>
+				<g id="shape1127-255" v:mID="1127" v:groupContext="shape" transform="translate(0.36428,-0.36428)">
+					<title>工作表.1127</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M13.33 230.1 C11.63 230.15 11.01 227.96 12.22 226.7 L12.4 226.52 C13.67 225.3 15.91 225.87 15.86 227.57
+								 C15.83 228.55 17 229.74 17.69 229.04 L20.63 226.1 L16.25 221.72 C15.55 221.02 16.74 219.86 17.72
+								 219.89 C19.42 219.94 19.99 217.7 18.77 216.43 L18.59 216.25 C17.33 215.04 15.14 215.66 15.19 217.36
+								 C15.22 218.34 14.06 219.53 13.36 218.83 L8.97 214.45 L6.01 217.39 C5.31 218.08 6.5 219.24 7.48 219.22
+								 C9.18 219.17 9.8 221.36 8.59 222.62 L8.41 222.8 C7.14 224.02 4.9 223.45 4.95 221.75 C4.98 220.77
+								 3.82 219.58 3.12 220.28 L0 223.42 L4.38 227.81 C5.08 228.5 3.89 229.66 2.91 229.64 C1.21 229.59
+								 0.64 231.83 1.86 233.09 L2.04 233.27 C3.3 234.49 5.49 233.87 5.44 232.17 C5.42 231.19 6.58 230 7.27
+								 230.7 L11.66 235.08 L14.8 231.93 C15.5 231.24 14.34 230.08 13.33 230.1 Z" class="st34"/>
+				</g>
+				<g id="shape1128-257" v:mID="1128" v:groupContext="shape">
+					<title>工作表.1128</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+				</g>
+			</g>
+			<g id="shape1129-259" v:mID="1129" v:groupContext="shape">
+				<title>工作表.1129</title>
+				<desc>Model Editing</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="23.9273" cy="220.906" width="47.86" height="28.3465"/>
+				<rect x="0" y="206.733" width="47.8545" height="28.3465" class="st4"/>
+				<text x="10.87" y="217.91" class="st32" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Model<v:newlineChar/><tspan
+							x="9.21" dy="1.2em" class="st10">Editing</tspan></text>			</g>
+		</g>
+		<g id="group1268-263" transform="translate(6.10188,-131.497)" v:mID="1268" v:groupContext="group">
+			<title>工作表.1268</title>
+			<g id="group1036-264" transform="translate(26.0577,426.378) scale(1,-1)" v:mID="1036" v:groupContext="group">
+				<title>工作表.1036</title>
+				<g id="shape1037-265" v:mID="1037" v:groupContext="shape" transform="translate(-109.411,34.2043) rotate(-30)">
+					<title>六边形.1102</title>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					</v:userDefs>
+					<path d="M20.23 209.43 L5.42 209.43 L-1.98 222.26 L5.42 235.08 L20.23 235.08 L27.63 222.26 L20.23 209.43 Z"
+							class="st35"/>
+				</g>
+				<g id="group1038-267" transform="translate(4.05982,-4.56573)" v:mID="1038" v:groupContext="group">
+					<title>工作表.1038</title>
+					<g id="shape1039-268" v:mID="1039" v:groupContext="shape" v:layerMember="1"
+							transform="translate(-1.43606,-12.9988)">
+						<title>动态连接线.1064</title>
+						<path d="M5.5 240.08 L8.67 244.25" class="st36"/>
+					</g>
+					<g id="shape1040-271" v:mID="1040" v:groupContext="shape" v:layerMember="1"
+							transform="translate(12.6802,-21.6548)">
+						<title>动态连接线.1070</title>
+						<path d="M-5.56 240.08 L-8.61 244.25" class="st36"/>
+					</g>
+					<g id="shape1041-274" v:mID="1041" v:groupContext="shape" transform="translate(241.545,214.599) rotate(90)">
+						<title>圆形.1060</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 232.84 A2.24004 2.24004 0 1 1 4.48 232.84 A2.24004 2.24004 0 1 1 0 232.84 Z" class="st35"/>
+					</g>
+					<g id="shape1042-276" v:mID="1042" v:groupContext="shape" transform="translate(236.905,222.599) rotate(90)">
+						<title>圆形.1058</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 232.84 A2.24004 2.24004 0 1 1 4.48 232.84 A2.24004 2.24004 0 1 1 0 232.84 Z" class="st35"/>
+					</g>
+					<g id="shape1043-278" v:mID="1043" v:groupContext="shape" transform="translate(241.659,230.599) rotate(90)">
+						<title>圆形.1057</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 232.84 A2.24004 2.24004 0 1 1 4.48 232.84 A2.24004 2.24004 0 1 1 0 232.84 Z" class="st35"/>
+					</g>
+					<g id="shape1044-280" v:mID="1044" v:groupContext="shape" transform="translate(246.412,222.599) rotate(90)">
+						<title>圆形.1103</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 232.84 A2.24004 2.24004 0 1 1 4.48 232.84 A2.24004 2.24004 0 1 1 0 232.84 Z" class="st35"/>
+					</g>
+					<g id="shape1045-282" v:mID="1045" v:groupContext="shape" v:layerMember="1"
+							transform="translate(4.84474,-21.6548)">
+						<title>动态连接线.1104</title>
+						<path d="M5.44 240.08 L8.73 244.25" class="st36"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape1046-285" v:mID="1046" v:groupContext="shape">
+				<title>工作表.1046</title>
+				<desc>Equivariance</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.88" cy="228.56" width="77.77" height="13.0394"/>
+				<rect x="0" y="222.04" width="77.76" height="13.0394" class="st4"/>
+				<text x="12.51" y="231.56" class="st37" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Equivariance</text>			</g>
+		</g>
+		<g id="group1269-288" transform="translate(65.4366,-131.135)" v:mID="1269" v:groupContext="group">
+			<title>工作表.1269</title>
+			<g id="group1027-289" transform="translate(19.7762,-14.1689)" v:mID="1027" v:groupContext="group">
+				<title>工作表.1027</title>
+				<g id="shape1028-290" v:mID="1028" v:groupContext="shape" transform="translate(-109.411,34.2043) rotate(-30)">
+					<title>六边形.1102</title>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					</v:userDefs>
+					<path d="M20.23 209.43 L5.42 209.43 L-1.98 222.26 L5.42 235.08 L20.23 235.08 L27.63 222.26 L20.23 209.43 Z"
+							class="st35"/>
+				</g>
+				<g id="group1029-292" transform="translate(4.05982,-4.56573)" v:mID="1029" v:groupContext="group">
+					<title>工作表.1029</title>
+					<g id="shape1030-293" v:mID="1030" v:groupContext="shape" v:layerMember="1"
+							transform="translate(-1.43606,-12.9988)">
+						<title>动态连接线.1064</title>
+						<path d="M5.5 240.08 L8.67 244.25" class="st36"/>
+					</g>
+					<g id="shape1031-296" v:mID="1031" v:groupContext="shape" v:layerMember="1"
+							transform="translate(12.6802,-21.6548)">
+						<title>动态连接线.1070</title>
+						<path d="M-5.56 240.08 L-8.61 244.25" class="st36"/>
+					</g>
+					<g id="shape1032-299" v:mID="1032" v:groupContext="shape" transform="translate(241.545,214.599) rotate(90)">
+						<title>圆形.1060</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 232.84 A2.24004 2.24004 0 1 1 4.48 232.84 A2.24004 2.24004 0 1 1 0 232.84 Z" class="st35"/>
+					</g>
+					<g id="shape1033-301" v:mID="1033" v:groupContext="shape" transform="translate(236.905,222.599) rotate(90)">
+						<title>圆形.1058</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 232.84 A2.24004 2.24004 0 1 1 4.48 232.84 A2.24004 2.24004 0 1 1 0 232.84 Z" class="st35"/>
+					</g>
+					<g id="shape1034-303" v:mID="1034" v:groupContext="shape" transform="translate(241.659,230.599) rotate(90)">
+						<title>圆形.1057</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 232.84 A2.24004 2.24004 0 1 1 4.48 232.84 A2.24004 2.24004 0 1 1 0 232.84 Z" class="st35"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape1035-305" v:mID="1035" v:groupContext="shape">
+				<title>工作表.1035</title>
+				<desc>Invariance</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="32.5984" cy="228.56" width="65.2" height="13.0394"/>
+				<rect x="0" y="222.04" width="65.1969" height="13.0394" class="st4"/>
+				<text x="11.5" y="231.56" class="st37" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Invariance</text>			</g>
+		</g>
+		<g id="group1270-308" transform="translate(113.013,-131.135)" v:mID="1270" v:groupContext="group">
+			<title>工作表.1270</title>
+			<g id="shape1017-309" v:mID="1017" v:groupContext="shape" transform="translate(26.1672,-23.0534)">
+				<title>向导.1142</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M23.86 232.43 L11.36 220.13 A1.75385 1.72623 -180 0 0 10.57 220.46 A1.75641 1.72875 -180 0 0 10.23 221.23
+							 L22.73 233.53 A1.7515 1.72392 -180 0 0 23.52 233.2 A1.75256 1.72497 -180 0 0 23.86 232.43 ZM9.44 219.35
+							 A2.47364 2.43468 0 0 1 12.26 218.8 L25.21 231.54 A2.47442 2.43546 0 0 1 24.65 234.31 A2.47603 2.43704
+							 0 0 1 21.83 234.87 L8.88 222.12 A2.47421 2.43525 0 0 1 9.44 219.35 ZM15.09 218.02 L20.29 220.04 L16.24
+							 221.61 L15.27 220.65 L16.83 220.04 A6697.31 6591.84 0 0 1 13.41 218.71 L14.87 215.38 A10453.2 10288.5
+							 -180 0 0 11.5 216.83 L10.14 213.46 A5851.54 5759.39 0 0 1 8.79 216.83 L5.42 215.38 A10146.7 9986.9 -180
+							 0 0 6.88 218.71 L3.46 220.04 L6.88 221.37 L5.42 224.69 A10434.4 10270.1 0 0 1 8.79 223.25 L10.15 226.62
+							 L10.76 225.08 L11.74 226.04 L10.15 230.02 L8.1 224.91 L2.97 227.1 L5.2 222.06 L0 220.04 L5.2 218.02
+							 L2.97 212.98 L8.09 215.17 L10.14 210.05 L12.19 215.17 L17.32 212.98 L15.09 218.02 Z" class="st38"/>
+			</g>
+			<g id="shape1018-311" v:mID="1018" v:groupContext="shape">
+				<title>工作表.1018</title>
+				<desc>Model Optimization</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.88" cy="225.412" width="77.77" height="19.3343"/>
+				<rect x="0" y="215.745" width="77.76" height="19.3343" class="st39"/>
+				<text x="25.83" y="222.41" class="st37" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Model<v:newlineChar/><tspan
+							x="12.5" dy="1.2em" class="st10">Optimization</tspan></text>			</g>
+		</g>
+		<g id="group1271-315" transform="translate(173.25,-134.282)" v:mID="1271" v:groupContext="group">
+			<title>工作表.1271</title>
+			<g id="shape1014-316" v:mID="1014" v:groupContext="shape" transform="translate(30.9763,-21.1697)">
+				<title>数据库.1137</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M-0.01 216.87 A7.91477 4.1951 179.4 1 1 15.82 216.7 A7.91477 4.1951 179.4 1 1 -0.01 216.87" class="st36"/>
+				<path d="M15.81 216.93 L15.81 230.36 A7.52924 4.37401 0 0 1 7.89 234.96 A7.50548 4.36021 0 0 1 -0 230.36 L0 216.93"
+						class="st36"/>
+			</g>
+			<g id="shape1015-320" v:mID="1015" v:groupContext="shape">
+				<title>工作表.1015</title>
+				<desc>Weight Space Augmentation</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.88" cy="228.56" width="77.77" height="13.0394"/>
+				<rect x="0" y="222.04" width="77.76" height="13.0394" class="st4"/>
+				<text x="10.97" y="225.56" class="st37" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Weight Space<v:newlineChar/><tspan
+							x="10.27" dy="1.2em" class="st10">Augmentation</tspan></text>			</g>
+		</g>
+		<g id="group1272-324" transform="translate(233.486,-134.282)" v:mID="1272" v:groupContext="group">
+			<title>工作表.1272</title>
+			<g id="group1170-325" transform="translate(29.4306,-21.1697)" v:mID="1170" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+				</v:userDefs>
+				<title>工具包.1551</title>
+				<g id="group1171-326" v:mID="1171" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<title>工作表.1171</title>
+					<g id="shape1172-327" v:mID="1172" v:groupContext="shape">
+						<title>工作表.1172</title>
+						<v:userDefs>
+							<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+						</v:userDefs>
+						<path d="M9.45 235.08 L0 229.46 L0 218.2 L9.45 212.58 L18.9 218.2 L18.9 229.46 L9.45 235.08 ZM0.98 228.87
+									 L9.45 233.91 L17.91 228.87 L17.91 218.79 L9.45 213.75 L0.98 218.79 L0.98 228.87 Z"
+								class="st40"/>
+					</g>
+					<g id="shape1173-329" v:mID="1173" v:groupContext="shape" transform="translate(7.50427,-4.46416)">
+						<title>工作表.1173</title>
+						<v:userDefs>
+							<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+						</v:userDefs>
+						<path d="M6.18 235.08 L0 228.71 L2.1 226.54 L8.28 232.92 L6.18 235.08 ZM1.39 228.71 L6.18 233.64 L6.87 232.92
+									 L2.08 227.98 L1.39 228.71 Z" class="st40"/>
+					</g>
+					<g id="shape1174-331" v:mID="1174" v:groupContext="shape" transform="translate(5.49857,-11.2478)">
+						<title>工作表.1174</title>
+						<v:userDefs>
+							<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+						</v:userDefs>
+						<path d="M0.7 231.28 L0 231.99 L2.99 235.08 L3.69 234.36 L0.7 231.28 Z" class="st40"/>
+					</g>
+					<g id="shape1175-333" v:mID="1175" v:groupContext="shape" transform="translate(3.08759,-13.9969)">
+						<title>工作表.1175</title>
+						<v:userDefs>
+							<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+						</v:userDefs>
+						<path d="M2.31 235.08 L2.27 235.08 C2.11 235.07 1.95 235.03 1.81 234.96 C1.67 234.89 1.54 234.79 1.44 234.67
+									 L0 232.91 L1.31 231.55 L3.02 233.04 C3.2 233.19 3.32 233.4 3.37 233.62 C3.43 233.85 3.42 234.09
+									 3.34 234.31 C3.26 234.53 3.12 234.72 2.93 234.86 C2.75 234.99 2.53 235.07 2.3 235.07 L2.31 235.08
+									 ZM1.33 232.97 L2.18 234.01 C2.19 234.03 2.21 234.04 2.23 234.05 C2.25 234.06 2.26 234.06 2.28
+									 234.06 C2.3 234.06 2.32 234.06 2.34 234.05 C2.35 234.05 2.37 234.04 2.38 234.02 C2.4 234.01
+									 2.41 233.99 2.42 233.97 C2.42 233.96 2.43 233.94 2.43 233.92 C2.42 233.88 2.41 233.84 2.38 233.81
+									 L1.39 232.93 L1.33 232.97 Z" class="st40"/>
+					</g>
+					<g id="shape1176-335" v:mID="1176" v:groupContext="shape" transform="translate(3.25059,-4.45248)">
+						<title>工作表.1176</title>
+						<v:userDefs>
+							<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+						</v:userDefs>
+						<path d="M2.5 235.08 C2.13 235.08 1.76 234.99 1.43 234.83 L0.78 234.52 L2.01 233.25 L1.78 233.01 L0.55 234.28
+									 L0.29 233.63 C0.08 233.2 0 232.71 0.05 232.23 C0.1 231.75 0.29 231.29 0.58 230.92 C0.88 230.54
+									 1.27 230.26 1.71 230.1 C2.16 229.95 2.64 229.93 3.09 230.04 L3.74 229.35 L4.44 230.07 L3.32
+									 231.21 L3.03 231.1 C2.76 230.99 2.46 230.96 2.18 231.02 C1.9 231.08 1.64 231.23 1.44 231.44
+									 C1.2 231.69 1.04 232.02 1.01 232.38 L1.79 231.57 L3.42 233.25 L2.64 234.06 C2.98 234.02 3.3
+									 233.87 3.54 233.62 C3.75 233.41 3.89 233.14 3.95 232.85 C4.01 232.56 3.98 232.26 3.88 231.98
+									 L3.77 231.67 L4.96 230.44 L5.66 231.16 L4.9 231.94 C5 232.37 4.98 232.81 4.87 233.23 C4.75 233.64
+									 4.53 234.03 4.23 234.33 C3.77 234.81 3.15 235.08 2.5 235.08 Z" class="st40"/>
+					</g>
+					<g id="shape1177-337" v:mID="1177" v:groupContext="shape" transform="translate(10.1245,-11.554)">
+						<title>工作表.1177</title>
+						<v:userDefs>
+							<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+						</v:userDefs>
+						<path d="M1.87 235.08 L1.17 234.37 L2.28 233.24 L2.58 233.36 C2.84 233.47 3.14 233.49 3.42 233.43 C3.7 233.37
+									 3.96 233.22 4.16 233.01 C4.4 232.76 4.56 232.43 4.59 232.08 L3.81 232.89 L2.18 231.2 L2.96 230.4
+									 C2.62 230.44 2.3 230.59 2.06 230.84 C1.85 231.05 1.71 231.32 1.65 231.61 C1.59 231.9 1.61 232.2
+									 1.72 232.48 L1.84 232.79 L0.7 233.96 L0 233.24 L0.7 232.51 C0.59 232.05 0.61 231.55 0.76 231.1
+									 C0.91 230.64 1.19 230.24 1.55 229.93 C1.92 229.63 2.36 229.44 2.82 229.39 C3.29 229.33 3.76
+									 229.42 4.18 229.63 L4.8 229.94 L3.58 231.2 L3.81 231.45 L5.04 230.18 L5.32 230.81 C5.52 231.25
+									 5.6 231.73 5.54 232.2 C5.49 232.68 5.3 233.13 5.01 233.5 C4.71 233.87 4.33 234.15 3.89 234.31
+									 C3.45 234.46 2.97 234.48 2.52 234.37 L1.87 235.08 Z" class="st40"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape1179-339" v:mID="1179" v:groupContext="shape">
+				<title>工作表.1179</title>
+				<desc>Model Compression</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.88" cy="228.56" width="77.77" height="13.0394"/>
+				<rect x="0" y="222.04" width="77.76" height="13.0394" class="st4"/>
+				<text x="25.83" y="225.56" class="st37" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Model<v:newlineChar/><tspan
+							x="12.49" dy="1.2em" class="st10">Compression</tspan></text>			</g>
+		</g>
+		<g id="group1273-343" transform="translate(7.55565,-4.9488)" v:mID="1273" v:groupContext="group">
+			<title>工作表.1273</title>
+			<g id="shape1114-344" v:mID="1114" v:groupContext="shape">
+				<title>工作表.1114</title>
+				<desc>Hyper networks</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="30.9518" cy="220.906" width="61.91" height="28.3465"/>
+				<rect x="0" y="206.733" width="61.9037" height="28.3465" class="st4"/>
+				<text x="18.46" y="217.91" class="st41" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Hyper<v:newlineChar/><tspan
+							x="12.62" dy="1.2em" class="st10">networks</tspan></text>			</g>
+			<g id="group1115-348" transform="translate(19.2855,-27.3486)" v:mID="1115" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="Monoline" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>分层金字塔.1347</title>
+				<g id="shape1116-349" v:mID="1116" v:groupContext="shape" transform="translate(0,-0.0272802)">
+					<title>工作表.1116</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M21.27 230.99 L2.06 230.99 L0 235.08 L23.33 235.08 L21.27 230.99 ZM18.52 225.53 L4.82 225.53 L2.75 229.62
+								 L20.58 229.62 L18.52 225.53 ZM11.66 211.95 L8.25 218.71 L15.08 218.71 L11.66 211.95 ZM15.77 220.08
+								 L7.57 220.08 L5.5 224.17 L17.83 224.17 L15.77 220.08 Z" class="st42"/>
+				</g>
+				<g id="shape1117-351" v:mID="1117" v:groupContext="shape" transform="translate(0.0491495,0)">
+					<title>工作表.1117</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+				</g>
+			</g>
+		</g>
+		<g id="group1274-353" transform="translate(57.162,-4.9488)" v:mID="1274" v:groupContext="group">
+			<title>工作表.1274</title>
+			<g id="shape1112-354" v:mID="1112" v:groupContext="shape">
+				<title>工作表.1112</title>
+				<desc>Generative Models</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="30.9518" cy="220.906" width="61.91" height="28.3465"/>
+				<rect x="0" y="206.733" width="61.9037" height="28.3465" class="st4"/>
+				<text x="9.02" y="217.91" class="st41" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Generative<v:newlineChar/><tspan
+							x="15.95" dy="1.2em" class="st10">Models</tspan></text>			</g>
+			<g id="group1140-358" transform="translate(11.3436,-21.6524)" v:mID="1140" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+				</v:userDefs>
+				<title>AWS 深度学习 AMI.1527</title>
+				<g id="shape1141-359" v:mID="1141" v:groupContext="shape">
+					<title>工作表.1141</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M34.58 200.5 L0 200.5 L0 235.08 L34.58 235.08 L34.58 200.5 Z" class="st25"/>
+				</g>
+				<g id="shape1142-361" v:mID="1142" v:groupContext="shape" transform="translate(5.76342,-5.71533)">
+					<title>工作表.1142</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M19.37 235.03 C18.83 235.03 18.32 234.85 17.91 234.51 C17.5 234.18 17.21 233.71 17.11 233.19 L9.64 233.19
+								 C9.52 233.75 9.2 234.25 8.74 234.58 C8.28 234.92 7.71 235.08 7.15 235.02 C6.58 234.96 6.05 234.7
+								 5.67 234.27 C5.28 233.85 5.07 233.3 5.07 232.73 C5.08 232.12 5.33 231.54 5.76 231.11 L2.95 225.72
+								 C2.74 225.78 2.52 225.81 2.31 225.81 C1.69 225.81 1.11 225.57 0.68 225.13 C0.24 224.7 0 224.12 0
+								 223.5 C0 222.89 0.24 222.31 0.68 221.87 C1.11 221.44 1.69 221.2 2.31 221.2 C2.52 221.2 2.74 221.23
+								 2.95 221.29 L5.76 215.92 C5.44 215.6 5.22 215.19 5.13 214.74 C5.04 214.3 5.08 213.83 5.25 213.41
+								 C5.43 212.99 5.72 212.63 6.1 212.37 C6.48 212.12 6.92 211.98 7.38 211.98 C7.91 211.98 8.42 212.16
+								 8.84 212.5 C9.25 212.83 9.53 213.3 9.64 213.82 L17.11 213.82 C17.21 213.31 17.48 212.85 17.88 212.51
+								 C18.28 212.18 18.79 211.99 19.31 211.98 C19.83 211.96 20.34 212.13 20.76 212.44 C21.17 212.76 21.47
+								 213.21 21.6 213.71 C21.73 214.22 21.68 214.75 21.47 215.23 C21.25 215.71 20.88 216.09 20.42 216.33
+								 C19.95 216.57 19.42 216.64 18.91 216.54 C18.4 216.44 17.93 216.16 17.6 215.76 L12.68 218.43 L13.09
+								 218.83 L12.43 219.49 L11.84 218.89 L7.84 221.04 L7.84 222.12 L6.92 222.12 L6.92 221.54 L4.51 222.84
+								 C4.51 222.9 4.55 222.97 4.56 223.04 L11.07 223.04 L11.07 223.97 L4.56 223.97 C4.56 224.03 4.53 224.1
+								 4.51 224.17 L6.92 225.47 L6.92 224.89 L7.84 224.89 L7.84 225.97 L11.8 228.11 L12.4 227.51 L13.05
+								 228.17 L12.65 228.57 L17.6 231.25 C17.85 230.95 18.17 230.72 18.53 230.58 C18.89 230.44 19.28 230.39
+								 19.67 230.44 C20.05 230.49 20.42 230.64 20.73 230.87 C21.04 231.1 21.29 231.4 21.46 231.75 C21.62
+								 232.1 21.69 232.49 21.67 232.88 C21.64 233.26 21.52 233.64 21.31 233.97 C21.1 234.29 20.81 234.56
+								 20.47 234.75 C20.13 234.93 19.75 235.03 19.37 235.03 ZM19.37 231.34 C19.09 231.34 18.82 231.42 18.6
+								 231.58 C18.37 231.73 18.19 231.94 18.09 232.2 C17.98 232.45 17.96 232.73 18.01 233 C18.06 233.26
+								 18.19 233.51 18.39 233.7 C18.58 233.9 18.83 234.03 19.1 234.08 C19.36 234.14 19.64 234.11 19.89
+								 234 C20.15 233.9 20.36 233.72 20.52 233.49 C20.67 233.27 20.75 233 20.75 232.73 C20.75 232.36 20.6
+								 232.01 20.34 231.75 C20.08 231.49 19.73 231.34 19.37 231.34 ZM7.38 231.34 C7.1 231.34 6.84 231.42
+								 6.61 231.58 C6.38 231.73 6.2 231.94 6.1 232.2 C5.99 232.45 5.97 232.73 6.02 233 C6.07 233.26 6.21
+								 233.51 6.4 233.7 C6.59 233.9 6.84 234.03 7.11 234.08 C7.38 234.14 7.65 234.11 7.91 234 C8.16 233.9
+								 8.38 233.72 8.53 233.49 C8.68 233.27 8.76 233 8.76 232.73 C8.76 232.36 8.61 232.01 8.36 231.75 C8.1
+								 231.49 7.74 231.34 7.38 231.34 ZM9.64 232.26 L17.11 232.26 C17.11 232.2 17.14 232.13 17.16 232.06
+								 L11.96 229.27 L9.45 231.75 C9.53 231.91 9.59 232.09 9.64 232.26 ZM7.84 230.47 C8.24 230.55 8.6 230.73
+								 8.91 231 L11.12 228.81 L7.84 227.02 L7.84 230.47 ZM3.76 225.29 L6.53 230.58 C6.65 230.53 6.78 230.49
+								 6.91 230.47 L6.91 226.5 L4.07 224.97 C3.98 225.08 3.87 225.19 3.76 225.29 ZM2.31 222.12 C2.03 222.12
+								 1.76 222.2 1.54 222.35 C1.31 222.51 1.13 222.72 1.03 222.98 C0.92 223.23 0.9 223.51 0.95 223.77
+								 C1 224.04 1.13 224.29 1.33 224.48 C1.52 224.68 1.77 224.81 2.04 224.86 C2.3 224.91 2.58 224.89 2.83
+								 224.78 C3.09 224.68 3.3 224.5 3.46 224.27 C3.61 224.05 3.69 223.78 3.69 223.5 C3.69 223.14 3.54
+								 222.79 3.28 222.53 C3.02 222.27 2.67 222.12 2.31 222.12 ZM3.76 221.72 C3.88 221.81 3.98 221.91 4.07
+								 222.02 L6.92 220.51 L6.92 216.54 C6.79 216.52 6.66 216.48 6.53 216.43 L3.76 221.72 ZM7.84 216.54
+								 L7.84 219.99 L11.13 218.2 L8.91 215.99 C8.61 216.27 8.24 216.46 7.84 216.54 ZM9.45 215.25 C10.17
+								 215.98 11.05 216.85 11.96 217.75 L17.16 214.97 C17.16 214.91 17.12 214.84 17.11 214.77 L9.64 214.77
+								 C9.59 214.93 9.53 215.1 9.45 215.25 ZM19.37 212.9 C19.09 212.9 18.82 212.98 18.6 213.13 C18.37 213.28
+								 18.19 213.5 18.09 213.75 C17.98 214.01 17.96 214.28 18.01 214.55 C18.06 214.82 18.19 215.07 18.39
+								 215.26 C18.58 215.45 18.83 215.59 19.1 215.64 C19.36 215.69 19.64 215.67 19.89 215.56 C20.15 215.46
+								 20.36 215.28 20.52 215.05 C20.67 214.82 20.75 214.56 20.75 214.28 C20.75 213.92 20.6 213.56 20.34
+								 213.3 C20.08 213.05 19.73 212.9 19.37 212.9 ZM7.38 212.9 C7.1 212.9 6.84 212.98 6.61 213.13 C6.38
+								 213.28 6.2 213.5 6.1 213.75 C5.99 214.01 5.97 214.28 6.02 214.55 C6.07 214.82 6.21 215.07 6.4 215.26
+								 C6.59 215.45 6.84 215.59 7.11 215.64 C7.38 215.69 7.65 215.67 7.91 215.56 C8.16 215.46 8.38 215.28
+								 8.53 215.05 C8.68 214.82 8.76 214.56 8.76 214.28 C8.76 213.92 8.61 213.56 8.36 213.3 C8.1 213.05
+								 7.74 212.9 7.38 212.9 ZM18.58 229.04 L16.46 229.04 C16.34 229.04 16.23 228.99 16.14 228.9 C16.05
+								 228.82 16 228.7 16 228.58 L16 227.71 C15.87 227.67 15.74 227.62 15.62 227.56 L15.01 228.17 C14.97
+								 228.21 14.91 228.24 14.86 228.27 C14.8 228.29 14.74 228.3 14.68 228.3 C14.62 228.3 14.56 228.29
+								 14.5 228.27 C14.45 228.24 14.4 228.21 14.35 228.17 L12.86 226.67 C12.82 226.63 12.78 226.58 12.76
+								 226.52 C12.73 226.47 12.72 226.41 12.72 226.34 C12.72 226.28 12.73 226.22 12.76 226.17 C12.78 226.11
+								 12.82 226.06 12.86 226.02 L13.47 225.41 C13.41 225.28 13.36 225.15 13.31 225.02 L12.45 225.02 C12.33
+								 225.02 12.21 224.97 12.12 224.89 C12.04 224.8 11.99 224.68 11.99 224.56 L11.99 222.45 C11.99 222.33
+								 12.04 222.21 12.12 222.12 C12.21 222.04 12.33 221.99 12.45 221.99 L13.31 221.99 C13.36 221.86 13.41
+								 221.73 13.47 221.6 L12.86 220.99 C12.82 220.95 12.78 220.9 12.76 220.84 C12.73 220.79 12.72 220.73
+								 12.72 220.66 C12.72 220.6 12.73 220.54 12.76 220.49 C12.78 220.43 12.82 220.38 12.86 220.34 L14.35
+								 218.84 C14.4 218.8 14.45 218.77 14.5 218.74 C14.56 218.72 14.62 218.71 14.68 218.71 C14.74 218.71
+								 14.8 218.72 14.86 218.74 C14.91 218.77 14.97 218.8 15.01 218.84 L15.62 219.45 C15.74 219.39 15.87
+								 219.34 16 219.29 L16 218.43 C16 218.31 16.05 218.19 16.14 218.11 C16.23 218.02 16.34 217.97 16.46
+								 217.97 L18.58 217.97 C18.7 217.97 18.82 218.02 18.9 218.11 C18.99 218.19 19.04 218.31 19.04 218.43
+								 L19.04 219.29 C19.17 219.34 19.3 219.39 19.43 219.45 L20.06 218.84 C20.1 218.8 20.15 218.77 20.21
+								 218.74 C20.26 218.72 20.32 218.71 20.38 218.71 C20.44 218.71 20.51 218.72 20.56 218.74 C20.62 218.77
+								 20.67 218.8 20.71 218.84 L22.21 220.34 C22.25 220.38 22.28 220.43 22.31 220.49 C22.33 220.54 22.34
+								 220.6 22.34 220.66 C22.34 220.73 22.33 220.79 22.31 220.84 C22.28 220.9 22.25 220.95 22.21 220.99
+								 L21.6 221.6 C21.66 221.73 21.71 221.86 21.75 221.99 L22.59 221.99 C22.71 221.99 22.83 222.04 22.92
+								 222.12 C23.01 222.21 23.05 222.33 23.05 222.45 L23.05 224.56 C23.05 224.68 23.01 224.8 22.92 224.89
+								 C22.83 224.97 22.71 225.02 22.59 225.02 L21.73 225.02 C21.69 225.15 21.63 225.28 21.57 225.41 L22.18
+								 226.04 C22.23 226.08 22.26 226.13 22.28 226.19 C22.31 226.25 22.32 226.31 22.32 226.37 C22.32 226.43
+								 22.31 226.49 22.28 226.54 C22.26 226.6 22.23 226.65 22.18 226.69 L20.69 228.19 C20.65 228.23 20.59
+								 228.27 20.54 228.29 C20.48 228.31 20.42 228.33 20.36 228.33 C20.3 228.33 20.24 228.31 20.18 228.29
+								 C20.13 228.27 20.08 228.23 20.03 228.19 L19.43 227.58 C19.3 227.64 19.17 227.69 19.04 227.74 L19.04
+								 228.58 C19.04 228.7 18.99 228.82 18.9 228.9 C18.82 228.99 18.7 229.04 18.58 229.04 ZM16.93 228.12
+								 L18.12 228.12 L18.12 227.38 C18.11 227.27 18.14 227.17 18.21 227.09 C18.27 227 18.36 226.94 18.46
+								 226.92 C18.75 226.84 19.02 226.72 19.28 226.57 C19.37 226.52 19.47 226.5 19.57 226.51 C19.67 226.53
+								 19.76 226.57 19.84 226.64 L20.36 227.17 L21.2 226.33 L20.68 225.8 C20.61 225.73 20.56 225.64 20.55
+								 225.54 C20.54 225.44 20.56 225.33 20.61 225.25 C20.76 224.99 20.87 224.71 20.95 224.42 C20.98 224.32
+								 21.04 224.23 21.12 224.17 C21.21 224.11 21.31 224.08 21.41 224.08 L22.15 224.08 L22.15 222.91 L21.39
+								 222.91 C21.29 222.91 21.19 222.88 21.1 222.82 C21.02 222.76 20.96 222.67 20.93 222.57 C20.85 222.28
+								 20.74 222 20.59 221.74 C20.54 221.66 20.52 221.55 20.53 221.45 C20.54 221.35 20.59 221.26 20.66
+								 221.19 L21.19 220.66 L20.34 219.82 L19.82 220.35 C19.75 220.42 19.65 220.46 19.55 220.48 C19.45
+								 220.49 19.35 220.47 19.26 220.42 C19 220.27 18.73 220.15 18.44 220.07 C18.34 220.05 18.25 219.99
+								 18.19 219.9 C18.13 219.82 18.09 219.72 18.1 219.61 L18.1 218.89 L16.93 218.89 L16.93 219.63 C16.93
+								 219.74 16.9 219.84 16.84 219.92 C16.77 220.01 16.69 220.07 16.58 220.09 C16.3 220.17 16.02 220.29
+								 15.76 220.44 C15.67 220.49 15.57 220.51 15.47 220.49 C15.37 220.48 15.28 220.44 15.21 220.36 L14.68
+								 219.84 L13.84 220.68 L14.36 221.21 C14.43 221.28 14.48 221.37 14.49 221.47 C14.51 221.57 14.49 221.67
+								 14.44 221.76 C14.29 222.02 14.17 222.3 14.09 222.59 C14.06 222.69 14 222.78 13.92 222.84 C13.84
+								 222.9 13.73 222.93 13.63 222.93 L12.91 222.93 L12.91 224.12 L13.65 224.12 C13.75 224.11 13.85 224.15
+								 13.94 224.21 C14.02 224.27 14.08 224.36 14.11 224.46 C14.19 224.75 14.3 225.03 14.45 225.28 C14.5
+								 225.37 14.52 225.47 14.51 225.57 C14.5 225.67 14.45 225.77 14.38 225.84 L13.86 226.36 L14.7 227.21
+								 L15.22 226.68 C15.3 226.61 15.39 226.56 15.49 226.55 C15.59 226.54 15.69 226.56 15.78 226.61 C16.04
+								 226.76 16.31 226.87 16.6 226.95 C16.7 226.98 16.79 227.04 16.85 227.12 C16.92 227.21 16.95 227.31
+								 16.94 227.41 L16.93 228.12 ZM17.52 225.87 C17.05 225.87 16.6 225.73 16.21 225.47 C15.82 225.21 15.52
+								 224.84 15.34 224.41 C15.16 223.98 15.11 223.5 15.21 223.04 C15.3 222.59 15.52 222.17 15.85 221.84
+								 C16.18 221.5 16.6 221.28 17.06 221.19 C17.52 221.1 17.99 221.14 18.42 221.32 C18.86 221.5 19.22
+								 221.8 19.48 222.19 C19.74 222.58 19.88 223.04 19.88 223.5 C19.88 224.13 19.63 224.73 19.19 225.17
+								 C18.75 225.62 18.15 225.87 17.52 225.87 ZM17.52 222.07 C17.24 222.07 16.96 222.15 16.72 222.31 C16.48
+								 222.47 16.3 222.69 16.19 222.95 C16.08 223.22 16.05 223.51 16.11 223.78 C16.17 224.06 16.3 224.32
+								 16.5 224.52 C16.7 224.72 16.96 224.86 17.24 224.92 C17.52 224.97 17.81 224.94 18.07 224.83 C18.33
+								 224.72 18.56 224.54 18.72 224.3 C18.87 224.07 18.96 223.79 18.96 223.5 C18.96 223.12 18.81 222.76
+								 18.54 222.49 C18.27 222.22 17.9 222.07 17.52 222.07 Z" class="st43"/>
+				</g>
+			</g>
+		</g>
+		<g id="group1275-363" transform="translate(112.161,-7.64918)" v:mID="1275" v:groupContext="group">
+			<title>工作表.1275</title>
+			<g id="group1073-364" transform="translate(19.0801,-31.7008)" v:mID="1073" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="Monoline" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>V 形箭头.1364</title>
+				<g id="shape1074-365" v:mID="1074" v:groupContext="shape" transform="translate(0,-0.163996)">
+					<title>工作表.1074</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M15.9 219.77 L12.61 219.77 L18.13 227.43 L12.61 235.08 L15.9 235.08 L21.41 227.43 L15.9 219.77 ZM0 235.08
+								 L3.28 235.08 L8.8 227.43 L3.28 219.77 L0 219.77 L5.52 227.43 L0 235.08 ZM9.59 219.77 L6.31 219.77
+								 L11.82 227.43 L6.31 235.08 L9.59 235.08 L15.11 227.43 L9.59 219.77 Z" class="st42"/>
+				</g>
+				<g id="shape1075-367" v:mID="1075" v:groupContext="shape" transform="translate(1.3729,0)">
+					<title>工作表.1075</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+				</g>
+			</g>
+			<g id="shape1076-369" v:mID="1076" v:groupContext="shape">
+				<title>工作表.1076</title>
+				<desc>Training Acceleration</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="29.7874" cy="222.818" width="59.58" height="24.5217"/>
+				<rect x="0" y="210.558" width="59.5748" height="24.5217" class="st4"/>
+				<text x="12.57" y="219.82" class="st41" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Training <tspan
+							x="4.25" dy="1.2em" class="st10">Acceleration</tspan></text>			</g>
+		</g>
+		<g id="group1276-373" transform="translate(273.494,-59.4704)" v:mID="1276" v:groupContext="group">
+			<title>工作表.1276</title>
+			<g id="group1065-374" transform="translate(16.0753,-26.7892)" v:mID="1065" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="Monoline" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>拼图.1301</title>
+				<g id="shape1066-375" v:mID="1066" v:groupContext="shape" transform="translate(0.55412,-0.60249)">
+					<title>工作表.1066</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M7.7 221.73 L7.7 218.76 L0 218.76 L0 226.78 L3.03 226.78 C2.68 227.05 2.48 227.47 2.48 227.92 C2.48
+								 228.71 3.09 229.35 3.85 229.35 C4.61 229.35 5.23 228.71 5.23 227.92 C5.23 227.47 5.02 227.05 4.68
+								 226.78 L7.7 226.78 L7.7 223.83 C7.11 224.41 6.19 224.41 5.6 223.83 C5.04 223.27 5.03 222.34 5.57
+								 221.76 C5.58 221.75 5.59 221.74 5.6 221.73 C6.19 221.16 7.11 221.16 7.7 221.73 ZM12.65 227.63 C12.7
+								 227.6 12.74 227.57 12.77 227.53 C12.8 227.52 12.83 227.5 12.85 227.47 C13.19 227.1 13.3 226.56 13.14
+								 226.07 L13.14 226.03 C12.89 225.28 12.1 224.89 11.39 225.16 C10.67 225.43 10.3 226.25 10.55 226.99
+								 C10.64 227.24 10.8 227.47 11 227.63 L8.53 227.63 L8.53 228.81 C8.62 228.8 8.71 228.79 8.8 228.79
+								 C10.02 228.79 11 229.82 11 231.08 C11 232.34 10.02 233.37 8.8 233.37 C8.71 233.37 8.62 233.36 8.53
+								 233.35 L8.53 235.07 L15.68 235.07 L15.68 227.63 L12.65 227.63 ZM9.25 232.41 C9.97 232.16 10.36 231.36
+								 10.12 230.61 C9.88 229.86 9.1 229.45 8.38 229.7 C8.11 229.79 7.87 229.97 7.7 230.22 L7.7 227.64
+								 L6.03 227.64 C6.04 227.74 6.05 227.83 6.05 227.93 C6.05 229.19 5.07 230.22 3.85 230.22 C2.64 230.22
+								 1.65 229.19 1.65 227.93 C1.65 227.83 1.66 227.74 1.67 227.64 L0 227.64 L0 235.08 L7.7 235.08 L7.7
+								 231.93 C7.73 231.98 7.77 232.02 7.8 232.06 C7.82 232.09 7.83 232.12 7.85 232.14 C8.18 232.46 8.64
+								 232.59 9.08 232.47 C9.12 232.47 9.17 232.44 9.21 232.43 L9.25 232.41 ZM9.94 222.26 L11.49 222.93
+								 C11.55 221.87 12.42 221.06 13.43 221.12 C14.14 221.16 14.76 221.62 15.03 222.3 C15.3 222.98 15.17
+								 223.76 14.71 224.32 L16.58 225.12 L16.61 225.14 L19.36 218.22 L12.69 215.36 L11.65 218.01 L11.57
+								 218.21 L11.55 218.12 C11.25 217.36 10.42 217 9.69 217.31 C9.37 217.46 9.11 217.71 8.95 218.04 C8.7
+								 218.81 9.09 219.66 9.83 219.92 C10.16 220.04 10.52 220.03 10.85 219.89 L10.93 219.86 L10.88 219.99
+								 L9.94 222.26 Z" class="st42"/>
+				</g>
+				<g id="shape1067-377" v:mID="1067" v:groupContext="shape">
+					<title>工作表.1067</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+				</g>
+			</g>
+			<g id="shape1068-379" v:mID="1068" v:groupContext="shape">
+				<title>工作表.1068</title>
+				<desc>Model Merging</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="26.305" cy="225.104" width="52.62" height="19.9498"/>
+				<rect x="0" y="215.129" width="52.61" height="19.9498" class="st4"/>
+				<text x="13.25" y="222.1" class="st41" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Model <tspan
+							x="9.09" dy="1.2em" class="st10">Merging</tspan></text>			</g>
+		</g>
+		<g id="group1277-383" transform="translate(167.46,-9.91208)" v:mID="1277" v:groupContext="group">
+			<title>工作表.1277</title>
+			<g id="shape1070-384" v:mID="1070" v:groupContext="shape" transform="translate(19.5577,-27.9662)">
+				<title>刷新.1363</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M9.77 224.14 L7.28 224.14 A5.80487 6.135 0 0 1 13.45 217.2 A5.19632 5.49184 -180 0 0 11.07 216.57 A7.80262
+							 8.24636 -180 0 0 2.67 224.13 L0.17 224.13 L0 224.49 L4.65 229.86 L4.98 230.01 L5.3 229.86 L9.94 224.5
+							 L9.77 224.14 ZM10.69 227.49 L13.18 227.49 A5.8081 6.13841 0 0 1 7.01 234.42 A5.21598 5.51261 -180 0
+							 0 9.39 235.05 A7.80387 8.24768 -180 0 0 17.79 227.49 L20.29 227.49 L20.46 227.13 L15.81 221.76 L15.48
+							 221.61 L15.16 221.76 L10.52 227.12 L10.69 227.49 Z" class="st42"/>
+			</g>
+			<g id="shape1071-386" v:mID="1071" v:groupContext="shape">
+				<title>工作表.1071</title>
+				<desc>Weight Initialization</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="29.7874" cy="225.104" width="59.58" height="19.9498"/>
+				<rect x="0" y="215.129" width="59.5748" height="19.9498" class="st4"/>
+				<text x="15.07" y="222.1" class="st41" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Weight <tspan
+							x="4.24" dy="1.2em" class="st10">Initialization</tspan></text>			</g>
+		</g>
+		<g id="group1278-390" transform="translate(222.759,-59.2134)" v:mID="1278" v:groupContext="group">
+			<title>工作表.1278</title>
+			<g id="group1078-391" transform="translate(17.4327,-28.0028)" v:mID="1078" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<title>编织物转角.1372</title>
+				<g id="shape1079-392" v:mID="1079" v:groupContext="shape" transform="translate(3.54716E-13,-3.68847)">
+					<title>工作表.1079</title>
+					<path d="M7.1 233.6 A5.67825 5.90154 0 0 1 1.42 227.7 A5.67825 5.90154 0 0 1 7.1 221.8 L7.1 220.33 A7.09782 7.37693
+								 -180 0 0 -0 227.7 A7.09782 7.37693 -180 0 0 7.1 235.08 L7.1 233.6 ZM7.1 221.8 A5.67825 5.90154 0
+								 0 1 12.78 227.7 A5.67825 5.90154 0 0 1 7.1 233.6 L7.1 235.08 A7.09782 7.37693 -180 0 0 14.2 227.7
+								 A7.09782 7.37693 -180 0 0 7.1 220.33 L7.1 221.8 ZM7.1 230.65 A2.83913 2.95077 0 0 1 4.26 227.7 A2.83913
+								 2.95077 0 0 1 7.1 224.75 L7.1 223.28 A4.25869 4.42616 -180 0 0 2.84 227.7 A4.25869 4.42616 -180
+								 0 0 7.1 232.13 L7.1 230.65 ZM7.1 224.75 A2.83913 2.95077 0 0 1 9.94 227.7 A2.83913 2.95077 0 0 1
+								 7.1 230.65 L7.1 232.13 A4.25869 4.42616 -180 0 0 11.36 227.7 A4.25869 4.42616 -180 0 0 7.1 223.28
+								 L7.1 224.75 ZM7.1 226.23 A1.41957 1.47539 -180 0 0 5.68 227.7 A1.41957 1.47539 -180 0 0 7.1 229.18
+								 L7.1 226.23 ZM7.1 229.18 A1.41957 1.47539 -180 0 0 8.52 227.7 A1.41957 1.47539 -180 0 0 7.1 226.23
+								 L7.1 229.18 Z" class="st44"/>
+				</g>
+				<g id="shape1080-394" v:mID="1080" v:groupContext="shape" transform="translate(-220.884,235.079) rotate(-90)">
+					<title>工作表.1080</title>
+					<path d="M6.63 223.99 a0.107528 0.101044 138.58 0 1 0.0295077 0.141956 L6.63 223.96 a0.136233 0.123419 -164.18
+								 0 0 -0.118031 8.52651E-14 a0.305942 0.275336 -7.71 0 0 0.0411703 0.0446475 a0.851334 0.818125 61.69
+								 0 1 -0.395263 -0.527299 L5.56 223 a0.12011 0.116494 -86.29 0 0 -0.0307907 -0.084953 A7.90386 7.09782
+								 -180 0 0 -0 220.88 L0 222.3 A7.43656 6.69218 172.41 0 1 5.77 225.67 L6.57 224.28 L6.57 224.16 a0.132736
+								 0.12593 48.54 0 1 0.0590155 -0.170348 ZM3.16 227.98 A3.16154 2.83913 0 0 1 0 230.82 L0 232.24 A4.99671
+								 4.48749 -1.47 0 0 3.85 230.38 L4.52 231.96 A6.3231 5.67826 0 0 1 0 233.66 L0 235.08 A7.90386 7.09782
+								 -180 0 0 5.53 233.05 a0.583549 0.562926 -67.72 0 0 0.237345 -0.371335 L6.57 232 A7.00206 6.339 15.15
+								 0 1 4.74 227.98 A4.74232 4.25869 -180 0 0 -0 223.72 L0 225.14 A3.16154 2.83913 0 0 1 3.16 227.98
+								 ZM11.07 226.56 A1.58078 1.41957 -180 0 0 9.48 227.98 A1.58078 1.41957 -180 0 0 11.07 229.4 L11.07
+								 226.56 ZM0 229.4 A1.58078 1.41957 -180 0 0 1.58 227.98 A1.58078 1.41957 -180 0 0 0 226.56 L0 229.4
+								 Z" class="st45"/>
+					<path d="M6.63 223.99 a0.107528 0.101044 138.58 0 1 0.0295077 0.141956 L6.63 223.96 a0.136233 0.123419 -164.18
+								 0 0 -0.118031 8.52651E-14 a0.305942 0.275336 -7.71 0 0 0.0411703 0.0446475 a0.851334 0.818125 61.69
+								 0 1 -0.395263 -0.527299 L5.56 223 a0.12011 0.116494 -86.29 0 0 -0.0307907 -0.084953 A7.90386 7.09782
+								 -180 0 0 -0 220.88 L0 222.3 A7.43656 6.69218 172.41 0 1 5.77 225.67 L6.57 224.28 L6.57 224.16 a0.132736
+								 0.12593 48.54 0 1 0.0590155 -0.170348" class="st46"/>
+					<path d="M3.16 227.98 A3.16154 2.83913 0 0 1 0 230.82 L0 232.24 A4.99671 4.48749 -1.47 0 0 3.85 230.38 L4.52
+								 231.96 A6.3231 5.67826 0 0 1 0 233.66 L0 235.08 A7.90386 7.09782 -180 0 0 5.53 233.05 a0.583549
+								 0.562926 -67.72 0 0 0.237345 -0.371335 L6.57 232 A7.00206 6.339 15.15 0 1 4.74 227.98 A4.74232 4.25869
+								 -180 0 0 -0 223.72 L0 225.14 A3.16154 2.83913 0 0 1 3.16 227.98" class="st46"/>
+					<path d="M-0 225.14 A3.16154 2.83913 0 0 1 3.16 227.98 A3.83157 3.44427 -174.77 0 0 6.45 231.91 L5.68 232.74"
+							class="st46"/>
+					<path d="M11.07 226.56 A1.58078 1.41957 -180 0 0 9.48 227.98 A1.58078 1.41957 -180 0 0 11.07 229.4 L11.07 226.56"
+							class="st46"/>
+					<path d="M0 229.4 A1.58078 1.41957 -180 0 0 1.58 227.98 A1.58078 1.41957 -180 0 0 0 226.56 L0 229.4"
+							class="st46"/>
+				</g>
+				<g id="shape1081-401" v:mID="1081" v:groupContext="shape" transform="translate(5.71944,-3.68847)">
+					<title>工作表.1081</title>
+					<path d="M8.98 227.7 A3.04192 2.95077 0 0 1 12.03 224.75 L12.03 223.28 A4.82403 4.6765 -7.81 0 0 8.35 225.3 A8.84155
+								 8.55122 -163.45 0 0 7.68 223.57 A6.08386 5.90156 0 0 1 12.03 221.8 L12.03 220.33 A7.60481 7.37693
+								 -180 0 0 6.7 222.43 A7.6314 7.40273 -179.8 0 0 1.36 220.31 L1.38 221.8 A6.08384 5.90154 0 0 1 7.46
+								 227.7 A4.56289 4.42616 -180 0 0 12.03 232.13 L12.03 230.65 A3.04192 2.95077 0 0 1 8.98 227.7 ZM5.91
+								 231.61 a0.238031 0.227073 143.4 0 1 -0.141956 0.295077 L5.76 231.82 a0.0332765 0.0315795 -138.78
+								 0 0 -0.0283913 -2.84217E-14 a0.094138 0.0851957 -104.83 0 0 -0.0112213 0.0151781 a0.899244 0.810826
+								 79.37 0 1 0.408699 0.545469 L6.64 232.91 a0.114358 0.103548 -105.33 0 0 0.058017 0.0613519 A7.60481
+								 7.37693 -180 0 0 12.03 235.08 L12.03 233.6 A6.21675 6.01299 163.62 0 1 6.7 229.66 A2.39673 2.16245
+								 78.55 0 1 5.74 231.79 L5.74 231.91 a0.251294 0.226159 82.25 0 1 0.170348 -0.295077 ZM12.03 226.23
+								 A1.52097 1.47539 -180 0 0 10.5 227.7 A1.52097 1.47539 -180 0 0 12.03 229.18 L12.03 226.23 ZM1.38
+								 229.18 A1.52097 1.47539 -180 0 0 2.9 227.7 A1.52097 1.47539 -180 0 0 1.38 226.23 L1.38 229.18 Z"
+							class="st45"/>
+					<path d="M8.98 227.7 A3.04192 2.95077 0 0 1 12.03 224.75 L12.03 223.28 A4.82403 4.6765 -7.81 0 0 8.35 225.3 A8.84155
+								 8.55122 -163.45 0 0 7.68 223.57 A6.08386 5.90156 0 0 1 12.03 221.8 L12.03 220.33 A7.60481 7.37693
+								 -180 0 0 6.7 222.43 A7.6314 7.40273 -179.8 0 0 1.36 220.31 L1.38 221.8 A6.08384 5.90154 0 0 1 7.46
+								 227.7 A4.56289 4.42616 -180 0 0 12.03 232.13 L12.03 230.65 A3.04192 2.95077 0 0 1 8.98 227.7"
+							class="st46"/>
+					<path d="M5.91 231.61 a0.238031 0.227073 143.4 0 1 -0.141956 0.295077 L5.76 231.82 a0.0332765 0.0315795 -138.78
+								 0 0 -0.0283913 -2.84217E-14 a0.094138 0.0851957 -104.83 0 0 -0.0112213 0.0151781 a0.899244 0.810826
+								 79.37 0 1 0.408699 0.545469 L6.64 232.91 a0.114358 0.103548 -105.33 0 0 0.058017 0.0613519 A7.60481
+								 7.37693 -180 0 0 12.03 235.08 L12.03 233.6 A6.21675 6.01299 163.62 0 1 6.7 229.66 A2.39673 2.16245
+								 78.55 0 1 5.74 231.79 L5.74 231.91 a0.251294 0.226159 82.25 0 1 0.170348 -0.295077" class="st46"/>
+					<path d="M2.27 226 A1.13817 1.18293 0 1 1 1.36 224.74 L1.38 224.75 A3.04192 2.95077 0 0 1 4.42 227.7 A7.60481
+								 7.37693 -180 0 0 12.03 235.08" class="st46"/>
+					<path d="M12.03 226.23 A1.52097 1.47539 -180 0 0 10.5 227.7 A1.52097 1.47539 -180 0 0 12.03 229.18 L12.03 226.23"
+							class="st46"/>
+					<path d="M1.38 229.18 A1.52097 1.47539 -180 0 0 2.9 227.7 A1.52097 1.47539 -180 0 0 1.38 226.23 L1.38 229.18"
+							class="st46"/>
+				</g>
+			</g>
+			<g id="shape1082-408" v:mID="1082" v:groupContext="shape">
+				<title>工作表.1082</title>
+				<desc>Data Generation</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="26.305" cy="225.104" width="52.62" height="19.9498"/>
+				<rect x="0" y="215.129" width="52.61" height="19.9498" class="st4"/>
+				<text x="16.87" y="222.1" class="st41" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Data <v:newlineChar/><tspan
+							x="4.09" dy="1.2em" class="st10">Generation</tspan></text>			</g>
+		</g>
+		<g id="group1279-412" transform="translate(260.744,-9.58325)" v:mID="1279" v:groupContext="group">
+			<title>工作表.1279</title>
+			<g id="group1055-413" transform="translate(28.3475,-23.434)" v:mID="1055" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="Monoline" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>带箭头的圆圈.1357</title>
+				<g id="shape1056-414" v:mID="1056" v:groupContext="shape" transform="translate(0.120304,-0.0598862)">
+					<title>工作表.1056</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M11.47 213.38 A2.64116 2.7474 -180 1 0 6.19 213.38 A2.64116 2.7474 -180 1 0 11.47 213.38 ZM21.29 226.49
+								 A2.64116 2.7474 -180 1 0 16.01 226.49 A2.64116 2.7474 -180 1 0 21.29 226.49 ZM5.28 228.84 A2.64116
+								 2.7474 -180 1 0 0 228.84 A2.64116 2.7474 -180 1 0 5.28 228.84 ZM6.12 232.2 L7.51 234.73 C7.7 235.06
+								 8.1 235.18 8.42 234.99 C8.74 234.8 8.85 234.38 8.66 234.05 L8.07 232.98 C11.23 233.64 14.5 232.66
+								 16.84 230.35 C17.11 230.11 17.14 229.67 16.9 229.39 C16.66 229.1 16.24 229.07 15.97 229.32 C15.96
+								 229.33 15.94 229.35 15.93 229.36 L15.92 229.36 C13.91 231.33 11.12 232.18 8.41 231.64 L9.46 231.02
+								 C9.77 230.83 9.88 230.41 9.7 230.09 C9.52 229.76 9.11 229.64 8.8 229.83 L6.37 231.26 C6.05 231.45
+								 5.94 231.87 6.12 232.2 L6.12 232.2 ZM6.12 232.2 C6.12 232.2 6.12 232.2 6.12 232.2 L6.12 232.2 ZM0.38
+								 225.24 C0.45 225.55 0.71 225.77 1.02 225.77 C1.07 225.77 1.12 225.76 1.17 225.75 C1.52 225.66 1.73
+								 225.29 1.65 224.93 C1.15 222.68 1.5 220.32 2.64 218.34 C2.9 217.87 3.21 217.43 3.55 217.03 L3.57
+								 217.05 L3.57 218.3 C3.57 218.68 3.86 218.99 4.23 218.99 C4.59 218.99 4.89 218.68 4.89 218.3 L4.91
+								 215.39 C4.91 215.01 4.62 214.7 4.25 214.7 L1.45 214.68 C1.08 214.68 0.79 214.98 0.79 215.36 C0.79
+								 215.74 1.08 216.05 1.45 216.05 L2.62 216.05 C2.2 216.54 1.82 217.07 1.49 217.63 C0.18 219.92 -0.22
+								 222.65 0.38 225.24 ZM12.58 214.36 C15.14 215.19 17.18 217.23 18.09 219.85 L17.07 219.22 C16.77 219.01
+								 16.36 219.09 16.15 219.4 C15.94 219.71 16.02 220.14 16.32 220.36 C16.35 220.38 16.38 220.39 16.41
+								 220.41 L18.72 221.83 C18.84 221.93 18.98 221.99 19.13 221.99 L19.28 221.99 C19.45 221.94 19.59 221.83
+								 19.68 221.67 L21.13 219.14 C21.29 218.8 21.15 218.39 20.82 218.22 C20.53 218.08 20.17 218.17 19.99
+								 218.45 L19.38 219.53 C18.62 217.21 17.08 215.25 15.05 214.01 C14.4 213.61 13.7 213.28 12.97 213.05
+								 C12.63 212.93 12.26 213.14 12.15 213.5 C12.04 213.86 12.23 214.25 12.58 214.36 Z" class="st45"/>
+					<path d="M11.47 213.38 A2.64116 2.7474 -180 1 0 6.19 213.38 A2.64116 2.7474 -180 1 0 11.47 213.38M21.29 226.49
+								 A2.64116 2.7474 -180 1 0 16.01 226.49 A2.64116 2.7474 -180 1 0 21.29 226.49M5.28 228.84 A2.64116
+								 2.7474 -180 1 0 0 228.84 A2.64116 2.7474 -180 1 0 5.28 228.84M6.12 232.2 L7.51 234.73 C7.7 235.06
+								 8.1 235.18 8.42 234.99 C8.74 234.8 8.85 234.38 8.66 234.05 L8.07 232.98 C11.23 233.64 14.5 232.66
+								 16.84 230.35 C17.11 230.11 17.14 229.67 16.9 229.39 C16.66 229.1 16.24 229.07 15.97 229.32 C15.96
+								 229.33 15.94 229.35 15.93 229.36 L15.92 229.36 C13.91 231.33 11.12 232.18 8.41 231.64 L9.46 231.02
+								 C9.77 230.83 9.88 230.41 9.7 230.09 C9.52 229.76 9.11 229.64 8.8 229.83 L6.37 231.26 C6.05 231.45
+								 5.94 231.87 6.12 232.2M6.12 232.2 C6.12 232.2 6.12 232.2 6.12 232.2M0.38 225.24 C0.45 225.55 0.71
+								 225.77 1.02 225.77 C1.07 225.77 1.12 225.76 1.17 225.75 C1.52 225.66 1.73 225.29 1.65 224.93 C1.15
+								 222.68 1.5 220.32 2.64 218.34 C2.9 217.87 3.21 217.43 3.55 217.03 L3.57 217.05 L3.57 218.3 C3.57
+								 218.68 3.86 218.99 4.23 218.99 C4.59 218.99 4.89 218.68 4.89 218.3 L4.91 215.39 C4.91 215.01 4.62
+								 214.7 4.25 214.7 L1.45 214.68 C1.08 214.68 0.79 214.98 0.79 215.36 C0.79 215.74 1.08 216.05 1.45
+								 216.05 L2.62 216.05 C2.2 216.54 1.82 217.07 1.49 217.63 C0.18 219.92 -0.22 222.65 0.38 225.24M12.58
+								 214.36 C15.14 215.19 17.18 217.23 18.09 219.85 L17.07 219.22 C16.77 219.01 16.36 219.09 16.15 219.4
+								 C15.94 219.71 16.02 220.14 16.32 220.36 C16.35 220.38 16.38 220.39 16.41 220.41 L18.72 221.83 C18.84
+								 221.93 18.98 221.99 19.13 221.99 L19.28 221.99 C19.45 221.94 19.59 221.83 19.68 221.67 L21.13 219.14
+								 C21.29 218.8 21.15 218.39 20.82 218.22 C20.53 218.08 20.17 218.17 19.99 218.45 L19.38 219.53 C18.62
+								 217.21 17.08 215.25 15.05 214.01 C14.4 213.61 13.7 213.28 12.97 213.05 C12.63 212.93 12.26 213.14
+								 12.15 213.5 C12.04 213.86 12.23 214.25 12.58 214.36" class="st47"/>
+				</g>
+				<g id="shape1057-417" v:mID="1057" v:groupContext="shape">
+					<title>工作表.1057</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+				</g>
+			</g>
+			<g id="shape1058-419" v:mID="1058" v:groupContext="shape">
+				<title>工作表.1058</title>
+				<desc>Conditional Generation</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.0548" cy="225.104" width="78.11" height="19.9498"/>
+				<rect x="0" y="215.129" width="78.1096" height="19.9498" class="st4"/>
+				<text x="15.44" y="222.1" class="st41" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Conditional <tspan
+							x="16.84" dy="1.2em" class="st10">Generation</tspan></text>			</g>
+		</g>
+		<g id="group1280-423" transform="translate(212.264,-9.46243)" v:mID="1280" v:groupContext="group">
+			<title>工作表.1280</title>
+			<g id="group1060-424" transform="translate(26.0473,-31.3007)" v:mID="1060" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="Monoline" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>持续改进.1360</title>
+				<g id="shape1061-425" v:mID="1061" v:groupContext="shape">
+					<title>工作表.1061</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M8.93 230.14 C7.42 231.96 6.25 233.02 4.81 233.02 C3.26 233.05 1.98 231.76 1.95 230.14 C1.93 228.53
+								 3.16 227.2 4.72 227.17 C4.75 227.17 4.78 227.17 4.81 227.17 C6.26 227.17 7.51 228.31 8.94 230.02
+								 L8.98 230.08 L8.93 230.14 ZM15.98 233.17 C14.58 232.8 13.38 231.92 11.9 230.14 L11.86 230.08 L11.9
+								 230.02 C13.33 228.31 14.58 227.17 16.03 227.17 C16.92 227.17 17.77 227.61 18.31 228.35 L16.87 229.21
+								 L20.53 230.23 L21.51 226.43 L20.02 227.33 C19.12 225.95 17.63 225.13 16.03 225.13 C13.66 225.13
+								 11.92 226.88 10.42 228.69 C8.91 226.88 7.18 225.13 4.81 225.13 C2.17 225.11 0.02 227.32 0 230.06
+								 C-0.02 232.8 2.1 235.04 4.74 235.06 C4.76 235.06 4.79 235.06 4.81 235.06 C7.17 235.06 8.85 233.36
+								 10.42 231.47 C11.97 233.35 13.66 234.86 16.03 235.06 C18.68 235.29 20.56 233.11 20.58 231.45 C20.58
+								 231.45 20.58 231.45 20.58 231.45 C20.57 231.45 20.57 231.45 20.57 231.45 C20.19 232.64 17.9 233.68
+								 15.98 233.17 Z" class="st42"/>
+				</g>
+				<g id="shape1062-427" v:mID="1062" v:groupContext="shape" transform="translate(0.57832,-0.594782)">
+					<title>工作表.1062</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+				</g>
+			</g>
+			<g id="shape1063-429" v:mID="1063" v:groupContext="shape">
+				<title>工作表.1063</title>
+				<desc>Real-time Generation</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36.8004" cy="225.104" width="73.61" height="19.9498"/>
+				<rect x="0" y="215.129" width="73.6009" height="19.9498" class="st4"/>
+				<text x="17.09" y="222.1" class="st41" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Real-time<v:newlineChar/><tspan
+							x="14.59" dy="1.2em" class="st10">Generation</tspan></text>			</g>
+		</g>
+		<g id="group1281-433" transform="translate(307.799,-123.61)" v:mID="1281" v:groupContext="group">
+			<title>工作表.1281</title>
+			<g id="group1148-434" v:mID="1148" v:groupContext="group">
+				<title>工作表.1148</title>
+				<g id="shape1149-435" v:mID="1149" v:groupContext="shape">
+					<title>工作表.1149</title>
+					<desc>Model based</desc>
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="35.4331" cy="218.441" width="70.87" height="33.277"/>
+					<rect x="0" y="201.802" width="70.8661" height="33.277" class="st4"/>
+					<text x="22.38" y="215.44" class="st32" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Model<v:newlineChar/><tspan
+								x="24.05" dy="1.2em" class="st10">based</tspan></text>				</g>
+			</g>
+			<g id="group1150-439" transform="translate(22.92,-29.9154)" v:mID="1150" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+				</v:userDefs>
+				<title>Amazon SageMaker 模型.1525</title>
+				<g id="shape1151-440" v:mID="1151" v:groupContext="shape">
+					<title>工作表.1151</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M25 221.03 C25 220.94 24.97 220.86 24.92 220.78 C24.87 220.71 24.8 220.64 24.72 220.6 L21.98 219.22
+								 L21.98 216.01 C21.98 215.93 21.96 215.85 21.91 215.77 C21.87 215.7 21.8 215.64 21.72 215.59 L15.89
+								 212.38 C15.8 212.33 15.71 212.31 15.61 212.31 C15.52 212.31 15.42 212.33 15.34 212.38 L12.5 213.9
+								 L9.67 212.35 C9.59 212.31 9.49 212.29 9.4 212.29 C9.3 212.29 9.21 212.31 9.12 212.35 L3.25 215.59
+								 C3.17 215.64 3.1 215.7 3.06 215.77 C3.01 215.85 2.99 215.93 2.99 216.01 L2.99 219.22 L0.28 220.6
+								 C0.19 220.64 0.12 220.71 0.07 220.78 C0.03 220.86 0 220.94 0 221.03 L0 226.33 C0 226.42 0.03 226.5
+								 0.07 226.58 C0.12 226.65 0.19 226.71 0.28 226.76 L2.99 228.14 L2.99 231.35 C2.99 231.43 3.01 231.51
+								 3.06 231.59 C3.1 231.66 3.17 231.72 3.25 231.77 L9.1 235.01 C9.19 235.05 9.29 235.08 9.39 235.08
+								 C9.49 235.08 9.59 235.05 9.67 235.01 L12.5 233.46 L15.33 235.01 C15.41 235.05 15.51 235.07 15.61
+								 235.07 C15.71 235.07 15.81 235.05 15.89 235 L21.75 231.79 C21.83 231.74 21.9 231.68 21.94 231.61
+								 C21.99 231.54 22.01 231.45 22.01 231.37 L22.01 228.17 L24.75 226.78 C24.83 226.74 24.9 226.67 24.95
+								 226.6 C25 226.52 25.03 226.44 25.03 226.35 L25.03 221.03 L25 221.03 L25 221.03 L25 221.03 ZM11.95
+								 232.61 L9.39 233.99 L4.08 231.07 L4.08 227.86 C4.08 227.77 4.05 227.68 4.01 227.61 C3.96 227.53
+								 3.89 227.47 3.81 227.43 L2.83 226.93 L5.62 226.93 L5.62 230.66 C5.62 230.79 5.68 230.91 5.78 231.01
+								 C5.88 231.1 6.02 231.15 6.17 231.15 L7.96 231.15 C8.09 231.44 8.32 231.67 8.62 231.82 C8.92 231.97
+								 9.27 232.02 9.61 231.96 C9.95 231.9 10.25 231.74 10.47 231.5 C10.69 231.27 10.81 230.97 10.81 230.66
+								 C10.81 230.35 10.69 230.05 10.47 229.81 C10.25 229.57 9.95 229.41 9.61 229.35 C9.27 229.29 8.92
+								 229.34 8.62 229.49 C8.32 229.64 8.09 229.88 7.96 230.16 L6.71 230.16 L6.71 226.44 C6.71 226.31 6.66
+								 226.18 6.55 226.09 C6.45 226 6.31 225.95 6.17 225.95 L1.09 225.95 L1.09 221.31 L3.83 219.93 C3.91
+								 219.89 3.98 219.82 4.03 219.75 C4.08 219.67 4.1 219.59 4.1 219.5 L4.1 218.32 L4.93 218.32 L4.93
+								 220.89 C4.61 221 4.35 221.21 4.18 221.48 C4.02 221.75 3.96 222.07 4.03 222.37 C4.09 222.68 4.27
+								 222.95 4.54 223.15 C4.8 223.34 5.14 223.45 5.48 223.45 C5.82 223.45 6.15 223.34 6.42 223.15 C6.69
+								 222.95 6.86 222.68 6.93 222.37 C6.99 222.07 6.94 221.75 6.78 221.48 C6.61 221.21 6.35 221 6.03 220.89
+								 L6.03 218.32 L7.47 218.32 C7.59 218.61 7.83 218.85 8.13 218.99 C8.43 219.14 8.78 219.19 9.11 219.13
+								 C9.45 219.08 9.76 218.91 9.97 218.67 C10.19 218.44 10.31 218.14 10.31 217.83 C10.31 217.52 10.19
+								 217.22 9.97 216.98 C9.76 216.74 9.45 216.58 9.11 216.52 C8.78 216.46 8.43 216.51 8.13 216.66 C7.83
+								 216.81 7.59 217.05 7.47 217.34 L4.08 217.34 L4.08 216.29 L9.39 213.38 L11.95 214.75 L11.95 220.66
+								 L8.88 220.66 C8.73 220.66 8.59 220.71 8.49 220.81 C8.39 220.9 8.33 221.02 8.33 221.15 L8.33 224.63
+								 C8.01 224.74 7.75 224.96 7.58 225.23 C7.42 225.5 7.37 225.81 7.43 226.12 C7.49 226.42 7.67 226.69
+								 7.94 226.89 C8.2 227.09 8.54 227.19 8.88 227.19 C9.22 227.19 9.56 227.09 9.82 226.89 C10.09 226.69
+								 10.27 226.42 10.33 226.12 C10.39 225.81 10.34 225.5 10.18 225.23 C10.01 224.96 9.75 224.74 9.43
+								 224.63 L9.43 221.64 L11.95 221.64 L11.95 223.7 L11.95 232.61 L11.95 232.61 ZM8.95 230.64 C8.94 230.59
+								 8.95 230.54 8.96 230.49 C8.98 230.45 9.01 230.4 9.04 230.37 C9.08 230.33 9.12 230.3 9.17 230.28
+								 C9.22 230.26 9.28 230.25 9.33 230.25 C9.38 230.25 9.44 230.26 9.49 230.28 C9.54 230.3 9.58 230.33
+								 9.62 230.37 C9.65 230.4 9.68 230.45 9.69 230.49 C9.71 230.54 9.72 230.59 9.71 230.64 C9.72 230.69
+								 9.71 230.73 9.69 230.78 C9.68 230.83 9.65 230.87 9.62 230.91 C9.58 230.94 9.54 230.97 9.49 230.99
+								 C9.44 231.01 9.38 231.02 9.33 231.02 C9.28 231.02 9.22 231.01 9.17 230.99 C9.12 230.97 9.08 230.94
+								 9.04 230.91 C9.01 230.87 8.98 230.83 8.96 230.78 C8.95 230.73 8.94 230.69 8.95 230.64 ZM5.84 222.12
+								 C5.84 222.19 5.82 222.25 5.78 222.31 C5.74 222.37 5.68 222.41 5.61 222.44 C5.54 222.47 5.46 222.48
+								 5.39 222.46 C5.31 222.45 5.24 222.42 5.19 222.37 C5.13 222.32 5.1 222.26 5.08 222.19 C5.07 222.13
+								 5.07 222.06 5.1 221.99 C5.13 221.93 5.18 221.88 5.24 221.84 C5.31 221.8 5.38 221.78 5.46 221.78
+								 C5.56 221.78 5.65 221.82 5.73 221.88 C5.8 221.94 5.84 222.03 5.84 222.12 ZM8.43 217.83 C8.42 217.78
+								 8.43 217.73 8.45 217.69 C8.46 217.64 8.49 217.6 8.52 217.56 C8.56 217.52 8.6 217.49 8.65 217.47
+								 C8.7 217.45 8.76 217.44 8.81 217.44 C8.86 217.44 8.92 217.45 8.97 217.47 C9.02 217.49 9.06 217.52
+								 9.1 217.56 C9.13 217.6 9.16 217.64 9.18 217.69 C9.19 217.73 9.2 217.78 9.19 217.83 C9.2 217.88 9.19
+								 217.93 9.18 217.97 C9.16 218.02 9.13 218.06 9.1 218.1 C9.06 218.14 9.02 218.16 8.97 218.19 C8.92
+								 218.21 8.86 218.22 8.81 218.22 C8.76 218.22 8.7 218.21 8.65 218.19 C8.6 218.16 8.56 218.14 8.52
+								 218.1 C8.49 218.06 8.46 218.02 8.45 217.97 C8.43 217.93 8.42 217.88 8.43 217.83 ZM9.26 225.86 C9.26
+								 225.93 9.24 226 9.2 226.05 C9.16 226.11 9.09 226.15 9.03 226.18 C8.96 226.21 8.88 226.21 8.81 226.2
+								 C8.73 226.19 8.66 226.15 8.61 226.11 C8.56 226.06 8.52 226 8.5 225.93 C8.49 225.86 8.5 225.79 8.53
+								 225.73 C8.56 225.67 8.61 225.61 8.67 225.58 C8.73 225.54 8.8 225.52 8.88 225.52 C8.98 225.52 9.08
+								 225.55 9.15 225.62 C9.22 225.68 9.26 225.77 9.26 225.86 ZM21.19 227.43 C21.11 227.47 21.04 227.53
+								 20.99 227.61 C20.94 227.68 20.92 227.77 20.92 227.86 L20.92 231.07 L16.24 233.64 L16.24 230.12 L17.28
+								 230.12 C17.41 230.41 17.64 230.65 17.94 230.8 C18.24 230.94 18.59 230.99 18.93 230.93 C19.27 230.88
+								 19.57 230.71 19.79 230.47 C20.01 230.24 20.13 229.94 20.13 229.63 C20.13 229.32 20.01 229.02 19.79
+								 228.78 C19.57 228.54 19.27 228.38 18.93 228.32 C18.59 228.26 18.24 228.31 17.94 228.46 C17.64 228.61
+								 17.41 228.85 17.28 229.13 L15.69 229.13 C15.54 229.13 15.41 229.19 15.3 229.28 C15.2 229.37 15.14
+								 229.5 15.14 229.63 L15.14 233.74 L13.04 232.61 L13.04 223.7 L13.04 219.5 L14.72 219.5 L14.72 220.63
+								 C14.4 220.74 14.14 220.96 13.97 221.23 C13.81 221.5 13.76 221.81 13.82 222.12 C13.89 222.42 14.06
+								 222.69 14.33 222.89 C14.59 223.09 14.93 223.2 15.27 223.2 C15.61 223.2 15.95 223.09 16.21 222.89
+								 C16.48 222.69 16.66 222.42 16.72 222.12 C16.79 221.81 16.73 221.5 16.57 221.23 C16.4 220.96 16.14
+								 220.74 15.82 220.63 L15.82 219.5 L17.55 219.5 C17.69 219.5 17.83 219.45 17.93 219.35 C18.04 219.26
+								 18.09 219.14 18.09 219.01 L18.09 218.02 C18.41 217.91 18.68 217.7 18.84 217.42 C19.01 217.15 19.06
+								 216.84 19 216.53 C18.93 216.23 18.75 215.96 18.49 215.76 C18.22 215.56 17.89 215.46 17.54 215.46
+								 C17.2 215.46 16.87 215.56 16.6 215.76 C16.34 215.96 16.16 216.23 16.09 216.53 C16.03 216.84 16.08
+								 217.15 16.25 217.42 C16.41 217.7 16.68 217.91 17 218.02 L17 218.51 L13.05 218.51 L13.05 214.75 L15.6
+								 213.37 L20.92 216.29 L20.92 219.51 C20.92 219.59 20.94 219.68 20.99 219.75 C21.04 219.83 21.11 219.89
+								 21.19 219.94 L23.93 221.32 L23.93 222.98 L18.68 222.98 C18.53 222.98 18.39 223.03 18.29 223.12 C18.19
+								 223.22 18.13 223.34 18.13 223.47 L18.13 225.93 L16.78 225.93 C16.68 225.69 16.49 225.47 16.25 225.32
+								 C16 225.18 15.71 225.1 15.42 225.1 C15.15 225.1 14.89 225.16 14.66 225.29 C14.43 225.41 14.24 225.59
+								 14.11 225.8 C13.99 226.02 13.92 226.26 13.94 226.5 C13.95 226.74 14.04 226.97 14.19 227.17 C14.34
+								 227.37 14.55 227.53 14.79 227.63 C15.04 227.73 15.31 227.77 15.57 227.75 C15.84 227.72 16.09 227.63
+								 16.31 227.49 C16.52 227.34 16.69 227.14 16.79 226.92 L18.66 226.92 C18.8 226.92 18.94 226.87 19.04
+								 226.78 C19.15 226.68 19.2 226.56 19.2 226.43 L19.2 223.97 L23.9 223.97 L23.9 226.04 L21.19 227.43
+								 ZM18.27 229.63 C18.27 229.58 18.28 229.54 18.3 229.5 C18.31 229.45 18.34 229.42 18.38 229.38 C18.41
+								 229.35 18.46 229.33 18.5 229.31 C18.55 229.29 18.6 229.28 18.65 229.28 C18.7 229.28 18.75 229.29
+								 18.8 229.31 C18.84 229.33 18.88 229.35 18.92 229.38 C18.96 229.42 18.98 229.45 19 229.5 C19.02 229.54
+								 19.03 229.58 19.03 229.63 C19.03 229.72 18.99 229.81 18.92 229.87 C18.85 229.94 18.75 229.97 18.65
+								 229.97 C18.55 229.97 18.45 229.94 18.38 229.87 C18.31 229.81 18.27 229.72 18.27 229.63 ZM15.65 221.87
+								 C15.65 221.96 15.61 222.05 15.54 222.11 C15.47 222.18 15.37 222.21 15.27 222.21 C15.17 222.21 15.07
+								 222.18 15 222.11 C14.93 222.05 14.89 221.96 14.89 221.87 C14.89 221.78 14.93 221.69 15 221.62 C15.07
+								 221.56 15.17 221.52 15.27 221.52 C15.37 221.52 15.47 221.56 15.54 221.62 C15.61 221.69 15.65 221.78
+								 15.65 221.87 ZM17.16 216.79 C17.16 216.74 17.17 216.7 17.19 216.65 C17.21 216.61 17.24 216.57 17.27
+								 216.54 C17.31 216.51 17.35 216.48 17.4 216.47 C17.44 216.45 17.5 216.44 17.54 216.44 C17.59 216.44
+								 17.65 216.45 17.69 216.47 C17.74 216.48 17.78 216.51 17.82 216.54 C17.85 216.57 17.88 216.61 17.9
+								 216.65 C17.92 216.7 17.93 216.74 17.93 216.79 C17.93 216.83 17.92 216.88 17.9 216.92 C17.88 216.96
+								 17.85 217 17.82 217.03 C17.78 217.06 17.74 217.09 17.69 217.1 C17.65 217.12 17.6 217.13 17.54 217.13
+								 C17.49 217.13 17.44 217.12 17.4 217.1 C17.35 217.09 17.31 217.06 17.27 217.03 C17.24 217 17.21 216.96
+								 17.19 216.92 C17.17 216.88 17.16 216.83 17.16 216.79 ZM15.78 226.44 C15.78 226.53 15.74 226.62 15.67
+								 226.69 C15.6 226.75 15.5 226.79 15.4 226.79 C15.29 226.79 15.2 226.75 15.13 226.69 C15.05 226.62
+								 15.01 226.53 15.01 226.44 C15.01 226.4 15.02 226.35 15.04 226.31 C15.06 226.27 15.09 226.23 15.13
+								 226.2 C15.16 226.17 15.2 226.14 15.25 226.12 C15.3 226.11 15.35 226.1 15.4 226.1 C15.45 226.1 15.5
+								 226.11 15.54 226.12 C15.59 226.14 15.63 226.17 15.67 226.2 C15.7 226.23 15.73 226.27 15.75 226.31
+								 C15.77 226.35 15.78 226.4 15.78 226.44 Z" class="st48"/>
+				</g>
+			</g>
+		</g>
+		<g id="group1282-442" transform="translate(350.319,-123.61)" v:mID="1282" v:groupContext="group">
+			<title>工作表.1282</title>
+			<g id="shape1147-443" v:mID="1147" v:groupContext="shape">
+				<title>工作表.1147</title>
+				<desc>Model free</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="218.441" width="70.87" height="33.277"/>
+				<rect x="0" y="201.802" width="70.8661" height="33.277" class="st4"/>
+				<text x="22.38" y="215.44" class="st32" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Model<v:newlineChar/><tspan
+							x="27.66" dy="1.2em" class="st10">free</tspan></text>			</g>
+			<g id="group1152-447" transform="translate(17.7623,-24.34)" v:mID="1152" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT4(True)"/>
+				</v:userDefs>
+				<title>Amazon Polly.1534</title>
+				<g id="shape1153-448" v:mID="1153" v:groupContext="shape">
+					<title>工作表.1153</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M35.34 201.14 L0 201.14 L0 235.08 L35.34 235.08 L35.34 201.14 Z" class="st25"/>
+				</g>
+				<g id="shape1154-450" v:mID="1154" v:groupContext="shape" transform="translate(5.90911,-11.0879)">
+					<title>工作表.1154</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M7.07 235.08 L0.47 235.08 C0.35 235.08 0.23 235.03 0.14 234.95 C0.05 234.86 0 234.75 0 234.63 L0 231.01
+								 L0.94 231.01 L0.94 234.17 L7.07 234.17 L7.07 235.08 Z" class="st49"/>
+				</g>
+				<g id="shape1155-452" v:mID="1155" v:groupContext="shape" transform="translate(5.90911,-17.4238)">
+					<title>工作表.1155</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M12.59 228.87 L7.87 224.35 C7.83 224.31 7.78 224.27 7.72 224.25 C7.66 224.23 7.6 224.22 7.54 224.22
+								 L0.47 224.22 C0.35 224.22 0.23 224.27 0.14 224.35 C0.05 224.44 0 224.55 0 224.67 L0 235.08 L0.94
+								 235.08 L0.94 225.12 L7.07 225.12 L7.07 229.2 C7.07 229.32 7.12 229.43 7.21 229.52 C7.29 229.6 7.41
+								 229.65 7.54 229.65 L11.78 229.65 L11.78 230.55 L12.72 230.55 L12.72 229.2 C12.72 229.14 12.71 229.08
+								 12.69 229.02 C12.66 228.97 12.63 228.92 12.59 228.87 ZM8.01 228.74 L8.01 225.76 L11.12 228.74 L8.01
+								 228.74 Z" class="st49"/>
+				</g>
+				<g id="shape1156-454" v:mID="1156" v:groupContext="shape" transform="translate(7.79399,-19.6867)">
+					<title>工作表.1156</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M3.77 234.17 L0 234.17 L0 235.08 L3.77 235.08 L3.77 234.17 Z" class="st49"/>
+				</g>
+				<g id="shape1157-456" v:mID="1157" v:groupContext="shape" transform="translate(13.557,-5.65605)">
+					<title>工作表.1157</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M15.28 235.08 C15.19 235.08 15.1 235.06 15.02 235.02 L11.08 233.13 C10.02 233.7 8.82 234.02 7.61 234.05
+								 C6.39 234.08 5.18 233.82 4.09 233.3 C3 232.78 2.05 232.02 1.34 231.07 C0.63 230.12 0.17 229.01 0
+								 227.86 L0.94 227.73 C1.09 228.77 1.51 229.75 2.15 230.59 C2.79 231.43 3.64 232.1 4.63 232.55 C5.61
+								 233 6.69 233.2 7.77 233.14 C8.86 233.09 9.91 232.77 10.84 232.23 C10.91 232.19 10.99 232.17 11.07
+								 232.17 C11.16 232.17 11.24 232.19 11.31 232.23 L14.53 233.77 L12.91 230.73 C12.87 230.66 12.85 230.59
+								 12.85 230.51 C12.85 230.43 12.87 230.35 12.91 230.28 C13.6 229.28 13.96 228.1 13.95 226.9 C13.96
+								 225.81 13.67 224.74 13.12 223.79 C12.57 222.85 11.77 222.05 10.8 221.49 C9.83 220.93 8.73 220.62
+								 7.6 220.59 C6.47 220.56 5.35 220.81 4.35 221.32 L3.91 220.52 C5.04 219.95 6.32 219.66 7.61 219.69
+								 C8.89 219.73 10.15 220.08 11.25 220.72 C12.36 221.35 13.27 222.25 13.91 223.33 C14.54 224.41 14.88
+								 225.62 14.88 226.86 C14.88 228.15 14.52 229.41 13.83 230.52 L15.8 234.23 C15.86 234.34 15.88 234.46
+								 15.86 234.58 C15.85 234.69 15.79 234.8 15.7 234.89 C15.65 234.95 15.58 234.99 15.51 235.03 C15.44
+								 235.06 15.36 235.08 15.28 235.08 Z" class="st49"/>
+				</g>
+				<g id="shape1158-458" v:mID="1158" v:groupContext="shape" transform="translate(20.0457,-11.993)">
+					<title>工作表.1158</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M0.94 231.46 L0 231.46 L0 235.08 L0.94 235.08 L0.94 231.46 Z" class="st49"/>
+				</g>
+				<g id="shape1159-460" v:mID="1159" v:groupContext="shape" transform="translate(21.4594,-11.5405)">
+					<title>工作表.1159</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M0.94 230.55 L0 230.55 L0 235.08 L0.94 235.08 L0.94 230.55 Z" class="st49"/>
+				</g>
+				<g id="shape1160-462" v:mID="1160" v:groupContext="shape" transform="translate(22.8731,-11.0879)">
+					<title>工作表.1160</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M0.94 229.65 L0 229.65 L0 235.08 L0.94 235.08 L0.94 229.65 Z" class="st49"/>
+				</g>
+				<g id="shape1161-464" v:mID="1161" v:groupContext="shape" transform="translate(24.2867,-11.993)">
+					<title>工作表.1161</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M0.94 231.91 L0 231.91 L0 235.08 L0.94 235.08 L0.94 231.91 Z" class="st49"/>
+				</g>
+				<g id="shape1162-466" v:mID="1162" v:groupContext="shape" transform="translate(17.2184,-11.993)">
+					<title>工作表.1162</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M0.94 231.46 L0 231.46 L0 235.08 L0.94 235.08 L0.94 231.46 Z" class="st49"/>
+				</g>
+				<g id="shape1163-468" v:mID="1163" v:groupContext="shape" transform="translate(7.79399,-17.4238)">
+					<title>工作表.1163</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M8.95 234.17 L0 234.17 L0 235.08 L8.95 235.08 L8.95 234.17 Z" class="st49"/>
+				</g>
+				<g id="shape1164-470" v:mID="1164" v:groupContext="shape" transform="translate(7.79399,-15.161)">
+					<title>工作表.1164</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M6.6 234.17 L0 234.17 L0 235.08 L6.6 235.08 L6.6 234.17 Z" class="st49"/>
+				</g>
+				<g id="shape1165-472" v:mID="1165" v:groupContext="shape" transform="translate(12.5062,-19.6867)">
+					<title>工作表.1165</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M1.88 234.17 L0 234.17 L0 235.08 L1.88 235.08 L1.88 234.17 Z" class="st49"/>
+				</g>
+				<g id="shape1166-474" v:mID="1166" v:groupContext="shape" transform="translate(18.6321,-12.8982)">
+					<title>工作表.1166</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M0.94 233.27 L0 233.27 L0 235.08 L0.94 235.08 L0.94 233.27 Z" class="st49"/>
+				</g>
+				<g id="shape1167-476" v:mID="1167" v:groupContext="shape" transform="translate(17.6896,-17.4691)">
+					<title>工作表.1167</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvDisableCustomConnectionPoints" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<path d="M2.83 234.22 L0 234.22 L0 235.08 L2.83 235.08 L2.83 234.22 Z" class="st49"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

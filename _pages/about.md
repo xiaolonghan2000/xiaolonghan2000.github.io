@@ -59,15 +59,12 @@ redirect_from:
         <p class="section-kicker">Selected Research</p>
         <h2>Featured Projects</h2>
       </div>
-      <p class="section-blurb">
-        A curated snapshot of the public projects in my local research workspace, each paired with one representative figure from the paper.
-      </p>
     </div>
 
     <div class="project-grid">
       <article class="project-card">
         <a class="project-visual" href="https://arxiv.org/abs/2603.10090">
-          <img src="{{ '/images/projects/wsl-survey.png' | relative_url }}" alt="Overview figure for the Weight Space Learning survey">
+          <img src="{{ '/images/projects/wsl-survey.svg' | relative_url }}" alt="Overview figure for the Weight Space Learning survey">
         </a>
         <div class="project-body">
           <div class="project-meta">
