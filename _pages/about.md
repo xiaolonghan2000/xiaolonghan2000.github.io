@@ -63,7 +63,7 @@ redirect_from:
 
     <div class="project-grid">
       <article class="project-card">
-        <a class="project-visual" href="https://arxiv.org/abs/2603.10090">
+        <a class="project-visual project-visual--wsl" href="https://arxiv.org/abs/2603.10090">
           <img src="{{ '/images/projects/wsl-survey.svg' | relative_url }}" alt="Overview figure for the Weight Space Learning survey">
         </a>
         <div class="project-body">
@@ -92,8 +92,8 @@ redirect_from:
       </article>
 
       <article class="project-card">
-        <a class="project-visual" href="https://arxiv.org/abs/2601.22327">
-          <img src="{{ '/images/projects/molfield.png' | relative_url }}" alt="Framework figure for MolField">
+        <a class="project-visual project-visual--molfield" href="https://arxiv.org/abs/2601.22327">
+          <img src="{{ '/images/projects/molfield.svg' | relative_url }}" alt="Framework figure for MolField">
         </a>
         <div class="project-body">
           <div class="project-meta">
@@ -120,8 +120,8 @@ redirect_from:
       </article>
 
       <article class="project-card">
-        <a class="project-visual" href="https://doi.org/10.1016/j.swevo.2024.101736">
-          <img src="{{ '/images/projects/sadenas.png' | relative_url }}" alt="Framework figure for SaDENAS">
+        <a class="project-visual project-visual--sadenas" href="https://doi.org/10.1016/j.swevo.2024.101736">
+          <img src="{{ '/images/projects/sadenas.svg' | relative_url }}" alt="Framework figure for SaDENAS">
         </a>
         <div class="project-body">
           <div class="project-meta">
@@ -147,8 +147,8 @@ redirect_from:
       </article>
 
       <article class="project-card">
-        <a class="project-visual" href="https://doi.org/10.1109/TNNLS.2024.3371432">
-          <img src="{{ '/images/projects/genas.png' | relative_url }}" alt="Representative framework figure for GENAS">
+        <a class="project-visual project-visual--genas" href="https://doi.org/10.1109/TNNLS.2024.3371432">
+          <img src="{{ '/images/projects/genas.svg' | relative_url }}" alt="Representative framework figure for GENAS">
         </a>
         <div class="project-body">
           <div class="project-meta">
@@ -174,8 +174,8 @@ redirect_from:
       </article>
 
       <article class="project-card">
-        <a class="project-visual" href="https://doi.org/10.1109/TII.2023.3348843">
-          <img src="{{ '/images/projects/swd-nas.png' | relative_url }}" alt="Framework figure for SWD-NAS">
+        <a class="project-visual project-visual--swd" href="https://doi.org/10.1109/TII.2023.3348843">
+          <img src="{{ '/images/projects/swd-nas.svg' | relative_url }}" alt="Framework figure for SWD-NAS">
         </a>
         <div class="project-body">
           <div class="project-meta">
