@@ -335,65 +335,108 @@
 }
 
 @media (max-width: 1023px) {
-  .sidebar,
-  .author__urls-wrapper {
+  .sidebar {
     position: relative;
-    z-index: 3000;
+    float: none !important;
+    width: 100% !important;
+    margin: 0 0 1.15rem !important;
+    padding: 0.95rem 1rem !important;
+    border: 1px solid rgba(47, 127, 147, 0.12);
+    border-radius: 18px;
+    background: #fff;
+    box-shadow: 0 10px 24px rgba(15, 35, 45, 0.05);
     overflow: visible;
+    z-index: auto;
   }
 
-  .sidebar > div[itemtype="http://schema.org/Person"] {
+  .sidebar > div[itemscope] {
     display: grid;
     grid-template-columns: 4.5rem minmax(0, 1fr) auto;
     gap: 0.75rem;
     align-items: center;
+    width: 100%;
   }
 
-  .author__avatar,
-  .author__content,
-  .author__urls-wrapper {
+  .sidebar > div[itemscope] > .author__avatar,
+  .sidebar > div[itemscope] > .author__content,
+  .sidebar > div[itemscope] > .author__urls-wrapper {
     display: block;
     width: auto;
   }
 
-  .author__avatar {
+  .sidebar > div[itemscope] > .author__avatar {
     margin: 0;
   }
 
-  .author__avatar img {
+  .sidebar > div[itemscope] > .author__avatar img {
+    display: block;
     max-width: 4.5rem;
+    height: auto;
+    padding: 0;
+    border: 1px solid rgba(47, 127, 147, 0.12);
   }
 
-  .author__content {
+  .sidebar > div[itemscope] > .author__content {
     padding: 0;
     min-width: 0;
   }
 
-  .author__name {
+  .sidebar .author__name {
     margin: 0 0 0.2rem;
   }
 
-  .author__bio {
+  .sidebar .author__bio {
     margin: 0;
     line-height: 1.35;
   }
 
-  .author__urls-wrapper {
+  .sidebar > div[itemscope] > .author__urls-wrapper {
+    position: relative;
     padding: 0;
     align-self: start;
+    z-index: 20;
   }
 
-  .author__urls {
+  .sidebar .author__urls {
     position: absolute;
     top: calc(100% + 0.5rem);
     right: 0;
     left: auto;
-    z-index: 3001 !important;
+    z-index: 40 !important;
     overflow: visible;
   }
 
   .page {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 !important;
     clear: both;
+    position: relative;
+    z-index: 1;
+  }
+}
+
+@media (max-width: 560px) {
+  .sidebar > div[itemscope] {
+    grid-template-columns: 4.5rem minmax(0, 1fr);
+    grid-template-areas:
+      "avatar content"
+      "avatar links";
+    align-items: start;
+  }
+
+  .sidebar > div[itemscope] > .author__avatar {
+    grid-area: avatar;
+  }
+
+  .sidebar > div[itemscope] > .author__content {
+    grid-area: content;
+  }
+
+  .sidebar > div[itemscope] > .author__urls-wrapper {
+    grid-area: links;
+    justify-self: start;
+    margin-top: 0.15rem;
   }
 }
 
