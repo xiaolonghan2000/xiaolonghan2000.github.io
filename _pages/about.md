@@ -7,7 +7,39 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  @media (max-width: 1023px) {
+    #main > .sidebar.sticky {
+      display: none;
+    }
+
+    #main > .page {
+      float: none !important;
+      width: 100% !important;
+      margin: 0 !important;
+    }
+  }
+</style>
+
 <div class="homepage-shell">
+  <section class="mobile-profile-card">
+    <div class="mobile-profile-card__header">
+      <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Portrait of Xiaolong Han" class="mobile-profile-card__avatar">
+      <div class="mobile-profile-card__body">
+        <h2>Xiaolong Han</h2>
+        <p class="mobile-profile-card__bio">Ph.D. student at the University of Surrey</p>
+        <p class="mobile-profile-card__meta">Guildford, Surrey, UK · University of Surrey</p>
+      </div>
+    </div>
+    <div class="mobile-profile-card__links">
+      <a href="mailto:xiaolong.han@surrey.ac.cn">Email</a>
+      <a href="https://scholar.google.com/citations?user=5oaBR_0AAAAJ">Scholar</a>
+      <a href="https://orcid.org/0009-0009-0276-7874">ORCID</a>
+      <a href="https://webofscience.clarivate.cn/wos/author/record/32992588">WoS</a>
+      <a href="https://github.com/xiaolonghan2000">GitHub</a>
+    </div>
+  </section>
+
   <section class="hero-panel">
     <p class="hero-kicker">Ph.D. Student in Computer Science</p>
     <h1>Xiaolong Han</h1>
@@ -67,7 +99,7 @@ redirect_from:
 
       <article class="project-card">
         <a class="project-visual project-visual--w2t" href="https://arxiv.org/abs/2603.15990">
-          <img src="{{ '/images/projects/w2t.svg' | relative_url }}" alt="Overview graphic for W2T">
+          <img src="{{ '/images/projects/w2t-framework.png' | relative_url }}" alt="Framework figure for W2T">
         </a>
         <div class="project-body">
           <div class="project-meta">
