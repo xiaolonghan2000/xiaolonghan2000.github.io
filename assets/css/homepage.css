@@ -81,14 +81,14 @@
   padding: 0.36rem 0.72rem;
   border: 1px solid rgba(47, 127, 147, 0.16);
   border-radius: 999px;
-  background: rgba(255, 255, 255, 0.82);
+  background: #fff;
   text-decoration: none;
   font-size: 0.92rem;
   font-weight: 600;
 }
 
 .hero-actions a:hover {
-  background: rgba(255, 255, 255, 0.96);
+  background: #fff;
   text-decoration: none;
 }
 
@@ -131,7 +131,7 @@
   padding: 1.05rem 1.15rem;
   border: 1px solid rgba(47, 127, 147, 0.12);
   border-radius: 18px;
-  background: rgba(255, 255, 255, 0.92);
+  background: #fff;
   box-shadow: 0 10px 24px rgba(15, 35, 45, 0.05);
 }
 
@@ -227,7 +227,7 @@
 .project-meta span {
   padding: 0.24rem 0.48rem;
   border-radius: 999px;
-  background: rgba(47, 127, 147, 0.08);
+  background: #fff;
   color: #1d5f70;
 }
 
@@ -266,14 +266,14 @@
   align-items: center;
   padding: 0.28rem 0.58rem;
   border-radius: 999px;
-  background: rgba(47, 127, 147, 0.1);
+  background: #fff;
   text-decoration: none;
   font-size: 0.9rem;
   font-weight: 600;
 }
 
 .project-links a:hover {
-  background: rgba(47, 127, 147, 0.16);
+  background: #fff;
   text-decoration: none;
 }
 
@@ -307,7 +307,7 @@
   justify-content: center;
   padding: 0.2rem 0.5rem;
   border-radius: 999px;
-  background: rgba(47, 127, 147, 0.1);
+  background: #fff;
   color: #1d5f70;
   font-size: 0.82rem;
   font-weight: 700;
