@@ -330,6 +330,23 @@
   border-radius: 999px;
 }
 
+@media (max-width: 1023px) {
+  .sidebar,
+  .author__urls-wrapper {
+    position: relative;
+    z-index: 3000;
+    overflow: visible;
+  }
+
+  .author__urls {
+    position: absolute;
+    right: 0;
+    left: auto;
+    z-index: 3001 !important;
+    overflow: visible;
+  }
+}
+
 body {
   background: #fff;
 }
