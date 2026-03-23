@@ -66,6 +66,30 @@ redirect_from:
       </article>
 
       <article class="project-card">
+        <a class="project-visual project-visual--w2t" href="https://arxiv.org/abs/2603.15990">
+          <img src="{{ '/images/projects/w2t.svg' | relative_url }}" alt="Overview graphic for W2T">
+        </a>
+        <div class="project-body">
+          <div class="project-meta">
+            <span>2026</span>
+            <span>arXiv</span>
+            <span>LoRA</span>
+          </div>
+          <h3>W2T: LoRA Weights Already Know What They Can Do</h3>
+          <p class="project-authors"><strong>Xiaolong Han</strong>, Ferrante Neri, Zijian Jiang, Fang Wu, Yanfang Ye, Lu Yin, Zehong Wang</p>
+          <p class="project-summary">
+            W2T asks whether LoRA checkpoints can be understood directly from their weights, without training data or base-model inference.
+            It resolves LoRA factorization ambiguity with a symmetry-aware QR-SVD canonicalization, then tokenizes rank-wise components with
+            a transformer encoder for attribute classification, performance prediction, adapter retrieval, and transfer across LoRA collections.
+          </p>
+          <p class="project-links">
+            <a href="https://arxiv.org/abs/2603.15990">Paper</a>
+            <a href="https://github.com/xiaolonghan2000/Weight2Token">Code</a>
+          </p>
+        </div>
+      </article>
+
+      <article class="project-card">
         <a class="project-visual project-visual--molfield" href="https://arxiv.org/abs/2601.22327">
           <img src="{{ '/images/projects/molfield.svg' | relative_url }}" alt="Framework figure for MolField">
         </a>

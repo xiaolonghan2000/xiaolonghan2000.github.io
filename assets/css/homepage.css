@@ -191,6 +191,10 @@
   --img-scale: 1;
 }
 
+.project-visual--w2t {
+  --img-scale: 1;
+}
+
 .project-visual--molfield {
   --img-scale: 1;
 }
