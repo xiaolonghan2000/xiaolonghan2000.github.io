@@ -338,12 +338,58 @@
     overflow: visible;
   }
 
+  .sidebar > div[itemtype="http://schema.org/Person"] {
+    display: grid;
+    grid-template-columns: 4.5rem minmax(0, 1fr) auto;
+    gap: 0.75rem;
+    align-items: center;
+  }
+
+  .author__avatar,
+  .author__content,
+  .author__urls-wrapper {
+    display: block;
+    width: auto;
+  }
+
+  .author__avatar {
+    margin: 0;
+  }
+
+  .author__avatar img {
+    max-width: 4.5rem;
+  }
+
+  .author__content {
+    padding: 0;
+    min-width: 0;
+  }
+
+  .author__name {
+    margin: 0 0 0.2rem;
+  }
+
+  .author__bio {
+    margin: 0;
+    line-height: 1.35;
+  }
+
+  .author__urls-wrapper {
+    padding: 0;
+    align-self: start;
+  }
+
   .author__urls {
     position: absolute;
+    top: calc(100% + 0.5rem);
     right: 0;
     left: auto;
     z-index: 3001 !important;
     overflow: visible;
+  }
+
+  .page {
+    clear: both;
   }
 }
 
